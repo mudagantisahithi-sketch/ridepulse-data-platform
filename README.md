@@ -53,4 +53,4 @@ Coming soon...
 
 ## Author
 
-Your Name
+Sahithi Mudaganti

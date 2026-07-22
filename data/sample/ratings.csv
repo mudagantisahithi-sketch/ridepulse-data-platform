@@ -1,0 +1,5001 @@
+rating_id,trip_id,customer_id,driver_id,rating,comment
+1,1,497,107,4,Good experience
+2,2,958,425,5,Could be better
+3,3,309,291,4,Great ride
+4,4,122,93,5,Driver was polite
+5,5,482,441,5,Very comfortable
+6,6,675,24,3,Great ride
+7,7,706,259,5,Great ride
+8,8,999,346,2,Driver was polite
+9,9,346,359,5,Good experience
+10,10,189,171,3,Driver was polite
+11,11,633,157,2,Great ride
+12,12,755,349,1,Good experience
+13,13,479,309,5,Average service
+14,14,256,41,3,Good experience
+15,15,693,310,1,Good experience
+16,16,998,259,1,Average service
+17,17,294,147,1,Very comfortable
+18,18,405,280,1,Could be better
+19,19,963,301,3,Good experience
+20,20,105,181,4,Good experience
+21,21,868,312,1,Great ride
+22,22,249,173,3,Very comfortable
+23,23,859,105,3,Average service
+24,24,855,270,5,Driver was polite
+25,25,710,224,3,Driver was polite
+26,26,706,439,4,Great ride
+27,27,779,361,5,Average service
+28,28,346,291,1,Driver was polite
+29,29,878,404,1,Could be better
+30,30,848,21,3,Very comfortable
+31,31,185,343,2,Very comfortable
+32,32,652,36,1,Driver was polite
+33,33,235,489,3,Driver was polite
+34,34,294,445,4,Very comfortable
+35,35,352,301,2,Good experience
+36,36,511,369,4,Average service
+37,37,817,222,2,Average service
+38,38,89,89,4,Driver was polite
+39,39,978,483,2,Good experience
+40,40,701,430,4,Average service
+41,41,152,308,1,Average service
+42,42,390,493,2,Great ride
+43,43,409,83,4,Average service
+44,44,415,295,4,Great ride
+45,45,139,126,5,Driver was polite
+46,46,335,145,1,Very comfortable
+47,47,26,281,1,Very comfortable
+48,48,961,372,2,Could be better
+49,49,314,278,2,Average service
+50,50,223,165,2,Driver was polite
+51,51,17,483,4,Good experience
+52,52,399,376,5,Average service
+53,53,782,79,3,Good experience
+54,54,416,411,3,Could be better
+55,55,633,229,4,Average service
+56,56,135,176,4,Very comfortable
+57,57,364,22,2,Very comfortable
+58,58,828,496,2,Great ride
+59,59,610,197,1,Driver was polite
+60,60,790,368,3,Great ride
+61,61,318,314,5,Driver was polite
+62,62,2,286,1,Average service
+63,63,155,122,3,Great ride
+64,64,469,270,5,Great ride
+65,65,503,355,5,Very comfortable
+66,66,265,490,2,Average service
+67,67,502,283,5,Good experience
+68,68,95,474,2,Average service
+69,69,806,268,1,Could be better
+70,70,476,395,3,Driver was polite
+71,71,2,433,2,Very comfortable
+72,72,411,123,1,Good experience
+73,73,372,405,1,Very comfortable
+74,74,934,277,5,Could be better
+75,75,291,154,4,Great ride
+76,76,555,479,3,Average service
+77,77,979,95,4,Average service
+78,78,144,207,5,Could be better
+79,79,383,165,2,Good experience
+80,80,45,455,5,Great ride
+81,81,611,11,1,Great ride
+82,82,69,81,4,Very comfortable
+83,83,457,229,1,Good experience
+84,84,864,6,1,Good experience
+85,85,749,188,4,Great ride
+86,86,104,433,5,Could be better
+87,87,761,424,5,Very comfortable
+88,88,282,223,3,Driver was polite
+89,89,285,168,5,Very comfortable
+90,90,499,159,2,Could be better
+91,91,657,203,4,Very comfortable
+92,92,460,480,1,Very comfortable
+93,93,116,394,3,Driver was polite
+94,94,132,327,1,Good experience
+95,95,768,478,5,Very comfortable
+96,96,859,299,2,Good experience
+97,97,513,335,4,Great ride
+98,98,654,19,2,Great ride
+99,99,189,425,2,Average service
+100,100,787,437,4,Great ride
+101,101,638,40,3,Average service
+102,102,476,204,3,Average service
+103,103,784,66,1,Good experience
+104,104,40,219,4,Average service
+105,105,316,447,5,Good experience
+106,106,697,73,5,Great ride
+107,107,904,139,4,Could be better
+108,108,845,427,5,Could be better
+109,109,866,284,4,Driver was polite
+110,110,674,387,2,Great ride
+111,111,735,4,3,Great ride
+112,112,796,456,4,Good experience
+113,113,775,91,5,Great ride
+114,114,163,24,4,Could be better
+115,115,805,318,5,Average service
+116,116,855,292,3,Could be better
+117,117,813,25,1,Great ride
+118,118,79,337,1,Could be better
+119,119,259,488,5,Could be better
+120,120,514,300,1,Driver was polite
+121,121,545,294,3,Good experience
+122,122,870,116,3,Average service
+123,123,554,393,2,Driver was polite
+124,124,596,6,2,Good experience
+125,125,404,343,4,Driver was polite
+126,126,118,441,2,Driver was polite
+127,127,709,14,2,Very comfortable
+128,128,709,232,4,Very comfortable
+129,129,708,180,1,Great ride
+130,130,110,359,3,Could be better
+131,131,568,381,4,Great ride
+132,132,29,419,3,Could be better
+133,133,348,435,2,Driver was polite
+134,134,604,363,5,Very comfortable
+135,135,894,449,4,Average service
+136,136,160,482,4,Good experience
+137,137,69,428,1,Could be better
+138,138,556,61,4,Very comfortable
+139,139,663,8,3,Could be better
+140,140,188,423,3,Good experience
+141,141,584,461,1,Very comfortable
+142,142,576,254,4,Average service
+143,143,629,479,5,Very comfortable
+144,144,550,377,5,Could be better
+145,145,505,406,5,Average service
+146,146,124,135,3,Driver was polite
+147,147,377,39,4,Driver was polite
+148,148,224,200,2,Driver was polite
+149,149,409,336,2,Average service
+150,150,765,425,1,Average service
+151,151,324,52,5,Could be better
+152,152,975,370,5,Driver was polite
+153,153,37,133,5,Very comfortable
+154,154,696,363,4,Could be better
+155,155,489,100,3,Good experience
+156,156,142,35,4,Great ride
+157,157,213,111,5,Great ride
+158,158,720,5,3,Average service
+159,159,236,83,1,Could be better
+160,160,89,97,4,Good experience
+161,161,729,387,4,Very comfortable
+162,162,154,189,1,Great ride
+163,163,3,162,2,Great ride
+164,164,700,428,5,Average service
+165,165,545,228,5,Good experience
+166,166,300,498,5,Average service
+167,167,928,317,5,Good experience
+168,168,495,489,3,Average service
+169,169,981,353,1,Good experience
+170,170,980,440,4,Could be better
+171,171,894,333,1,Good experience
+172,172,381,251,1,Good experience
+173,173,161,149,2,Average service
+174,174,966,294,1,Driver was polite
+175,175,739,347,2,Great ride
+176,176,646,286,4,Average service
+177,177,793,197,2,Very comfortable
+178,178,770,446,2,Great ride
+179,179,372,179,1,Driver was polite
+180,180,429,377,2,Driver was polite
+181,181,845,255,2,Driver was polite
+182,182,302,301,1,Great ride
+183,183,381,395,3,Average service
+184,184,977,90,1,Average service
+185,185,673,261,4,Could be better
+186,186,420,216,5,Average service
+187,187,670,234,5,Average service
+188,188,213,163,4,Driver was polite
+189,189,904,127,3,Driver was polite
+190,190,950,60,4,Great ride
+191,191,82,280,2,Very comfortable
+192,192,286,142,3,Great ride
+193,193,434,283,1,Average service
+194,194,618,321,5,Great ride
+195,195,963,207,5,Average service
+196,196,362,306,1,Great ride
+197,197,772,210,2,Very comfortable
+198,198,678,265,3,Very comfortable
+199,199,174,173,5,Driver was polite
+200,200,656,272,3,Driver was polite
+201,201,363,273,1,Driver was polite
+202,202,782,457,3,Average service
+203,203,342,39,3,Could be better
+204,204,908,147,5,Average service
+205,205,216,233,2,Great ride
+206,206,674,357,4,Driver was polite
+207,207,378,295,1,Could be better
+208,208,588,448,4,Driver was polite
+209,209,443,195,5,Average service
+210,210,160,286,5,Great ride
+211,211,460,387,3,Could be better
+212,212,878,445,3,Could be better
+213,213,973,261,3,Could be better
+214,214,362,462,1,Very comfortable
+215,215,15,161,2,Driver was polite
+216,216,583,170,2,Could be better
+217,217,7,454,4,Driver was polite
+218,218,448,162,2,Could be better
+219,219,582,472,5,Good experience
+220,220,582,333,5,Driver was polite
+221,221,554,294,4,Could be better
+222,222,89,223,2,Could be better
+223,223,547,50,4,Very comfortable
+224,224,137,157,1,Great ride
+225,225,1000,497,4,Could be better
+226,226,329,137,4,Driver was polite
+227,227,994,491,2,Good experience
+228,228,583,248,5,Great ride
+229,229,564,51,2,Good experience
+230,230,434,190,1,Driver was polite
+231,231,664,408,3,Good experience
+232,232,270,355,5,Good experience
+233,233,465,313,1,Good experience
+234,234,88,214,1,Good experience
+235,235,938,46,5,Driver was polite
+236,236,55,500,3,Good experience
+237,237,539,473,4,Very comfortable
+238,238,365,358,4,Great ride
+239,239,186,346,3,Very comfortable
+240,240,23,312,2,Very comfortable
+241,241,65,284,5,Driver was polite
+242,242,157,260,2,Driver was polite
+243,243,232,376,2,Could be better
+244,244,936,215,3,Very comfortable
+245,245,798,187,2,Average service
+246,246,796,320,4,Driver was polite
+247,247,371,353,2,Could be better
+248,248,561,358,2,Average service
+249,249,983,111,4,Driver was polite
+250,250,769,469,5,Very comfortable
+251,251,83,342,2,Average service
+252,252,307,484,1,Great ride
+253,253,721,65,1,Very comfortable
+254,254,334,109,5,Average service
+255,255,823,270,3,Great ride
+256,256,172,298,2,Good experience
+257,257,930,249,5,Driver was polite
+258,258,90,179,3,Very comfortable
+259,259,504,461,2,Great ride
+260,260,758,390,4,Average service
+261,261,771,106,3,Driver was polite
+262,262,83,499,5,Very comfortable
+263,263,8,464,1,Great ride
+264,264,345,208,4,Very comfortable
+265,265,631,90,2,Average service
+266,266,134,230,1,Average service
+267,267,216,419,3,Average service
+268,268,662,121,1,Driver was polite
+269,269,913,171,5,Average service
+270,270,433,492,2,Average service
+271,271,20,349,5,Could be better
+272,272,808,251,3,Driver was polite
+273,273,555,18,3,Good experience
+274,274,362,20,1,Could be better
+275,275,822,403,2,Good experience
+276,276,384,466,3,Good experience
+277,277,290,471,2,Great ride
+278,278,990,78,3,Very comfortable
+279,279,76,456,4,Great ride
+280,280,100,15,5,Great ride
+281,281,382,242,3,Could be better
+282,282,763,361,5,Good experience
+283,283,955,467,4,Could be better
+284,284,593,91,1,Very comfortable
+285,285,726,157,4,Good experience
+286,286,40,464,5,Good experience
+287,287,569,202,4,Great ride
+288,288,681,77,4,Could be better
+289,289,16,140,1,Very comfortable
+290,290,843,266,3,Could be better
+291,291,28,162,3,Great ride
+292,292,12,7,4,Could be better
+293,293,982,131,3,Driver was polite
+294,294,146,167,5,Great ride
+295,295,185,153,1,Average service
+296,296,510,467,5,Could be better
+297,297,715,165,4,Could be better
+298,298,308,174,1,Great ride
+299,299,72,374,4,Average service
+300,300,556,75,4,Driver was polite
+301,301,421,323,4,Driver was polite
+302,302,49,254,2,Average service
+303,303,244,212,2,Could be better
+304,304,185,467,5,Driver was polite
+305,305,439,263,2,Great ride
+306,306,565,362,2,Could be better
+307,307,599,408,3,Could be better
+308,308,567,370,1,Very comfortable
+309,309,447,106,4,Great ride
+310,310,616,277,2,Good experience
+311,311,569,254,1,Very comfortable
+312,312,433,360,3,Good experience
+313,313,57,369,2,Driver was polite
+314,314,881,58,3,Good experience
+315,315,720,361,2,Great ride
+316,316,854,207,1,Great ride
+317,317,550,199,2,Driver was polite
+318,318,583,317,2,Driver was polite
+319,319,317,347,3,Average service
+320,320,969,98,1,Driver was polite
+321,321,597,229,3,Could be better
+322,322,959,446,2,Great ride
+323,323,355,451,2,Average service
+324,324,869,416,1,Average service
+325,325,681,404,5,Great ride
+326,326,198,456,2,Driver was polite
+327,327,836,18,1,Great ride
+328,328,748,401,3,Could be better
+329,329,987,479,5,Driver was polite
+330,330,124,129,1,Good experience
+331,331,763,491,4,Good experience
+332,332,989,454,4,Driver was polite
+333,333,447,399,4,Average service
+334,334,774,6,3,Very comfortable
+335,335,730,498,2,Good experience
+336,336,941,101,4,Driver was polite
+337,337,671,462,5,Great ride
+338,338,405,240,1,Average service
+339,339,622,5,5,Average service
+340,340,589,279,2,Very comfortable
+341,341,391,445,3,Good experience
+342,342,55,485,3,Average service
+343,343,251,273,4,Great ride
+344,344,345,387,2,Average service
+345,345,451,500,4,Could be better
+346,346,257,373,5,Very comfortable
+347,347,694,404,4,Great ride
+348,348,473,28,2,Very comfortable
+349,349,873,375,5,Driver was polite
+350,350,753,195,4,Great ride
+351,351,273,223,4,Great ride
+352,352,342,474,5,Good experience
+353,353,672,182,2,Average service
+354,354,161,379,3,Good experience
+355,355,872,356,3,Could be better
+356,356,456,26,2,Driver was polite
+357,357,707,482,1,Could be better
+358,358,450,243,3,Average service
+359,359,514,67,4,Average service
+360,360,535,97,1,Driver was polite
+361,361,304,65,3,Could be better
+362,362,469,384,4,Driver was polite
+363,363,814,203,2,Great ride
+364,364,839,139,1,Good experience
+365,365,124,21,2,Great ride
+366,366,394,376,4,Average service
+367,367,249,399,5,Could be better
+368,368,163,486,2,Average service
+369,369,393,397,1,Driver was polite
+370,370,375,391,5,Great ride
+371,371,753,309,2,Driver was polite
+372,372,595,252,3,Great ride
+373,373,697,299,1,Good experience
+374,374,580,19,3,Good experience
+375,375,623,489,3,Good experience
+376,376,669,160,4,Very comfortable
+377,377,306,141,5,Driver was polite
+378,378,725,202,4,Could be better
+379,379,36,350,2,Could be better
+380,380,86,308,5,Very comfortable
+381,381,170,36,1,Average service
+382,382,686,310,5,Could be better
+383,383,400,226,1,Average service
+384,384,541,484,4,Great ride
+385,385,337,446,3,Great ride
+386,386,59,159,4,Driver was polite
+387,387,693,409,1,Could be better
+388,388,708,344,2,Could be better
+389,389,788,452,3,Very comfortable
+390,390,603,178,3,Great ride
+391,391,103,410,2,Very comfortable
+392,392,262,47,2,Great ride
+393,393,285,403,1,Could be better
+394,394,278,436,5,Average service
+395,395,50,104,4,Very comfortable
+396,396,859,296,2,Could be better
+397,397,527,42,1,Could be better
+398,398,962,445,3,Average service
+399,399,308,261,5,Good experience
+400,400,477,198,4,Very comfortable
+401,401,692,21,3,Very comfortable
+402,402,10,235,3,Good experience
+403,403,771,479,3,Driver was polite
+404,404,191,492,2,Good experience
+405,405,593,86,2,Driver was polite
+406,406,848,390,1,Great ride
+407,407,326,6,4,Great ride
+408,408,212,26,4,Driver was polite
+409,409,400,261,1,Great ride
+410,410,875,284,3,Good experience
+411,411,630,7,5,Average service
+412,412,503,78,4,Average service
+413,413,513,180,1,Could be better
+414,414,172,399,1,Average service
+415,415,919,213,1,Driver was polite
+416,416,374,490,3,Could be better
+417,417,927,65,1,Average service
+418,418,944,297,5,Average service
+419,419,679,345,5,Good experience
+420,420,584,318,1,Great ride
+421,421,455,108,2,Average service
+422,422,643,53,2,Average service
+423,423,659,153,2,Average service
+424,424,718,290,4,Driver was polite
+425,425,62,3,1,Driver was polite
+426,426,663,182,3,Good experience
+427,427,100,486,1,Could be better
+428,428,626,10,2,Driver was polite
+429,429,406,474,1,Average service
+430,430,671,282,3,Average service
+431,431,132,270,4,Driver was polite
+432,432,221,307,1,Great ride
+433,433,204,134,5,Very comfortable
+434,434,754,116,5,Driver was polite
+435,435,515,307,2,Average service
+436,436,194,379,3,Good experience
+437,437,505,448,1,Very comfortable
+438,438,342,462,5,Average service
+439,439,840,139,3,Average service
+440,440,380,227,1,Average service
+441,441,29,130,5,Very comfortable
+442,442,931,190,5,Great ride
+443,443,107,437,5,Driver was polite
+444,444,302,12,5,Average service
+445,445,242,386,1,Very comfortable
+446,446,486,190,5,Great ride
+447,447,76,330,2,Very comfortable
+448,448,282,172,1,Very comfortable
+449,449,638,301,1,Driver was polite
+450,450,29,11,3,Driver was polite
+451,451,354,192,3,Good experience
+452,452,461,402,2,Great ride
+453,453,726,234,1,Could be better
+454,454,139,473,1,Average service
+455,455,393,250,4,Driver was polite
+456,456,201,275,2,Very comfortable
+457,457,385,304,3,Good experience
+458,458,539,151,2,Could be better
+459,459,122,61,5,Driver was polite
+460,460,184,118,5,Average service
+461,461,60,22,4,Great ride
+462,462,710,168,3,Good experience
+463,463,449,347,1,Good experience
+464,464,278,124,4,Could be better
+465,465,426,355,5,Could be better
+466,466,407,146,5,Could be better
+467,467,72,36,4,Could be better
+468,468,661,377,4,Good experience
+469,469,932,494,1,Very comfortable
+470,470,833,170,4,Good experience
+471,471,116,83,5,Good experience
+472,472,747,112,5,Could be better
+473,473,665,33,4,Very comfortable
+474,474,240,102,3,Driver was polite
+475,475,545,205,2,Very comfortable
+476,476,595,310,4,Good experience
+477,477,584,259,5,Good experience
+478,478,312,430,1,Great ride
+479,479,908,258,5,Great ride
+480,480,736,50,4,Driver was polite
+481,481,232,170,2,Great ride
+482,482,477,429,1,Great ride
+483,483,528,99,4,Average service
+484,484,602,368,2,Very comfortable
+485,485,512,53,2,Driver was polite
+486,486,721,371,3,Could be better
+487,487,551,149,4,Great ride
+488,488,807,353,2,Driver was polite
+489,489,747,286,1,Could be better
+490,490,391,428,5,Average service
+491,491,637,371,3,Driver was polite
+492,492,729,37,4,Great ride
+493,493,647,493,4,Great ride
+494,494,597,406,4,Very comfortable
+495,495,560,285,1,Could be better
+496,496,801,246,5,Very comfortable
+497,497,513,317,2,Could be better
+498,498,489,332,5,Very comfortable
+499,499,449,181,4,Could be better
+500,500,42,170,4,Good experience
+501,501,799,133,1,Great ride
+502,502,961,116,2,Average service
+503,503,507,40,1,Great ride
+504,504,834,22,2,Driver was polite
+505,505,21,323,2,Very comfortable
+506,506,737,181,3,Good experience
+507,507,236,455,4,Average service
+508,508,700,227,3,Good experience
+509,509,20,46,5,Average service
+510,510,392,395,2,Great ride
+511,511,630,206,1,Very comfortable
+512,512,812,335,2,Average service
+513,513,604,483,3,Very comfortable
+514,514,770,171,5,Could be better
+515,515,556,65,4,Very comfortable
+516,516,912,154,2,Could be better
+517,517,539,71,4,Driver was polite
+518,518,643,344,5,Great ride
+519,519,282,98,1,Very comfortable
+520,520,6,52,1,Could be better
+521,521,740,55,3,Could be better
+522,522,382,336,4,Great ride
+523,523,258,255,3,Great ride
+524,524,733,41,2,Driver was polite
+525,525,648,61,1,Good experience
+526,526,410,162,4,Very comfortable
+527,527,184,486,4,Good experience
+528,528,898,320,5,Good experience
+529,529,616,96,3,Good experience
+530,530,826,156,4,Average service
+531,531,102,425,5,Could be better
+532,532,7,84,2,Driver was polite
+533,533,166,171,3,Great ride
+534,534,746,79,1,Driver was polite
+535,535,83,136,1,Very comfortable
+536,536,848,17,4,Driver was polite
+537,537,434,239,5,Average service
+538,538,575,471,2,Very comfortable
+539,539,713,234,2,Average service
+540,540,2,85,1,Could be better
+541,541,383,324,1,Very comfortable
+542,542,205,28,1,Driver was polite
+543,543,73,28,3,Could be better
+544,544,682,22,1,Average service
+545,545,701,255,4,Driver was polite
+546,546,3,48,3,Could be better
+547,547,48,500,5,Good experience
+548,548,668,152,2,Driver was polite
+549,549,404,86,3,Average service
+550,550,452,424,5,Average service
+551,551,749,74,5,Very comfortable
+552,552,990,51,4,Good experience
+553,553,650,481,5,Driver was polite
+554,554,141,230,5,Average service
+555,555,230,361,2,Could be better
+556,556,706,205,4,Could be better
+557,557,782,378,3,Driver was polite
+558,558,656,243,5,Great ride
+559,559,25,359,1,Very comfortable
+560,560,142,456,1,Good experience
+561,561,578,362,4,Very comfortable
+562,562,415,427,3,Could be better
+563,563,759,182,4,Good experience
+564,564,185,234,3,Driver was polite
+565,565,719,289,4,Good experience
+566,566,580,111,2,Driver was polite
+567,567,499,185,1,Average service
+568,568,484,402,4,Could be better
+569,569,783,10,3,Good experience
+570,570,129,250,2,Very comfortable
+571,571,107,195,3,Very comfortable
+572,572,21,8,4,Could be better
+573,573,49,219,1,Driver was polite
+574,574,844,368,4,Great ride
+575,575,208,408,3,Could be better
+576,576,643,470,3,Good experience
+577,577,563,176,2,Very comfortable
+578,578,984,268,3,Could be better
+579,579,671,57,2,Great ride
+580,580,723,218,5,Good experience
+581,581,158,462,1,Great ride
+582,582,979,208,4,Driver was polite
+583,583,558,296,2,Average service
+584,584,668,476,3,Very comfortable
+585,585,19,377,4,Great ride
+586,586,594,453,3,Good experience
+587,587,118,100,1,Very comfortable
+588,588,890,351,2,Could be better
+589,589,590,103,3,Good experience
+590,590,449,16,2,Average service
+591,591,258,448,2,Could be better
+592,592,245,354,3,Good experience
+593,593,354,209,4,Driver was polite
+594,594,116,226,1,Average service
+595,595,285,300,5,Driver was polite
+596,596,410,69,5,Could be better
+597,597,205,134,5,Driver was polite
+598,598,178,286,3,Average service
+599,599,452,408,1,Very comfortable
+600,600,265,394,5,Could be better
+601,601,72,444,4,Average service
+602,602,484,373,5,Good experience
+603,603,379,370,1,Good experience
+604,604,914,344,4,Great ride
+605,605,538,272,1,Good experience
+606,606,596,475,5,Good experience
+607,607,947,469,4,Good experience
+608,608,37,346,1,Average service
+609,609,941,113,3,Great ride
+610,610,908,232,5,Average service
+611,611,212,151,4,Great ride
+612,612,316,62,4,Driver was polite
+613,613,917,361,5,Average service
+614,614,103,146,3,Very comfortable
+615,615,186,246,1,Good experience
+616,616,42,349,5,Very comfortable
+617,617,374,368,3,Driver was polite
+618,618,594,25,3,Good experience
+619,619,452,247,3,Good experience
+620,620,228,116,1,Good experience
+621,621,193,150,3,Average service
+622,622,860,329,1,Great ride
+623,623,607,438,1,Could be better
+624,624,437,287,5,Great ride
+625,625,879,113,4,Could be better
+626,626,319,35,3,Could be better
+627,627,396,436,5,Very comfortable
+628,628,490,430,1,Average service
+629,629,689,241,1,Average service
+630,630,426,241,1,Could be better
+631,631,658,201,2,Driver was polite
+632,632,287,499,3,Could be better
+633,633,121,291,4,Good experience
+634,634,412,209,2,Good experience
+635,635,783,312,1,Driver was polite
+636,636,208,478,5,Driver was polite
+637,637,37,451,5,Very comfortable
+638,638,580,45,1,Could be better
+639,639,384,382,5,Could be better
+640,640,152,491,5,Driver was polite
+641,641,665,274,2,Could be better
+642,642,670,384,4,Driver was polite
+643,643,247,389,2,Good experience
+644,644,213,249,2,Very comfortable
+645,645,35,410,4,Driver was polite
+646,646,868,194,1,Good experience
+647,647,363,151,2,Good experience
+648,648,745,188,4,Good experience
+649,649,242,304,4,Great ride
+650,650,998,39,2,Driver was polite
+651,651,958,220,5,Good experience
+652,652,240,435,3,Good experience
+653,653,163,438,3,Could be better
+654,654,100,81,4,Very comfortable
+655,655,352,38,4,Very comfortable
+656,656,96,433,4,Average service
+657,657,579,402,2,Average service
+658,658,880,464,2,Very comfortable
+659,659,904,26,3,Good experience
+660,660,462,3,4,Great ride
+661,661,504,452,3,Very comfortable
+662,662,515,449,4,Could be better
+663,663,994,460,3,Very comfortable
+664,664,438,455,1,Driver was polite
+665,665,88,396,2,Driver was polite
+666,666,115,437,4,Very comfortable
+667,667,890,184,1,Could be better
+668,668,82,427,3,Good experience
+669,669,978,13,1,Average service
+670,670,980,471,5,Good experience
+671,671,755,124,5,Could be better
+672,672,131,246,5,Great ride
+673,673,508,110,5,Good experience
+674,674,861,58,3,Driver was polite
+675,675,382,494,5,Good experience
+676,676,292,326,4,Average service
+677,677,847,266,2,Driver was polite
+678,678,238,490,4,Driver was polite
+679,679,669,146,5,Good experience
+680,680,253,465,4,Very comfortable
+681,681,86,456,4,Average service
+682,682,124,81,1,Very comfortable
+683,683,329,283,5,Very comfortable
+684,684,137,376,5,Great ride
+685,685,830,427,5,Could be better
+686,686,577,238,3,Driver was polite
+687,687,539,348,1,Average service
+688,688,463,440,1,Good experience
+689,689,380,475,4,Average service
+690,690,771,244,1,Very comfortable
+691,691,431,42,5,Very comfortable
+692,692,892,362,5,Great ride
+693,693,552,111,1,Could be better
+694,694,745,24,3,Could be better
+695,695,341,45,2,Great ride
+696,696,288,381,4,Great ride
+697,697,195,401,4,Driver was polite
+698,698,560,289,1,Great ride
+699,699,374,126,4,Very comfortable
+700,700,935,457,3,Very comfortable
+701,701,467,35,1,Very comfortable
+702,702,65,266,1,Very comfortable
+703,703,132,232,4,Great ride
+704,704,377,238,3,Very comfortable
+705,705,45,236,5,Could be better
+706,706,513,181,1,Driver was polite
+707,707,314,63,5,Average service
+708,708,919,134,2,Good experience
+709,709,972,4,1,Driver was polite
+710,710,311,408,1,Could be better
+711,711,44,24,3,Very comfortable
+712,712,656,449,3,Driver was polite
+713,713,944,71,4,Average service
+714,714,571,192,4,Great ride
+715,715,489,261,2,Great ride
+716,716,947,275,1,Driver was polite
+717,717,735,253,5,Great ride
+718,718,880,299,3,Average service
+719,719,362,436,2,Average service
+720,720,79,254,1,Could be better
+721,721,564,427,5,Great ride
+722,722,777,147,5,Could be better
+723,723,227,282,4,Great ride
+724,724,491,132,2,Driver was polite
+725,725,194,160,3,Good experience
+726,726,372,76,1,Driver was polite
+727,727,175,376,2,Could be better
+728,728,661,95,3,Very comfortable
+729,729,150,449,4,Driver was polite
+730,730,417,31,1,Average service
+731,731,597,302,1,Very comfortable
+732,732,849,208,1,Very comfortable
+733,733,514,37,5,Could be better
+734,734,605,436,5,Could be better
+735,735,190,393,4,Very comfortable
+736,736,564,137,1,Could be better
+737,737,216,415,2,Great ride
+738,738,857,179,5,Average service
+739,739,67,243,3,Great ride
+740,740,459,460,5,Average service
+741,741,640,327,1,Great ride
+742,742,658,187,4,Good experience
+743,743,865,478,1,Driver was polite
+744,744,362,20,2,Very comfortable
+745,745,652,381,1,Driver was polite
+746,746,135,45,1,Great ride
+747,747,360,55,4,Great ride
+748,748,304,263,5,Good experience
+749,749,529,347,2,Good experience
+750,750,63,207,3,Average service
+751,751,692,75,2,Driver was polite
+752,752,557,178,2,Good experience
+753,753,171,318,3,Average service
+754,754,309,153,1,Good experience
+755,755,170,183,4,Driver was polite
+756,756,202,446,1,Average service
+757,757,829,173,3,Great ride
+758,758,440,171,2,Great ride
+759,759,63,34,3,Great ride
+760,760,61,165,3,Average service
+761,761,376,263,2,Could be better
+762,762,650,418,2,Very comfortable
+763,763,267,443,1,Good experience
+764,764,268,353,3,Very comfortable
+765,765,551,262,3,Average service
+766,766,618,319,2,Great ride
+767,767,158,448,1,Good experience
+768,768,340,412,4,Driver was polite
+769,769,541,20,3,Good experience
+770,770,250,99,1,Could be better
+771,771,391,130,1,Could be better
+772,772,538,313,3,Could be better
+773,773,899,486,3,Could be better
+774,774,817,167,2,Very comfortable
+775,775,544,437,4,Good experience
+776,776,68,255,4,Average service
+777,777,968,459,3,Good experience
+778,778,499,373,3,Very comfortable
+779,779,332,20,1,Average service
+780,780,971,356,5,Good experience
+781,781,620,71,5,Driver was polite
+782,782,327,283,1,Could be better
+783,783,619,377,1,Average service
+784,784,574,381,3,Driver was polite
+785,785,962,376,5,Could be better
+786,786,601,141,5,Very comfortable
+787,787,639,460,5,Could be better
+788,788,853,48,1,Good experience
+789,789,430,494,5,Very comfortable
+790,790,179,95,5,Good experience
+791,791,560,116,5,Could be better
+792,792,499,423,3,Driver was polite
+793,793,931,161,5,Could be better
+794,794,146,490,2,Very comfortable
+795,795,749,237,5,Could be better
+796,796,201,301,3,Average service
+797,797,384,461,2,Driver was polite
+798,798,102,474,3,Driver was polite
+799,799,410,403,4,Driver was polite
+800,800,381,476,3,Great ride
+801,801,294,58,3,Average service
+802,802,140,113,1,Very comfortable
+803,803,347,495,1,Great ride
+804,804,82,390,3,Very comfortable
+805,805,266,126,4,Could be better
+806,806,205,35,5,Average service
+807,807,169,136,1,Good experience
+808,808,178,322,2,Good experience
+809,809,763,13,4,Could be better
+810,810,964,339,2,Great ride
+811,811,155,152,4,Very comfortable
+812,812,782,269,1,Very comfortable
+813,813,931,395,4,Good experience
+814,814,175,429,4,Average service
+815,815,194,322,2,Average service
+816,816,235,78,3,Great ride
+817,817,661,134,1,Great ride
+818,818,800,349,4,Driver was polite
+819,819,248,12,2,Great ride
+820,820,530,34,5,Good experience
+821,821,484,56,3,Could be better
+822,822,814,74,5,Very comfortable
+823,823,197,371,2,Driver was polite
+824,824,985,205,2,Very comfortable
+825,825,971,292,1,Good experience
+826,826,673,415,3,Very comfortable
+827,827,433,228,1,Driver was polite
+828,828,804,253,5,Very comfortable
+829,829,565,441,4,Great ride
+830,830,455,320,3,Driver was polite
+831,831,746,178,4,Driver was polite
+832,832,807,473,5,Great ride
+833,833,435,267,4,Driver was polite
+834,834,557,366,1,Driver was polite
+835,835,260,230,1,Average service
+836,836,942,381,4,Average service
+837,837,504,296,5,Driver was polite
+838,838,917,304,4,Very comfortable
+839,839,840,244,1,Driver was polite
+840,840,94,4,3,Great ride
+841,841,423,317,5,Driver was polite
+842,842,205,400,5,Good experience
+843,843,344,133,4,Driver was polite
+844,844,754,306,4,Could be better
+845,845,707,280,4,Very comfortable
+846,846,570,155,3,Driver was polite
+847,847,753,40,2,Great ride
+848,848,959,155,4,Driver was polite
+849,849,609,213,1,Good experience
+850,850,276,404,1,Average service
+851,851,799,69,2,Driver was polite
+852,852,28,94,4,Driver was polite
+853,853,928,95,2,Very comfortable
+854,854,879,4,2,Very comfortable
+855,855,240,447,4,Average service
+856,856,236,413,2,Driver was polite
+857,857,446,216,2,Very comfortable
+858,858,510,182,5,Average service
+859,859,632,152,1,Very comfortable
+860,860,411,314,1,Could be better
+861,861,147,215,3,Good experience
+862,862,202,67,3,Average service
+863,863,220,381,3,Good experience
+864,864,162,378,3,Very comfortable
+865,865,818,96,2,Great ride
+866,866,286,311,5,Average service
+867,867,122,78,1,Good experience
+868,868,876,47,2,Could be better
+869,869,9,91,4,Great ride
+870,870,169,421,4,Average service
+871,871,345,120,2,Great ride
+872,872,841,65,4,Great ride
+873,873,434,324,4,Great ride
+874,874,124,235,3,Good experience
+875,875,845,281,4,Driver was polite
+876,876,46,87,1,Very comfortable
+877,877,751,172,3,Average service
+878,878,451,255,4,Could be better
+879,879,668,239,2,Average service
+880,880,50,355,1,Very comfortable
+881,881,648,416,3,Could be better
+882,882,727,369,2,Good experience
+883,883,338,282,2,Average service
+884,884,171,287,2,Average service
+885,885,854,496,5,Driver was polite
+886,886,649,130,4,Average service
+887,887,236,154,1,Average service
+888,888,742,119,3,Could be better
+889,889,37,380,2,Average service
+890,890,908,54,5,Very comfortable
+891,891,495,277,2,Average service
+892,892,246,96,2,Great ride
+893,893,784,320,2,Great ride
+894,894,202,314,2,Good experience
+895,895,61,374,4,Could be better
+896,896,366,334,5,Driver was polite
+897,897,60,379,4,Great ride
+898,898,794,188,3,Very comfortable
+899,899,253,23,4,Good experience
+900,900,451,189,4,Great ride
+901,901,637,63,4,Great ride
+902,902,865,252,2,Average service
+903,903,704,26,5,Average service
+904,904,682,468,1,Average service
+905,905,660,41,4,Great ride
+906,906,417,79,5,Great ride
+907,907,478,41,3,Could be better
+908,908,723,475,1,Could be better
+909,909,476,363,5,Great ride
+910,910,844,2,1,Very comfortable
+911,911,203,350,4,Average service
+912,912,855,408,4,Very comfortable
+913,913,989,210,3,Good experience
+914,914,814,432,3,Could be better
+915,915,672,485,5,Average service
+916,916,297,279,4,Average service
+917,917,981,340,5,Driver was polite
+918,918,345,155,2,Driver was polite
+919,919,163,86,5,Great ride
+920,920,37,151,2,Great ride
+921,921,338,209,4,Could be better
+922,922,972,447,5,Very comfortable
+923,923,965,182,4,Could be better
+924,924,90,29,1,Very comfortable
+925,925,271,12,3,Great ride
+926,926,596,367,4,Good experience
+927,927,57,154,5,Very comfortable
+928,928,491,313,4,Could be better
+929,929,462,255,1,Could be better
+930,930,440,129,5,Good experience
+931,931,241,126,3,Good experience
+932,932,130,173,1,Good experience
+933,933,39,39,5,Very comfortable
+934,934,455,146,5,Very comfortable
+935,935,810,267,4,Could be better
+936,936,868,367,5,Driver was polite
+937,937,585,119,3,Could be better
+938,938,602,114,1,Great ride
+939,939,351,179,4,Driver was polite
+940,940,855,281,4,Average service
+941,941,938,200,5,Average service
+942,942,250,172,3,Good experience
+943,943,162,42,2,Could be better
+944,944,886,295,2,Great ride
+945,945,821,491,3,Driver was polite
+946,946,778,300,3,Very comfortable
+947,947,980,468,5,Could be better
+948,948,92,36,3,Very comfortable
+949,949,39,123,2,Average service
+950,950,639,128,2,Average service
+951,951,97,440,2,Driver was polite
+952,952,100,393,5,Driver was polite
+953,953,248,463,1,Great ride
+954,954,995,16,2,Very comfortable
+955,955,36,45,2,Driver was polite
+956,956,412,74,4,Driver was polite
+957,957,545,272,2,Driver was polite
+958,958,29,356,2,Could be better
+959,959,125,265,4,Very comfortable
+960,960,405,415,1,Could be better
+961,961,418,433,5,Great ride
+962,962,339,438,1,Great ride
+963,963,673,269,1,Could be better
+964,964,146,444,2,Could be better
+965,965,160,343,4,Good experience
+966,966,92,59,3,Driver was polite
+967,967,23,36,1,Average service
+968,968,2,377,2,Average service
+969,969,236,433,2,Average service
+970,970,847,317,3,Very comfortable
+971,971,919,231,5,Very comfortable
+972,972,420,68,3,Average service
+973,973,245,254,2,Great ride
+974,974,223,439,1,Very comfortable
+975,975,357,295,3,Average service
+976,976,104,224,5,Average service
+977,977,845,195,2,Very comfortable
+978,978,165,249,2,Could be better
+979,979,80,441,3,Good experience
+980,980,192,78,4,Good experience
+981,981,872,446,4,Great ride
+982,982,183,201,3,Could be better
+983,983,597,444,1,Average service
+984,984,857,319,3,Great ride
+985,985,674,239,5,Could be better
+986,986,942,207,1,Great ride
+987,987,414,53,1,Very comfortable
+988,988,987,81,1,Great ride
+989,989,756,331,2,Good experience
+990,990,294,89,3,Very comfortable
+991,991,554,75,4,Average service
+992,992,289,49,5,Great ride
+993,993,408,122,2,Average service
+994,994,840,155,4,Could be better
+995,995,123,401,4,Average service
+996,996,973,245,5,Driver was polite
+997,997,267,179,4,Could be better
+998,998,185,370,3,Great ride
+999,999,76,164,3,Very comfortable
+1000,1000,596,339,1,Great ride
+1001,1001,845,232,2,Great ride
+1002,1002,548,128,1,Average service
+1003,1003,770,319,5,Very comfortable
+1004,1004,123,248,1,Good experience
+1005,1005,648,60,1,Could be better
+1006,1006,258,446,5,Driver was polite
+1007,1007,551,270,5,Average service
+1008,1008,983,383,4,Average service
+1009,1009,527,328,1,Average service
+1010,1010,697,199,1,Average service
+1011,1011,285,70,1,Good experience
+1012,1012,455,17,3,Great ride
+1013,1013,864,190,3,Could be better
+1014,1014,687,378,3,Good experience
+1015,1015,18,222,1,Great ride
+1016,1016,212,88,1,Very comfortable
+1017,1017,992,244,5,Good experience
+1018,1018,494,140,2,Average service
+1019,1019,969,374,4,Very comfortable
+1020,1020,673,381,3,Good experience
+1021,1021,75,19,1,Average service
+1022,1022,260,6,3,Good experience
+1023,1023,927,354,4,Good experience
+1024,1024,362,156,1,Could be better
+1025,1025,299,169,5,Could be better
+1026,1026,678,351,1,Average service
+1027,1027,16,254,2,Driver was polite
+1028,1028,844,498,5,Good experience
+1029,1029,566,209,3,Average service
+1030,1030,204,39,2,Very comfortable
+1031,1031,150,127,3,Average service
+1032,1032,868,335,4,Great ride
+1033,1033,803,289,5,Good experience
+1034,1034,822,381,2,Good experience
+1035,1035,230,476,3,Driver was polite
+1036,1036,879,310,5,Very comfortable
+1037,1037,297,295,5,Driver was polite
+1038,1038,284,44,4,Could be better
+1039,1039,38,306,1,Driver was polite
+1040,1040,42,254,4,Average service
+1041,1041,346,468,1,Could be better
+1042,1042,218,378,3,Good experience
+1043,1043,958,342,4,Average service
+1044,1044,34,204,1,Could be better
+1045,1045,531,496,5,Good experience
+1046,1046,990,481,5,Very comfortable
+1047,1047,95,1,1,Very comfortable
+1048,1048,84,291,4,Good experience
+1049,1049,963,147,2,Very comfortable
+1050,1050,394,220,5,Driver was polite
+1051,1051,541,93,1,Driver was polite
+1052,1052,364,312,3,Great ride
+1053,1053,870,46,1,Good experience
+1054,1054,902,115,3,Good experience
+1055,1055,544,381,1,Great ride
+1056,1056,472,20,3,Driver was polite
+1057,1057,795,420,3,Driver was polite
+1058,1058,543,384,5,Average service
+1059,1059,682,145,1,Driver was polite
+1060,1060,338,463,4,Driver was polite
+1061,1061,779,300,3,Good experience
+1062,1062,678,368,3,Good experience
+1063,1063,271,277,5,Great ride
+1064,1064,155,441,3,Very comfortable
+1065,1065,809,478,3,Average service
+1066,1066,511,433,1,Could be better
+1067,1067,254,185,1,Could be better
+1068,1068,174,269,4,Very comfortable
+1069,1069,215,471,3,Very comfortable
+1070,1070,629,143,2,Could be better
+1071,1071,224,102,2,Good experience
+1072,1072,304,458,1,Driver was polite
+1073,1073,761,179,2,Could be better
+1074,1074,878,11,2,Could be better
+1075,1075,316,133,3,Driver was polite
+1076,1076,371,256,3,Great ride
+1077,1077,774,113,3,Could be better
+1078,1078,513,76,4,Great ride
+1079,1079,795,225,3,Could be better
+1080,1080,438,259,5,Very comfortable
+1081,1081,683,389,1,Very comfortable
+1082,1082,190,349,1,Driver was polite
+1083,1083,944,437,2,Great ride
+1084,1084,522,209,4,Good experience
+1085,1085,26,475,1,Could be better
+1086,1086,934,123,1,Average service
+1087,1087,24,13,1,Good experience
+1088,1088,711,66,2,Could be better
+1089,1089,997,459,1,Good experience
+1090,1090,82,479,2,Very comfortable
+1091,1091,958,95,2,Could be better
+1092,1092,46,334,4,Good experience
+1093,1093,313,74,5,Could be better
+1094,1094,61,339,2,Average service
+1095,1095,68,343,5,Could be better
+1096,1096,375,310,3,Good experience
+1097,1097,707,254,1,Very comfortable
+1098,1098,808,27,5,Driver was polite
+1099,1099,401,36,5,Average service
+1100,1100,595,490,2,Could be better
+1101,1101,772,306,2,Great ride
+1102,1102,588,6,3,Average service
+1103,1103,103,92,2,Driver was polite
+1104,1104,987,57,1,Driver was polite
+1105,1105,606,176,1,Good experience
+1106,1106,713,331,4,Good experience
+1107,1107,350,285,5,Good experience
+1108,1108,241,341,5,Very comfortable
+1109,1109,295,362,5,Great ride
+1110,1110,604,264,3,Great ride
+1111,1111,248,370,2,Great ride
+1112,1112,162,34,3,Good experience
+1113,1113,389,328,1,Could be better
+1114,1114,800,298,4,Average service
+1115,1115,702,311,4,Average service
+1116,1116,639,263,2,Average service
+1117,1117,610,316,1,Driver was polite
+1118,1118,800,269,5,Could be better
+1119,1119,147,267,2,Average service
+1120,1120,596,191,1,Good experience
+1121,1121,788,279,2,Very comfortable
+1122,1122,544,469,1,Very comfortable
+1123,1123,455,48,4,Could be better
+1124,1124,168,324,1,Good experience
+1125,1125,1000,72,2,Very comfortable
+1126,1126,617,351,3,Very comfortable
+1127,1127,939,355,5,Average service
+1128,1128,708,181,4,Driver was polite
+1129,1129,260,408,5,Good experience
+1130,1130,45,447,3,Good experience
+1131,1131,273,341,5,Driver was polite
+1132,1132,658,316,2,Very comfortable
+1133,1133,919,13,1,Could be better
+1134,1134,444,140,2,Very comfortable
+1135,1135,814,208,4,Very comfortable
+1136,1136,888,66,3,Could be better
+1137,1137,137,96,4,Could be better
+1138,1138,858,398,5,Average service
+1139,1139,682,49,4,Very comfortable
+1140,1140,677,268,4,Could be better
+1141,1141,854,196,5,Could be better
+1142,1142,763,140,1,Could be better
+1143,1143,265,281,3,Very comfortable
+1144,1144,682,90,5,Driver was polite
+1145,1145,392,38,5,Very comfortable
+1146,1146,918,162,5,Great ride
+1147,1147,904,213,5,Very comfortable
+1148,1148,283,404,4,Average service
+1149,1149,874,48,2,Good experience
+1150,1150,79,37,3,Great ride
+1151,1151,501,17,5,Could be better
+1152,1152,228,237,4,Could be better
+1153,1153,763,316,1,Very comfortable
+1154,1154,11,206,5,Great ride
+1155,1155,200,40,2,Could be better
+1156,1156,243,437,4,Could be better
+1157,1157,302,319,4,Average service
+1158,1158,972,224,4,Very comfortable
+1159,1159,72,216,2,Driver was polite
+1160,1160,213,381,3,Average service
+1161,1161,293,8,4,Good experience
+1162,1162,322,362,1,Great ride
+1163,1163,222,147,1,Average service
+1164,1164,632,51,4,Great ride
+1165,1165,454,102,3,Average service
+1166,1166,618,110,5,Average service
+1167,1167,963,484,3,Great ride
+1168,1168,966,218,2,Great ride
+1169,1169,910,80,5,Average service
+1170,1170,582,361,5,Could be better
+1171,1171,224,258,4,Average service
+1172,1172,25,494,3,Very comfortable
+1173,1173,601,253,2,Driver was polite
+1174,1174,287,150,5,Very comfortable
+1175,1175,807,424,2,Great ride
+1176,1176,589,115,1,Could be better
+1177,1177,663,387,2,Average service
+1178,1178,701,1,5,Could be better
+1179,1179,124,400,4,Good experience
+1180,1180,832,397,3,Very comfortable
+1181,1181,34,160,2,Very comfortable
+1182,1182,312,472,3,Average service
+1183,1183,366,65,5,Great ride
+1184,1184,9,256,3,Average service
+1185,1185,879,37,5,Very comfortable
+1186,1186,437,398,5,Average service
+1187,1187,706,73,3,Very comfortable
+1188,1188,639,35,3,Very comfortable
+1189,1189,750,108,5,Driver was polite
+1190,1190,253,63,2,Very comfortable
+1191,1191,25,190,1,Average service
+1192,1192,539,396,2,Average service
+1193,1193,795,437,4,Could be better
+1194,1194,86,463,2,Average service
+1195,1195,529,112,5,Great ride
+1196,1196,63,152,3,Very comfortable
+1197,1197,397,139,3,Could be better
+1198,1198,503,388,1,Driver was polite
+1199,1199,269,272,4,Could be better
+1200,1200,727,200,3,Great ride
+1201,1201,26,387,1,Driver was polite
+1202,1202,511,170,2,Driver was polite
+1203,1203,851,68,4,Driver was polite
+1204,1204,962,418,5,Could be better
+1205,1205,188,306,1,Could be better
+1206,1206,981,244,1,Could be better
+1207,1207,357,346,3,Driver was polite
+1208,1208,361,206,1,Great ride
+1209,1209,526,207,2,Great ride
+1210,1210,85,143,1,Average service
+1211,1211,685,292,5,Good experience
+1212,1212,944,372,2,Average service
+1213,1213,525,388,2,Great ride
+1214,1214,171,392,1,Average service
+1215,1215,73,10,1,Average service
+1216,1216,773,66,3,Average service
+1217,1217,361,410,2,Great ride
+1218,1218,404,227,1,Great ride
+1219,1219,395,336,5,Driver was polite
+1220,1220,479,487,5,Good experience
+1221,1221,517,99,3,Great ride
+1222,1222,367,498,3,Driver was polite
+1223,1223,635,497,3,Great ride
+1224,1224,519,175,5,Could be better
+1225,1225,127,299,5,Good experience
+1226,1226,646,51,4,Very comfortable
+1227,1227,982,144,1,Great ride
+1228,1228,866,182,5,Could be better
+1229,1229,358,451,1,Great ride
+1230,1230,218,103,5,Average service
+1231,1231,103,117,5,Driver was polite
+1232,1232,461,29,3,Could be better
+1233,1233,590,61,1,Could be better
+1234,1234,595,269,2,Good experience
+1235,1235,143,7,2,Great ride
+1236,1236,231,148,4,Driver was polite
+1237,1237,738,322,5,Driver was polite
+1238,1238,241,456,2,Average service
+1239,1239,573,287,1,Great ride
+1240,1240,577,96,2,Very comfortable
+1241,1241,573,245,4,Driver was polite
+1242,1242,914,283,1,Very comfortable
+1243,1243,871,170,2,Great ride
+1244,1244,446,258,4,Could be better
+1245,1245,358,122,4,Driver was polite
+1246,1246,764,81,1,Great ride
+1247,1247,908,104,5,Could be better
+1248,1248,296,155,1,Driver was polite
+1249,1249,491,426,5,Very comfortable
+1250,1250,942,177,5,Average service
+1251,1251,659,386,3,Could be better
+1252,1252,588,13,4,Could be better
+1253,1253,314,457,3,Great ride
+1254,1254,365,310,5,Great ride
+1255,1255,522,101,2,Average service
+1256,1256,651,327,2,Very comfortable
+1257,1257,724,147,4,Good experience
+1258,1258,934,192,4,Very comfortable
+1259,1259,77,291,5,Good experience
+1260,1260,626,204,3,Average service
+1261,1261,404,472,4,Average service
+1262,1262,831,469,1,Good experience
+1263,1263,844,288,5,Good experience
+1264,1264,258,301,2,Very comfortable
+1265,1265,993,233,1,Great ride
+1266,1266,602,408,4,Great ride
+1267,1267,244,271,4,Great ride
+1268,1268,546,294,1,Driver was polite
+1269,1269,100,127,1,Good experience
+1270,1270,776,309,5,Very comfortable
+1271,1271,207,449,3,Could be better
+1272,1272,542,473,3,Great ride
+1273,1273,51,37,1,Very comfortable
+1274,1274,109,455,4,Very comfortable
+1275,1275,593,207,5,Good experience
+1276,1276,995,158,4,Good experience
+1277,1277,984,449,2,Driver was polite
+1278,1278,44,143,4,Good experience
+1279,1279,532,65,4,Average service
+1280,1280,256,38,3,Great ride
+1281,1281,690,317,5,Driver was polite
+1282,1282,907,400,5,Driver was polite
+1283,1283,535,70,4,Average service
+1284,1284,109,471,1,Great ride
+1285,1285,395,493,3,Could be better
+1286,1286,295,299,4,Driver was polite
+1287,1287,381,21,5,Could be better
+1288,1288,145,155,2,Great ride
+1289,1289,696,65,1,Great ride
+1290,1290,156,412,2,Driver was polite
+1291,1291,86,281,1,Could be better
+1292,1292,18,117,3,Great ride
+1293,1293,759,35,2,Could be better
+1294,1294,937,430,4,Driver was polite
+1295,1295,371,239,2,Average service
+1296,1296,158,142,3,Great ride
+1297,1297,414,51,4,Average service
+1298,1298,937,56,4,Average service
+1299,1299,644,357,4,Good experience
+1300,1300,300,178,5,Average service
+1301,1301,220,77,4,Very comfortable
+1302,1302,213,277,5,Very comfortable
+1303,1303,156,447,1,Could be better
+1304,1304,891,484,5,Good experience
+1305,1305,711,491,2,Very comfortable
+1306,1306,231,353,4,Good experience
+1307,1307,179,319,1,Average service
+1308,1308,536,5,3,Very comfortable
+1309,1309,891,462,3,Very comfortable
+1310,1310,851,433,4,Average service
+1311,1311,40,19,1,Could be better
+1312,1312,783,382,4,Great ride
+1313,1313,9,208,2,Very comfortable
+1314,1314,925,19,3,Very comfortable
+1315,1315,704,30,1,Very comfortable
+1316,1316,158,279,1,Good experience
+1317,1317,469,94,4,Driver was polite
+1318,1318,730,462,3,Could be better
+1319,1319,527,191,5,Average service
+1320,1320,173,323,2,Very comfortable
+1321,1321,119,104,4,Average service
+1322,1322,426,325,1,Average service
+1323,1323,145,73,4,Driver was polite
+1324,1324,497,145,3,Could be better
+1325,1325,31,127,5,Average service
+1326,1326,59,347,2,Average service
+1327,1327,830,186,4,Driver was polite
+1328,1328,766,211,4,Driver was polite
+1329,1329,208,437,1,Good experience
+1330,1330,741,209,4,Very comfortable
+1331,1331,960,495,1,Great ride
+1332,1332,223,445,4,Average service
+1333,1333,109,458,2,Good experience
+1334,1334,982,348,4,Could be better
+1335,1335,869,315,1,Driver was polite
+1336,1336,935,110,2,Could be better
+1337,1337,679,198,3,Very comfortable
+1338,1338,440,166,1,Good experience
+1339,1339,786,330,5,Great ride
+1340,1340,996,229,1,Driver was polite
+1341,1341,517,43,2,Average service
+1342,1342,322,111,2,Driver was polite
+1343,1343,981,430,4,Great ride
+1344,1344,704,423,3,Very comfortable
+1345,1345,539,126,3,Could be better
+1346,1346,298,29,4,Very comfortable
+1347,1347,719,448,3,Driver was polite
+1348,1348,314,40,3,Great ride
+1349,1349,236,357,4,Good experience
+1350,1350,310,114,3,Very comfortable
+1351,1351,777,202,1,Good experience
+1352,1352,638,63,1,Could be better
+1353,1353,221,290,2,Average service
+1354,1354,449,132,4,Good experience
+1355,1355,311,478,2,Great ride
+1356,1356,75,162,3,Average service
+1357,1357,755,430,5,Great ride
+1358,1358,224,329,2,Good experience
+1359,1359,145,63,1,Good experience
+1360,1360,405,73,3,Driver was polite
+1361,1361,846,224,5,Good experience
+1362,1362,263,311,2,Good experience
+1363,1363,924,198,3,Could be better
+1364,1364,711,443,3,Driver was polite
+1365,1365,906,177,1,Average service
+1366,1366,231,51,4,Driver was polite
+1367,1367,865,178,2,Could be better
+1368,1368,771,379,2,Very comfortable
+1369,1369,516,90,4,Great ride
+1370,1370,607,79,4,Average service
+1371,1371,304,410,4,Very comfortable
+1372,1372,863,2,3,Great ride
+1373,1373,426,135,2,Very comfortable
+1374,1374,152,223,3,Very comfortable
+1375,1375,462,146,3,Very comfortable
+1376,1376,412,2,2,Driver was polite
+1377,1377,221,458,5,Very comfortable
+1378,1378,99,309,4,Average service
+1379,1379,734,303,4,Great ride
+1380,1380,492,312,2,Could be better
+1381,1381,623,13,3,Great ride
+1382,1382,146,95,4,Could be better
+1383,1383,736,478,2,Driver was polite
+1384,1384,240,26,5,Good experience
+1385,1385,848,216,4,Great ride
+1386,1386,735,18,1,Driver was polite
+1387,1387,811,388,5,Great ride
+1388,1388,705,387,2,Driver was polite
+1389,1389,401,85,1,Average service
+1390,1390,8,70,4,Could be better
+1391,1391,965,156,3,Great ride
+1392,1392,472,427,5,Great ride
+1393,1393,270,489,5,Average service
+1394,1394,117,322,3,Driver was polite
+1395,1395,205,148,2,Good experience
+1396,1396,724,144,1,Driver was polite
+1397,1397,566,474,5,Great ride
+1398,1398,325,437,1,Driver was polite
+1399,1399,239,185,1,Could be better
+1400,1400,826,350,4,Good experience
+1401,1401,425,283,2,Average service
+1402,1402,446,219,3,Average service
+1403,1403,187,266,4,Could be better
+1404,1404,604,353,3,Could be better
+1405,1405,432,170,3,Very comfortable
+1406,1406,84,30,5,Could be better
+1407,1407,738,284,4,Great ride
+1408,1408,8,114,3,Great ride
+1409,1409,597,461,5,Good experience
+1410,1410,908,496,2,Very comfortable
+1411,1411,193,233,2,Average service
+1412,1412,241,388,4,Driver was polite
+1413,1413,85,40,3,Driver was polite
+1414,1414,198,216,1,Good experience
+1415,1415,291,110,3,Good experience
+1416,1416,483,24,3,Very comfortable
+1417,1417,418,134,5,Could be better
+1418,1418,974,133,4,Average service
+1419,1419,87,175,2,Driver was polite
+1420,1420,986,473,4,Very comfortable
+1421,1421,651,282,3,Average service
+1422,1422,105,163,2,Good experience
+1423,1423,319,250,3,Good experience
+1424,1424,344,3,2,Average service
+1425,1425,477,38,5,Very comfortable
+1426,1426,236,28,2,Could be better
+1427,1427,834,258,4,Could be better
+1428,1428,165,200,3,Great ride
+1429,1429,229,130,1,Average service
+1430,1430,93,320,1,Good experience
+1431,1431,997,318,1,Driver was polite
+1432,1432,336,173,4,Could be better
+1433,1433,933,53,4,Could be better
+1434,1434,316,208,2,Very comfortable
+1435,1435,828,80,4,Great ride
+1436,1436,168,491,1,Great ride
+1437,1437,411,298,1,Great ride
+1438,1438,549,366,1,Average service
+1439,1439,53,59,3,Very comfortable
+1440,1440,672,82,4,Driver was polite
+1441,1441,404,474,2,Driver was polite
+1442,1442,593,78,1,Average service
+1443,1443,807,161,1,Very comfortable
+1444,1444,516,154,5,Driver was polite
+1445,1445,133,242,2,Very comfortable
+1446,1446,615,67,5,Average service
+1447,1447,874,332,1,Driver was polite
+1448,1448,55,77,1,Driver was polite
+1449,1449,399,415,2,Driver was polite
+1450,1450,710,258,1,Good experience
+1451,1451,82,403,5,Average service
+1452,1452,1000,2,4,Could be better
+1453,1453,76,98,2,Good experience
+1454,1454,702,169,5,Average service
+1455,1455,979,136,2,Very comfortable
+1456,1456,766,128,2,Very comfortable
+1457,1457,953,408,4,Good experience
+1458,1458,609,389,3,Good experience
+1459,1459,533,486,4,Very comfortable
+1460,1460,568,480,1,Could be better
+1461,1461,325,432,1,Great ride
+1462,1462,174,339,4,Could be better
+1463,1463,969,418,3,Could be better
+1464,1464,479,79,5,Driver was polite
+1465,1465,802,430,4,Driver was polite
+1466,1466,806,286,5,Driver was polite
+1467,1467,927,130,4,Great ride
+1468,1468,198,179,5,Driver was polite
+1469,1469,927,212,5,Driver was polite
+1470,1470,91,195,1,Very comfortable
+1471,1471,4,217,3,Great ride
+1472,1472,291,244,4,Very comfortable
+1473,1473,41,142,5,Good experience
+1474,1474,755,279,5,Driver was polite
+1475,1475,623,188,1,Could be better
+1476,1476,902,344,4,Driver was polite
+1477,1477,930,99,4,Average service
+1478,1478,73,320,5,Average service
+1479,1479,625,104,4,Driver was polite
+1480,1480,874,213,4,Good experience
+1481,1481,275,411,1,Driver was polite
+1482,1482,565,2,2,Very comfortable
+1483,1483,943,136,5,Very comfortable
+1484,1484,951,197,1,Could be better
+1485,1485,102,78,3,Driver was polite
+1486,1486,907,288,4,Great ride
+1487,1487,510,356,5,Average service
+1488,1488,927,58,4,Great ride
+1489,1489,664,496,3,Driver was polite
+1490,1490,490,339,3,Very comfortable
+1491,1491,344,159,2,Average service
+1492,1492,35,161,2,Great ride
+1493,1493,580,240,4,Could be better
+1494,1494,998,310,5,Driver was polite
+1495,1495,652,475,5,Could be better
+1496,1496,36,320,3,Average service
+1497,1497,809,97,4,Very comfortable
+1498,1498,65,413,3,Very comfortable
+1499,1499,348,102,5,Very comfortable
+1500,1500,869,399,1,Very comfortable
+1501,1501,232,173,4,Good experience
+1502,1502,622,356,3,Very comfortable
+1503,1503,82,313,5,Could be better
+1504,1504,42,421,4,Average service
+1505,1505,65,453,1,Great ride
+1506,1506,982,397,3,Driver was polite
+1507,1507,357,127,4,Good experience
+1508,1508,990,246,5,Average service
+1509,1509,452,33,3,Very comfortable
+1510,1510,382,245,1,Could be better
+1511,1511,60,409,2,Great ride
+1512,1512,563,319,4,Could be better
+1513,1513,450,146,4,Could be better
+1514,1514,974,493,5,Average service
+1515,1515,876,180,5,Could be better
+1516,1516,416,195,5,Very comfortable
+1517,1517,452,459,4,Great ride
+1518,1518,966,320,3,Good experience
+1519,1519,509,392,3,Average service
+1520,1520,382,171,1,Great ride
+1521,1521,190,255,5,Average service
+1522,1522,566,371,5,Very comfortable
+1523,1523,80,35,5,Could be better
+1524,1524,955,356,3,Great ride
+1525,1525,873,165,2,Average service
+1526,1526,598,231,1,Could be better
+1527,1527,333,220,3,Great ride
+1528,1528,556,331,5,Good experience
+1529,1529,872,353,1,Good experience
+1530,1530,753,47,4,Could be better
+1531,1531,694,426,3,Average service
+1532,1532,640,170,3,Great ride
+1533,1533,298,361,1,Could be better
+1534,1534,510,83,1,Great ride
+1535,1535,639,44,2,Could be better
+1536,1536,433,410,4,Good experience
+1537,1537,196,56,5,Good experience
+1538,1538,103,157,4,Good experience
+1539,1539,364,344,1,Great ride
+1540,1540,300,449,3,Great ride
+1541,1541,539,455,5,Driver was polite
+1542,1542,378,340,5,Driver was polite
+1543,1543,67,416,1,Great ride
+1544,1544,267,408,3,Could be better
+1545,1545,736,249,4,Great ride
+1546,1546,959,423,3,Great ride
+1547,1547,20,312,3,Good experience
+1548,1548,981,102,2,Good experience
+1549,1549,803,150,5,Driver was polite
+1550,1550,675,476,4,Great ride
+1551,1551,929,311,2,Good experience
+1552,1552,725,246,2,Driver was polite
+1553,1553,6,440,1,Driver was polite
+1554,1554,511,425,1,Great ride
+1555,1555,385,262,1,Very comfortable
+1556,1556,706,196,3,Driver was polite
+1557,1557,335,146,5,Great ride
+1558,1558,74,310,2,Very comfortable
+1559,1559,63,212,2,Great ride
+1560,1560,584,370,4,Good experience
+1561,1561,373,350,5,Great ride
+1562,1562,277,420,1,Great ride
+1563,1563,178,211,2,Could be better
+1564,1564,495,301,2,Could be better
+1565,1565,257,237,2,Could be better
+1566,1566,999,375,3,Good experience
+1567,1567,666,284,3,Great ride
+1568,1568,933,107,2,Good experience
+1569,1569,131,277,2,Great ride
+1570,1570,146,147,3,Very comfortable
+1571,1571,329,142,4,Great ride
+1572,1572,45,111,3,Average service
+1573,1573,972,144,4,Average service
+1574,1574,835,167,5,Driver was polite
+1575,1575,764,443,5,Good experience
+1576,1576,949,225,5,Average service
+1577,1577,2,255,5,Driver was polite
+1578,1578,768,356,2,Very comfortable
+1579,1579,101,469,3,Driver was polite
+1580,1580,741,313,4,Great ride
+1581,1581,803,155,1,Very comfortable
+1582,1582,715,134,1,Driver was polite
+1583,1583,32,311,4,Average service
+1584,1584,102,160,5,Average service
+1585,1585,654,301,2,Could be better
+1586,1586,462,329,3,Great ride
+1587,1587,424,68,3,Driver was polite
+1588,1588,568,120,1,Very comfortable
+1589,1589,459,429,2,Good experience
+1590,1590,764,209,2,Average service
+1591,1591,26,328,4,Driver was polite
+1592,1592,934,65,4,Could be better
+1593,1593,705,263,3,Good experience
+1594,1594,610,420,2,Driver was polite
+1595,1595,204,453,4,Great ride
+1596,1596,721,456,2,Good experience
+1597,1597,950,440,1,Very comfortable
+1598,1598,774,124,4,Good experience
+1599,1599,643,480,2,Average service
+1600,1600,952,349,2,Very comfortable
+1601,1601,253,262,4,Average service
+1602,1602,667,15,1,Average service
+1603,1603,552,445,3,Great ride
+1604,1604,821,237,4,Could be better
+1605,1605,483,174,5,Great ride
+1606,1606,700,159,2,Driver was polite
+1607,1607,680,472,3,Average service
+1608,1608,177,238,5,Great ride
+1609,1609,696,406,1,Average service
+1610,1610,86,427,4,Driver was polite
+1611,1611,541,219,2,Driver was polite
+1612,1612,436,398,4,Could be better
+1613,1613,604,500,1,Average service
+1614,1614,622,183,4,Driver was polite
+1615,1615,967,118,5,Could be better
+1616,1616,990,78,3,Average service
+1617,1617,337,99,1,Average service
+1618,1618,66,61,2,Driver was polite
+1619,1619,736,328,2,Good experience
+1620,1620,896,234,1,Could be better
+1621,1621,462,3,4,Very comfortable
+1622,1622,429,270,2,Could be better
+1623,1623,525,40,1,Great ride
+1624,1624,990,179,1,Driver was polite
+1625,1625,255,245,5,Good experience
+1626,1626,460,117,5,Good experience
+1627,1627,822,97,5,Great ride
+1628,1628,122,242,2,Average service
+1629,1629,175,105,1,Great ride
+1630,1630,31,394,5,Very comfortable
+1631,1631,476,182,4,Very comfortable
+1632,1632,694,82,2,Good experience
+1633,1633,272,265,1,Driver was polite
+1634,1634,972,328,5,Could be better
+1635,1635,896,497,5,Average service
+1636,1636,558,125,5,Driver was polite
+1637,1637,404,130,3,Good experience
+1638,1638,337,351,2,Could be better
+1639,1639,109,437,1,Average service
+1640,1640,278,139,4,Good experience
+1641,1641,973,74,5,Great ride
+1642,1642,316,310,1,Driver was polite
+1643,1643,53,442,1,Average service
+1644,1644,26,279,5,Very comfortable
+1645,1645,160,158,2,Great ride
+1646,1646,162,55,5,Great ride
+1647,1647,195,176,4,Average service
+1648,1648,860,297,4,Good experience
+1649,1649,124,101,2,Average service
+1650,1650,934,456,2,Average service
+1651,1651,659,40,5,Could be better
+1652,1652,634,33,1,Could be better
+1653,1653,587,349,5,Driver was polite
+1654,1654,201,486,3,Great ride
+1655,1655,364,154,1,Average service
+1656,1656,640,185,2,Great ride
+1657,1657,447,186,1,Could be better
+1658,1658,553,82,4,Driver was polite
+1659,1659,669,56,4,Average service
+1660,1660,113,136,1,Good experience
+1661,1661,299,7,2,Driver was polite
+1662,1662,201,33,5,Could be better
+1663,1663,537,325,1,Driver was polite
+1664,1664,993,283,5,Very comfortable
+1665,1665,899,106,5,Very comfortable
+1666,1666,439,269,3,Great ride
+1667,1667,353,264,5,Very comfortable
+1668,1668,810,65,3,Driver was polite
+1669,1669,496,7,5,Good experience
+1670,1670,255,278,3,Driver was polite
+1671,1671,54,164,1,Average service
+1672,1672,295,243,1,Could be better
+1673,1673,909,161,3,Good experience
+1674,1674,758,261,1,Average service
+1675,1675,619,427,3,Good experience
+1676,1676,848,173,4,Good experience
+1677,1677,812,466,4,Average service
+1678,1678,815,474,3,Driver was polite
+1679,1679,522,449,4,Good experience
+1680,1680,705,43,3,Could be better
+1681,1681,400,397,2,Good experience
+1682,1682,90,370,4,Average service
+1683,1683,118,183,4,Driver was polite
+1684,1684,879,238,2,Average service
+1685,1685,495,422,1,Average service
+1686,1686,733,168,1,Great ride
+1687,1687,447,245,1,Very comfortable
+1688,1688,504,248,4,Could be better
+1689,1689,660,256,3,Great ride
+1690,1690,249,497,3,Driver was polite
+1691,1691,256,413,5,Could be better
+1692,1692,917,390,2,Good experience
+1693,1693,290,174,4,Driver was polite
+1694,1694,596,498,4,Driver was polite
+1695,1695,662,200,5,Average service
+1696,1696,173,301,4,Great ride
+1697,1697,542,130,5,Driver was polite
+1698,1698,664,308,1,Very comfortable
+1699,1699,561,306,1,Good experience
+1700,1700,979,201,5,Good experience
+1701,1701,594,416,1,Great ride
+1702,1702,503,440,5,Good experience
+1703,1703,795,100,5,Could be better
+1704,1704,284,218,3,Good experience
+1705,1705,942,465,3,Good experience
+1706,1706,624,479,1,Average service
+1707,1707,701,108,2,Could be better
+1708,1708,98,368,3,Average service
+1709,1709,748,435,2,Great ride
+1710,1710,287,240,5,Great ride
+1711,1711,148,238,2,Very comfortable
+1712,1712,781,439,2,Average service
+1713,1713,715,397,2,Very comfortable
+1714,1714,653,227,4,Driver was polite
+1715,1715,610,240,4,Driver was polite
+1716,1716,800,15,3,Could be better
+1717,1717,472,403,1,Good experience
+1718,1718,481,343,5,Good experience
+1719,1719,632,225,2,Could be better
+1720,1720,491,234,5,Great ride
+1721,1721,710,460,4,Very comfortable
+1722,1722,259,93,4,Very comfortable
+1723,1723,144,205,1,Could be better
+1724,1724,182,299,3,Could be better
+1725,1725,266,36,1,Average service
+1726,1726,736,388,4,Good experience
+1727,1727,930,18,5,Average service
+1728,1728,300,388,4,Good experience
+1729,1729,663,55,3,Great ride
+1730,1730,60,131,1,Great ride
+1731,1731,60,172,1,Driver was polite
+1732,1732,286,423,1,Average service
+1733,1733,883,265,4,Could be better
+1734,1734,560,55,2,Driver was polite
+1735,1735,798,227,1,Could be better
+1736,1736,18,10,2,Great ride
+1737,1737,541,141,5,Average service
+1738,1738,607,70,5,Great ride
+1739,1739,650,169,4,Could be better
+1740,1740,835,347,4,Very comfortable
+1741,1741,994,98,1,Average service
+1742,1742,249,88,2,Very comfortable
+1743,1743,24,163,4,Good experience
+1744,1744,217,478,1,Driver was polite
+1745,1745,683,368,1,Good experience
+1746,1746,402,394,5,Driver was polite
+1747,1747,930,398,1,Very comfortable
+1748,1748,69,304,1,Driver was polite
+1749,1749,310,500,5,Great ride
+1750,1750,896,139,2,Good experience
+1751,1751,920,141,4,Good experience
+1752,1752,812,307,5,Very comfortable
+1753,1753,512,411,3,Could be better
+1754,1754,412,71,3,Very comfortable
+1755,1755,430,22,3,Very comfortable
+1756,1756,716,217,5,Very comfortable
+1757,1757,744,369,5,Good experience
+1758,1758,723,136,1,Good experience
+1759,1759,349,346,4,Great ride
+1760,1760,366,212,2,Average service
+1761,1761,122,114,1,Average service
+1762,1762,394,482,4,Driver was polite
+1763,1763,331,220,3,Average service
+1764,1764,966,154,4,Great ride
+1765,1765,869,86,3,Great ride
+1766,1766,649,488,3,Good experience
+1767,1767,510,51,4,Average service
+1768,1768,235,355,5,Good experience
+1769,1769,997,251,3,Average service
+1770,1770,908,91,3,Great ride
+1771,1771,898,42,1,Driver was polite
+1772,1772,891,15,5,Very comfortable
+1773,1773,1000,213,4,Average service
+1774,1774,638,76,1,Good experience
+1775,1775,286,47,2,Average service
+1776,1776,793,145,3,Average service
+1777,1777,442,140,2,Driver was polite
+1778,1778,732,468,2,Driver was polite
+1779,1779,761,83,3,Very comfortable
+1780,1780,971,206,2,Average service
+1781,1781,229,460,5,Average service
+1782,1782,182,175,1,Very comfortable
+1783,1783,890,350,4,Driver was polite
+1784,1784,35,355,3,Great ride
+1785,1785,2,424,5,Great ride
+1786,1786,105,457,4,Very comfortable
+1787,1787,462,54,2,Average service
+1788,1788,202,82,4,Very comfortable
+1789,1789,408,233,2,Great ride
+1790,1790,210,489,4,Good experience
+1791,1791,951,228,3,Very comfortable
+1792,1792,617,195,4,Great ride
+1793,1793,235,116,2,Could be better
+1794,1794,558,496,1,Very comfortable
+1795,1795,771,381,2,Good experience
+1796,1796,362,75,4,Average service
+1797,1797,239,4,4,Could be better
+1798,1798,320,348,5,Driver was polite
+1799,1799,890,234,2,Driver was polite
+1800,1800,146,420,2,Very comfortable
+1801,1801,386,186,2,Very comfortable
+1802,1802,373,451,3,Could be better
+1803,1803,960,470,4,Average service
+1804,1804,166,65,1,Could be better
+1805,1805,441,338,3,Driver was polite
+1806,1806,102,431,5,Could be better
+1807,1807,646,351,4,Average service
+1808,1808,74,401,4,Very comfortable
+1809,1809,493,439,5,Good experience
+1810,1810,999,478,5,Average service
+1811,1811,433,357,4,Very comfortable
+1812,1812,594,79,3,Very comfortable
+1813,1813,789,83,1,Good experience
+1814,1814,264,452,4,Driver was polite
+1815,1815,149,196,2,Good experience
+1816,1816,689,454,3,Great ride
+1817,1817,110,13,1,Very comfortable
+1818,1818,773,111,4,Driver was polite
+1819,1819,646,453,2,Driver was polite
+1820,1820,760,224,5,Good experience
+1821,1821,282,351,3,Very comfortable
+1822,1822,740,216,3,Great ride
+1823,1823,902,489,1,Good experience
+1824,1824,79,364,1,Driver was polite
+1825,1825,684,194,4,Very comfortable
+1826,1826,74,51,5,Good experience
+1827,1827,186,42,4,Average service
+1828,1828,229,333,2,Driver was polite
+1829,1829,80,479,1,Driver was polite
+1830,1830,897,458,1,Average service
+1831,1831,600,436,5,Driver was polite
+1832,1832,711,121,3,Very comfortable
+1833,1833,802,200,1,Good experience
+1834,1834,393,460,5,Driver was polite
+1835,1835,537,416,2,Driver was polite
+1836,1836,918,121,1,Average service
+1837,1837,423,310,3,Average service
+1838,1838,631,176,1,Great ride
+1839,1839,925,139,1,Great ride
+1840,1840,886,447,3,Great ride
+1841,1841,546,437,5,Good experience
+1842,1842,272,338,5,Could be better
+1843,1843,216,215,1,Average service
+1844,1844,372,255,1,Driver was polite
+1845,1845,39,443,4,Very comfortable
+1846,1846,434,260,3,Could be better
+1847,1847,131,140,2,Very comfortable
+1848,1848,152,308,1,Great ride
+1849,1849,383,85,2,Average service
+1850,1850,704,433,1,Very comfortable
+1851,1851,728,144,1,Could be better
+1852,1852,156,194,3,Driver was polite
+1853,1853,109,77,3,Very comfortable
+1854,1854,955,345,2,Great ride
+1855,1855,529,14,1,Average service
+1856,1856,68,471,3,Average service
+1857,1857,357,101,1,Driver was polite
+1858,1858,135,174,3,Very comfortable
+1859,1859,704,219,3,Good experience
+1860,1860,773,233,2,Great ride
+1861,1861,425,2,5,Great ride
+1862,1862,116,271,3,Average service
+1863,1863,134,458,5,Very comfortable
+1864,1864,808,198,5,Average service
+1865,1865,1000,330,2,Could be better
+1866,1866,143,40,2,Average service
+1867,1867,416,256,1,Good experience
+1868,1868,83,475,5,Good experience
+1869,1869,401,363,5,Driver was polite
+1870,1870,265,447,1,Average service
+1871,1871,976,440,1,Good experience
+1872,1872,354,168,1,Driver was polite
+1873,1873,623,140,1,Could be better
+1874,1874,793,478,1,Average service
+1875,1875,850,280,5,Average service
+1876,1876,37,185,4,Could be better
+1877,1877,753,229,1,Great ride
+1878,1878,853,80,1,Average service
+1879,1879,163,348,3,Driver was polite
+1880,1880,531,73,1,Great ride
+1881,1881,249,27,5,Great ride
+1882,1882,86,371,1,Could be better
+1883,1883,25,235,5,Driver was polite
+1884,1884,546,404,3,Could be better
+1885,1885,13,35,1,Driver was polite
+1886,1886,852,14,1,Great ride
+1887,1887,954,98,3,Could be better
+1888,1888,806,160,4,Very comfortable
+1889,1889,165,125,4,Great ride
+1890,1890,7,362,3,Could be better
+1891,1891,17,142,3,Very comfortable
+1892,1892,631,99,5,Very comfortable
+1893,1893,179,16,1,Good experience
+1894,1894,154,393,3,Great ride
+1895,1895,822,403,1,Driver was polite
+1896,1896,755,41,4,Average service
+1897,1897,420,282,5,Average service
+1898,1898,275,139,4,Very comfortable
+1899,1899,141,203,5,Could be better
+1900,1900,482,442,5,Great ride
+1901,1901,997,201,1,Good experience
+1902,1902,93,36,1,Good experience
+1903,1903,162,83,2,Driver was polite
+1904,1904,285,317,4,Very comfortable
+1905,1905,170,478,5,Could be better
+1906,1906,39,398,2,Great ride
+1907,1907,530,287,4,Average service
+1908,1908,540,46,5,Very comfortable
+1909,1909,589,243,3,Very comfortable
+1910,1910,902,429,4,Driver was polite
+1911,1911,627,421,5,Could be better
+1912,1912,540,316,2,Very comfortable
+1913,1913,192,24,5,Driver was polite
+1914,1914,97,32,5,Average service
+1915,1915,523,219,1,Great ride
+1916,1916,926,198,3,Driver was polite
+1917,1917,517,489,3,Good experience
+1918,1918,479,212,4,Good experience
+1919,1919,92,473,3,Could be better
+1920,1920,82,243,5,Good experience
+1921,1921,296,486,1,Very comfortable
+1922,1922,498,467,2,Could be better
+1923,1923,861,333,4,Average service
+1924,1924,261,286,4,Average service
+1925,1925,199,101,5,Driver was polite
+1926,1926,821,52,5,Driver was polite
+1927,1927,713,421,4,Driver was polite
+1928,1928,275,237,3,Very comfortable
+1929,1929,364,139,3,Great ride
+1930,1930,362,28,1,Good experience
+1931,1931,996,441,4,Great ride
+1932,1932,88,441,3,Very comfortable
+1933,1933,44,176,4,Good experience
+1934,1934,83,230,2,Good experience
+1935,1935,510,185,3,Very comfortable
+1936,1936,285,436,2,Very comfortable
+1937,1937,108,151,1,Average service
+1938,1938,523,259,4,Driver was polite
+1939,1939,957,238,4,Average service
+1940,1940,531,293,1,Very comfortable
+1941,1941,97,401,3,Average service
+1942,1942,81,295,1,Driver was polite
+1943,1943,963,262,3,Average service
+1944,1944,2,327,1,Great ride
+1945,1945,451,207,2,Great ride
+1946,1946,433,262,1,Average service
+1947,1947,583,207,1,Driver was polite
+1948,1948,253,492,3,Could be better
+1949,1949,405,265,2,Average service
+1950,1950,512,6,2,Driver was polite
+1951,1951,872,317,3,Very comfortable
+1952,1952,704,37,1,Very comfortable
+1953,1953,919,137,1,Could be better
+1954,1954,527,329,5,Average service
+1955,1955,547,335,5,Average service
+1956,1956,401,343,4,Great ride
+1957,1957,299,54,1,Great ride
+1958,1958,940,427,1,Could be better
+1959,1959,86,47,4,Great ride
+1960,1960,952,426,3,Great ride
+1961,1961,689,115,3,Good experience
+1962,1962,628,215,4,Great ride
+1963,1963,451,405,1,Good experience
+1964,1964,557,49,4,Great ride
+1965,1965,912,467,1,Good experience
+1966,1966,109,207,4,Driver was polite
+1967,1967,400,404,2,Very comfortable
+1968,1968,333,113,3,Great ride
+1969,1969,149,209,4,Great ride
+1970,1970,606,16,4,Very comfortable
+1971,1971,696,68,4,Could be better
+1972,1972,722,143,2,Could be better
+1973,1973,181,411,5,Very comfortable
+1974,1974,616,469,2,Could be better
+1975,1975,438,65,1,Good experience
+1976,1976,522,33,1,Good experience
+1977,1977,751,181,3,Driver was polite
+1978,1978,867,485,5,Could be better
+1979,1979,576,127,1,Driver was polite
+1980,1980,762,346,4,Good experience
+1981,1981,8,489,5,Average service
+1982,1982,581,139,5,Great ride
+1983,1983,670,105,1,Driver was polite
+1984,1984,676,22,5,Average service
+1985,1985,562,216,1,Good experience
+1986,1986,60,320,3,Good experience
+1987,1987,810,97,3,Very comfortable
+1988,1988,953,147,5,Driver was polite
+1989,1989,103,2,5,Very comfortable
+1990,1990,616,73,3,Great ride
+1991,1991,438,177,5,Average service
+1992,1992,455,19,1,Could be better
+1993,1993,509,163,2,Good experience
+1994,1994,1,233,4,Good experience
+1995,1995,71,243,2,Good experience
+1996,1996,189,402,5,Driver was polite
+1997,1997,592,470,3,Great ride
+1998,1998,701,166,5,Good experience
+1999,1999,234,161,5,Could be better
+2000,2000,243,475,1,Driver was polite
+2001,2001,959,440,3,Good experience
+2002,2002,371,407,4,Good experience
+2003,2003,203,300,1,Great ride
+2004,2004,48,498,5,Could be better
+2005,2005,582,187,5,Very comfortable
+2006,2006,862,266,2,Great ride
+2007,2007,382,231,5,Great ride
+2008,2008,247,476,3,Very comfortable
+2009,2009,514,166,3,Average service
+2010,2010,186,438,3,Good experience
+2011,2011,652,466,1,Good experience
+2012,2012,984,58,5,Could be better
+2013,2013,926,243,3,Driver was polite
+2014,2014,694,131,5,Driver was polite
+2015,2015,191,472,3,Average service
+2016,2016,538,258,5,Average service
+2017,2017,117,166,3,Great ride
+2018,2018,410,118,2,Great ride
+2019,2019,737,324,5,Driver was polite
+2020,2020,276,328,4,Great ride
+2021,2021,974,375,1,Good experience
+2022,2022,401,340,3,Driver was polite
+2023,2023,481,484,2,Could be better
+2024,2024,400,161,1,Average service
+2025,2025,957,120,1,Very comfortable
+2026,2026,564,231,2,Could be better
+2027,2027,390,103,3,Good experience
+2028,2028,445,457,5,Average service
+2029,2029,913,366,5,Average service
+2030,2030,463,431,1,Could be better
+2031,2031,604,233,5,Could be better
+2032,2032,951,349,2,Good experience
+2033,2033,539,382,1,Could be better
+2034,2034,770,411,5,Good experience
+2035,2035,481,298,1,Great ride
+2036,2036,705,217,4,Good experience
+2037,2037,261,111,4,Could be better
+2038,2038,401,334,5,Good experience
+2039,2039,993,392,3,Very comfortable
+2040,2040,434,11,4,Good experience
+2041,2041,825,318,3,Driver was polite
+2042,2042,538,91,4,Average service
+2043,2043,524,344,1,Very comfortable
+2044,2044,181,257,1,Very comfortable
+2045,2045,590,445,4,Great ride
+2046,2046,734,113,5,Good experience
+2047,2047,318,241,2,Driver was polite
+2048,2048,877,496,4,Very comfortable
+2049,2049,348,162,5,Great ride
+2050,2050,955,244,2,Average service
+2051,2051,947,171,5,Could be better
+2052,2052,62,298,1,Very comfortable
+2053,2053,832,101,5,Good experience
+2054,2054,606,289,1,Average service
+2055,2055,856,386,4,Could be better
+2056,2056,856,54,4,Average service
+2057,2057,358,431,3,Very comfortable
+2058,2058,522,267,2,Driver was polite
+2059,2059,669,255,2,Great ride
+2060,2060,616,277,3,Great ride
+2061,2061,132,293,5,Average service
+2062,2062,738,258,5,Could be better
+2063,2063,678,363,5,Good experience
+2064,2064,190,420,3,Very comfortable
+2065,2065,478,338,3,Good experience
+2066,2066,437,347,5,Good experience
+2067,2067,645,487,2,Good experience
+2068,2068,320,474,4,Very comfortable
+2069,2069,761,430,3,Driver was polite
+2070,2070,948,259,4,Good experience
+2071,2071,259,9,5,Good experience
+2072,2072,355,342,5,Very comfortable
+2073,2073,842,424,1,Driver was polite
+2074,2074,833,219,3,Average service
+2075,2075,882,7,5,Average service
+2076,2076,158,25,2,Average service
+2077,2077,899,53,3,Great ride
+2078,2078,565,390,3,Could be better
+2079,2079,331,363,5,Could be better
+2080,2080,312,105,3,Driver was polite
+2081,2081,985,17,4,Great ride
+2082,2082,264,484,3,Good experience
+2083,2083,927,484,2,Great ride
+2084,2084,889,138,1,Great ride
+2085,2085,357,209,1,Very comfortable
+2086,2086,872,159,3,Average service
+2087,2087,90,123,4,Very comfortable
+2088,2088,403,459,5,Good experience
+2089,2089,352,41,2,Very comfortable
+2090,2090,93,402,5,Very comfortable
+2091,2091,58,492,4,Great ride
+2092,2092,142,166,2,Great ride
+2093,2093,312,198,4,Driver was polite
+2094,2094,992,298,2,Very comfortable
+2095,2095,518,120,3,Good experience
+2096,2096,504,84,4,Good experience
+2097,2097,598,475,2,Very comfortable
+2098,2098,397,56,4,Great ride
+2099,2099,921,37,2,Great ride
+2100,2100,765,248,4,Great ride
+2101,2101,872,485,1,Great ride
+2102,2102,755,345,4,Very comfortable
+2103,2103,74,102,5,Good experience
+2104,2104,803,329,3,Could be better
+2105,2105,603,432,2,Very comfortable
+2106,2106,224,147,5,Very comfortable
+2107,2107,946,377,3,Could be better
+2108,2108,160,398,5,Driver was polite
+2109,2109,795,99,4,Driver was polite
+2110,2110,439,458,4,Average service
+2111,2111,436,218,5,Driver was polite
+2112,2112,874,88,4,Could be better
+2113,2113,801,50,2,Driver was polite
+2114,2114,137,74,3,Great ride
+2115,2115,867,443,4,Great ride
+2116,2116,127,182,4,Good experience
+2117,2117,644,412,1,Good experience
+2118,2118,143,165,5,Could be better
+2119,2119,577,66,3,Could be better
+2120,2120,913,160,4,Driver was polite
+2121,2121,715,330,1,Driver was polite
+2122,2122,372,21,1,Very comfortable
+2123,2123,111,398,5,Driver was polite
+2124,2124,652,213,2,Could be better
+2125,2125,580,386,3,Could be better
+2126,2126,518,152,3,Very comfortable
+2127,2127,626,468,5,Great ride
+2128,2128,951,387,5,Driver was polite
+2129,2129,697,336,4,Very comfortable
+2130,2130,927,461,1,Great ride
+2131,2131,806,433,3,Great ride
+2132,2132,697,83,2,Driver was polite
+2133,2133,212,37,3,Good experience
+2134,2134,70,367,2,Average service
+2135,2135,63,300,5,Very comfortable
+2136,2136,492,403,1,Great ride
+2137,2137,643,24,5,Very comfortable
+2138,2138,258,135,5,Great ride
+2139,2139,76,240,2,Very comfortable
+2140,2140,917,25,1,Could be better
+2141,2141,785,196,3,Very comfortable
+2142,2142,28,208,5,Very comfortable
+2143,2143,677,277,3,Average service
+2144,2144,962,424,4,Could be better
+2145,2145,382,261,4,Great ride
+2146,2146,110,313,5,Good experience
+2147,2147,149,16,3,Great ride
+2148,2148,23,123,1,Driver was polite
+2149,2149,468,117,4,Great ride
+2150,2150,248,220,1,Average service
+2151,2151,227,49,2,Average service
+2152,2152,401,346,1,Very comfortable
+2153,2153,959,301,4,Could be better
+2154,2154,936,2,5,Great ride
+2155,2155,981,219,2,Could be better
+2156,2156,126,467,1,Could be better
+2157,2157,87,184,5,Very comfortable
+2158,2158,640,329,5,Could be better
+2159,2159,1000,174,4,Driver was polite
+2160,2160,680,234,1,Could be better
+2161,2161,512,106,3,Good experience
+2162,2162,753,475,3,Good experience
+2163,2163,122,62,4,Driver was polite
+2164,2164,468,190,5,Great ride
+2165,2165,422,21,3,Great ride
+2166,2166,580,375,3,Could be better
+2167,2167,676,458,1,Very comfortable
+2168,2168,178,223,2,Great ride
+2169,2169,952,14,2,Driver was polite
+2170,2170,3,482,1,Driver was polite
+2171,2171,595,222,2,Driver was polite
+2172,2172,399,27,2,Very comfortable
+2173,2173,995,53,1,Good experience
+2174,2174,572,384,2,Could be better
+2175,2175,117,184,5,Driver was polite
+2176,2176,678,233,2,Driver was polite
+2177,2177,637,289,2,Very comfortable
+2178,2178,69,475,1,Average service
+2179,2179,896,314,2,Could be better
+2180,2180,725,402,4,Average service
+2181,2181,536,379,1,Driver was polite
+2182,2182,607,446,2,Driver was polite
+2183,2183,501,15,1,Driver was polite
+2184,2184,485,361,1,Could be better
+2185,2185,859,484,3,Average service
+2186,2186,447,178,4,Good experience
+2187,2187,563,284,5,Great ride
+2188,2188,354,389,4,Great ride
+2189,2189,931,157,4,Could be better
+2190,2190,949,222,1,Very comfortable
+2191,2191,213,112,1,Great ride
+2192,2192,391,235,2,Average service
+2193,2193,355,126,4,Great ride
+2194,2194,209,3,4,Could be better
+2195,2195,281,25,5,Could be better
+2196,2196,416,186,5,Very comfortable
+2197,2197,679,35,3,Average service
+2198,2198,796,434,1,Driver was polite
+2199,2199,898,294,2,Could be better
+2200,2200,882,48,5,Average service
+2201,2201,151,143,2,Very comfortable
+2202,2202,488,370,2,Average service
+2203,2203,138,426,3,Very comfortable
+2204,2204,202,208,1,Average service
+2205,2205,607,353,1,Driver was polite
+2206,2206,532,166,4,Very comfortable
+2207,2207,934,118,3,Good experience
+2208,2208,716,384,1,Could be better
+2209,2209,53,240,5,Good experience
+2210,2210,725,80,4,Great ride
+2211,2211,644,189,5,Very comfortable
+2212,2212,492,357,3,Driver was polite
+2213,2213,498,338,5,Driver was polite
+2214,2214,846,62,5,Average service
+2215,2215,836,246,5,Average service
+2216,2216,361,279,1,Good experience
+2217,2217,406,340,2,Very comfortable
+2218,2218,306,4,4,Great ride
+2219,2219,241,214,3,Very comfortable
+2220,2220,809,242,5,Could be better
+2221,2221,252,148,5,Average service
+2222,2222,652,201,3,Great ride
+2223,2223,286,27,3,Average service
+2224,2224,318,471,3,Good experience
+2225,2225,458,181,4,Great ride
+2226,2226,660,1,4,Could be better
+2227,2227,948,442,4,Driver was polite
+2228,2228,173,153,2,Great ride
+2229,2229,567,148,2,Driver was polite
+2230,2230,89,218,4,Good experience
+2231,2231,458,42,5,Driver was polite
+2232,2232,330,128,3,Great ride
+2233,2233,423,386,2,Could be better
+2234,2234,237,416,4,Driver was polite
+2235,2235,37,426,2,Average service
+2236,2236,704,485,2,Great ride
+2237,2237,307,405,4,Average service
+2238,2238,574,162,4,Great ride
+2239,2239,550,439,1,Could be better
+2240,2240,565,218,3,Could be better
+2241,2241,791,494,4,Very comfortable
+2242,2242,610,1,4,Driver was polite
+2243,2243,483,473,3,Good experience
+2244,2244,973,333,1,Could be better
+2245,2245,705,148,4,Very comfortable
+2246,2246,889,208,2,Average service
+2247,2247,399,387,5,Driver was polite
+2248,2248,318,304,1,Average service
+2249,2249,792,51,1,Great ride
+2250,2250,740,29,2,Average service
+2251,2251,362,5,2,Very comfortable
+2252,2252,779,251,3,Average service
+2253,2253,818,456,2,Very comfortable
+2254,2254,699,223,1,Could be better
+2255,2255,129,484,3,Could be better
+2256,2256,499,490,5,Could be better
+2257,2257,678,349,3,Could be better
+2258,2258,940,8,5,Could be better
+2259,2259,911,85,2,Very comfortable
+2260,2260,792,358,5,Great ride
+2261,2261,544,450,1,Good experience
+2262,2262,382,298,2,Driver was polite
+2263,2263,955,86,1,Average service
+2264,2264,948,225,4,Very comfortable
+2265,2265,242,323,5,Average service
+2266,2266,692,443,4,Great ride
+2267,2267,121,336,2,Very comfortable
+2268,2268,95,12,4,Average service
+2269,2269,844,350,1,Driver was polite
+2270,2270,515,155,2,Driver was polite
+2271,2271,147,21,4,Could be better
+2272,2272,505,163,2,Good experience
+2273,2273,746,209,3,Very comfortable
+2274,2274,305,304,1,Good experience
+2275,2275,812,318,5,Great ride
+2276,2276,411,448,4,Very comfortable
+2277,2277,602,233,5,Average service
+2278,2278,928,312,2,Very comfortable
+2279,2279,206,139,1,Could be better
+2280,2280,256,269,3,Very comfortable
+2281,2281,271,253,1,Average service
+2282,2282,763,110,3,Could be better
+2283,2283,290,183,2,Very comfortable
+2284,2284,160,437,2,Good experience
+2285,2285,378,243,1,Average service
+2286,2286,414,310,5,Very comfortable
+2287,2287,421,418,4,Good experience
+2288,2288,300,81,3,Driver was polite
+2289,2289,824,87,1,Average service
+2290,2290,443,320,1,Driver was polite
+2291,2291,885,48,5,Could be better
+2292,2292,838,110,3,Could be better
+2293,2293,65,101,1,Could be better
+2294,2294,414,466,5,Could be better
+2295,2295,608,113,4,Very comfortable
+2296,2296,509,293,5,Driver was polite
+2297,2297,29,100,5,Great ride
+2298,2298,13,400,4,Great ride
+2299,2299,818,340,3,Could be better
+2300,2300,617,3,4,Very comfortable
+2301,2301,159,128,5,Average service
+2302,2302,297,488,5,Great ride
+2303,2303,659,323,1,Average service
+2304,2304,810,327,2,Could be better
+2305,2305,698,21,2,Very comfortable
+2306,2306,485,249,3,Average service
+2307,2307,734,33,4,Very comfortable
+2308,2308,72,491,1,Very comfortable
+2309,2309,841,1,2,Average service
+2310,2310,764,428,2,Driver was polite
+2311,2311,282,209,1,Driver was polite
+2312,2312,174,300,4,Very comfortable
+2313,2313,842,94,5,Great ride
+2314,2314,19,291,2,Great ride
+2315,2315,372,483,1,Driver was polite
+2316,2316,937,462,5,Average service
+2317,2317,82,111,1,Good experience
+2318,2318,454,329,3,Average service
+2319,2319,958,138,1,Average service
+2320,2320,584,219,2,Driver was polite
+2321,2321,216,195,4,Very comfortable
+2322,2322,602,102,3,Very comfortable
+2323,2323,442,196,3,Could be better
+2324,2324,563,188,2,Very comfortable
+2325,2325,380,50,2,Could be better
+2326,2326,163,249,2,Average service
+2327,2327,747,84,5,Very comfortable
+2328,2328,941,105,2,Driver was polite
+2329,2329,244,286,2,Very comfortable
+2330,2330,310,383,5,Great ride
+2331,2331,257,342,3,Great ride
+2332,2332,285,329,4,Could be better
+2333,2333,804,308,3,Great ride
+2334,2334,320,187,4,Average service
+2335,2335,489,441,3,Very comfortable
+2336,2336,351,63,3,Good experience
+2337,2337,408,74,4,Good experience
+2338,2338,679,96,5,Good experience
+2339,2339,612,228,2,Average service
+2340,2340,713,4,4,Very comfortable
+2341,2341,916,31,5,Great ride
+2342,2342,121,59,4,Good experience
+2343,2343,685,266,5,Good experience
+2344,2344,755,25,5,Great ride
+2345,2345,124,444,2,Average service
+2346,2346,915,342,5,Great ride
+2347,2347,477,459,1,Very comfortable
+2348,2348,327,218,2,Great ride
+2349,2349,675,156,4,Driver was polite
+2350,2350,214,456,3,Good experience
+2351,2351,965,171,4,Average service
+2352,2352,920,397,3,Very comfortable
+2353,2353,97,228,2,Great ride
+2354,2354,316,144,2,Driver was polite
+2355,2355,15,266,5,Could be better
+2356,2356,342,125,4,Average service
+2357,2357,6,364,3,Could be better
+2358,2358,748,348,2,Average service
+2359,2359,279,333,1,Very comfortable
+2360,2360,405,136,4,Great ride
+2361,2361,797,466,3,Good experience
+2362,2362,629,32,1,Very comfortable
+2363,2363,439,360,4,Good experience
+2364,2364,828,463,3,Great ride
+2365,2365,8,179,5,Average service
+2366,2366,62,90,4,Good experience
+2367,2367,725,306,5,Average service
+2368,2368,93,51,1,Could be better
+2369,2369,196,351,2,Good experience
+2370,2370,785,409,1,Good experience
+2371,2371,960,125,3,Good experience
+2372,2372,193,92,2,Great ride
+2373,2373,519,455,3,Average service
+2374,2374,181,140,5,Good experience
+2375,2375,531,112,3,Very comfortable
+2376,2376,58,197,1,Average service
+2377,2377,356,445,4,Very comfortable
+2378,2378,819,448,4,Driver was polite
+2379,2379,773,89,2,Great ride
+2380,2380,945,349,3,Great ride
+2381,2381,903,200,2,Good experience
+2382,2382,235,432,3,Good experience
+2383,2383,853,334,1,Could be better
+2384,2384,303,98,1,Driver was polite
+2385,2385,202,218,5,Could be better
+2386,2386,144,50,2,Could be better
+2387,2387,102,364,1,Very comfortable
+2388,2388,217,243,4,Good experience
+2389,2389,453,450,1,Good experience
+2390,2390,340,220,4,Average service
+2391,2391,400,448,1,Good experience
+2392,2392,538,148,3,Driver was polite
+2393,2393,676,434,5,Could be better
+2394,2394,592,374,1,Good experience
+2395,2395,567,85,4,Good experience
+2396,2396,97,383,5,Very comfortable
+2397,2397,430,284,3,Average service
+2398,2398,909,408,5,Average service
+2399,2399,326,227,5,Great ride
+2400,2400,87,39,2,Average service
+2401,2401,208,326,3,Driver was polite
+2402,2402,172,258,2,Very comfortable
+2403,2403,374,195,2,Average service
+2404,2404,327,186,3,Could be better
+2405,2405,611,55,4,Great ride
+2406,2406,941,28,1,Could be better
+2407,2407,470,56,5,Very comfortable
+2408,2408,162,133,5,Could be better
+2409,2409,528,125,3,Could be better
+2410,2410,694,36,3,Great ride
+2411,2411,841,172,2,Very comfortable
+2412,2412,286,78,5,Great ride
+2413,2413,378,105,2,Driver was polite
+2414,2414,640,276,4,Very comfortable
+2415,2415,782,137,3,Good experience
+2416,2416,441,299,2,Could be better
+2417,2417,202,397,1,Average service
+2418,2418,513,251,1,Good experience
+2419,2419,623,222,4,Could be better
+2420,2420,890,54,3,Average service
+2421,2421,764,384,5,Great ride
+2422,2422,715,241,5,Could be better
+2423,2423,67,233,3,Driver was polite
+2424,2424,214,116,1,Good experience
+2425,2425,716,295,3,Could be better
+2426,2426,512,340,3,Driver was polite
+2427,2427,903,378,4,Good experience
+2428,2428,570,351,1,Average service
+2429,2429,539,27,3,Great ride
+2430,2430,611,110,2,Average service
+2431,2431,682,223,5,Average service
+2432,2432,5,404,5,Driver was polite
+2433,2433,473,475,4,Driver was polite
+2434,2434,181,213,1,Good experience
+2435,2435,337,12,2,Average service
+2436,2436,143,471,4,Driver was polite
+2437,2437,341,406,3,Average service
+2438,2438,665,203,5,Average service
+2439,2439,936,465,5,Driver was polite
+2440,2440,611,105,2,Very comfortable
+2441,2441,645,199,2,Good experience
+2442,2442,887,242,2,Average service
+2443,2443,237,498,2,Could be better
+2444,2444,563,419,5,Great ride
+2445,2445,218,23,1,Could be better
+2446,2446,545,238,2,Average service
+2447,2447,240,195,2,Average service
+2448,2448,864,124,2,Average service
+2449,2449,47,331,2,Could be better
+2450,2450,623,233,3,Good experience
+2451,2451,53,419,2,Could be better
+2452,2452,933,320,2,Great ride
+2453,2453,533,441,2,Good experience
+2454,2454,360,82,4,Good experience
+2455,2455,15,154,3,Driver was polite
+2456,2456,559,264,5,Average service
+2457,2457,33,354,4,Average service
+2458,2458,692,284,2,Could be better
+2459,2459,898,252,1,Very comfortable
+2460,2460,180,51,5,Great ride
+2461,2461,2,483,5,Very comfortable
+2462,2462,382,309,4,Driver was polite
+2463,2463,395,388,4,Could be better
+2464,2464,395,402,2,Average service
+2465,2465,333,227,2,Driver was polite
+2466,2466,126,174,4,Average service
+2467,2467,154,484,2,Good experience
+2468,2468,353,224,4,Could be better
+2469,2469,442,369,3,Good experience
+2470,2470,791,435,3,Average service
+2471,2471,130,202,3,Could be better
+2472,2472,230,24,2,Driver was polite
+2473,2473,674,327,1,Good experience
+2474,2474,473,200,5,Driver was polite
+2475,2475,581,193,2,Good experience
+2476,2476,201,495,2,Very comfortable
+2477,2477,412,301,3,Very comfortable
+2478,2478,818,264,5,Great ride
+2479,2479,358,267,3,Average service
+2480,2480,778,28,5,Great ride
+2481,2481,389,434,2,Good experience
+2482,2482,655,236,4,Driver was polite
+2483,2483,244,158,3,Average service
+2484,2484,503,425,1,Average service
+2485,2485,281,497,5,Very comfortable
+2486,2486,521,132,1,Very comfortable
+2487,2487,824,154,2,Great ride
+2488,2488,628,383,3,Good experience
+2489,2489,597,120,2,Good experience
+2490,2490,71,20,2,Could be better
+2491,2491,590,193,3,Could be better
+2492,2492,220,185,5,Average service
+2493,2493,967,231,4,Very comfortable
+2494,2494,462,78,2,Could be better
+2495,2495,109,128,3,Driver was polite
+2496,2496,446,65,1,Great ride
+2497,2497,620,147,4,Very comfortable
+2498,2498,394,75,4,Very comfortable
+2499,2499,447,463,4,Good experience
+2500,2500,341,437,1,Could be better
+2501,2501,513,217,4,Great ride
+2502,2502,3,278,3,Very comfortable
+2503,2503,456,490,2,Could be better
+2504,2504,875,222,3,Very comfortable
+2505,2505,400,307,2,Good experience
+2506,2506,878,136,1,Good experience
+2507,2507,57,227,5,Driver was polite
+2508,2508,606,352,3,Good experience
+2509,2509,68,278,1,Great ride
+2510,2510,796,36,1,Driver was polite
+2511,2511,913,499,4,Driver was polite
+2512,2512,136,187,1,Driver was polite
+2513,2513,926,97,5,Great ride
+2514,2514,220,63,3,Very comfortable
+2515,2515,656,408,4,Great ride
+2516,2516,138,12,3,Could be better
+2517,2517,26,480,5,Good experience
+2518,2518,688,395,1,Average service
+2519,2519,748,500,2,Driver was polite
+2520,2520,582,182,5,Average service
+2521,2521,561,432,4,Great ride
+2522,2522,60,24,1,Could be better
+2523,2523,303,162,3,Good experience
+2524,2524,420,29,2,Very comfortable
+2525,2525,821,36,5,Very comfortable
+2526,2526,410,297,4,Great ride
+2527,2527,426,497,2,Good experience
+2528,2528,339,189,3,Good experience
+2529,2529,145,23,5,Could be better
+2530,2530,835,236,1,Average service
+2531,2531,868,58,5,Good experience
+2532,2532,821,229,2,Driver was polite
+2533,2533,979,39,2,Average service
+2534,2534,255,161,4,Great ride
+2535,2535,884,244,4,Driver was polite
+2536,2536,646,99,4,Could be better
+2537,2537,327,368,3,Could be better
+2538,2538,721,495,3,Very comfortable
+2539,2539,311,324,3,Average service
+2540,2540,123,398,5,Average service
+2541,2541,874,159,4,Driver was polite
+2542,2542,348,258,5,Driver was polite
+2543,2543,40,175,3,Average service
+2544,2544,491,32,2,Average service
+2545,2545,349,399,5,Average service
+2546,2546,310,356,5,Good experience
+2547,2547,558,347,1,Average service
+2548,2548,794,20,2,Great ride
+2549,2549,331,144,3,Very comfortable
+2550,2550,356,420,3,Driver was polite
+2551,2551,323,70,1,Very comfortable
+2552,2552,659,479,4,Driver was polite
+2553,2553,633,359,5,Driver was polite
+2554,2554,66,153,4,Very comfortable
+2555,2555,961,316,3,Very comfortable
+2556,2556,5,28,2,Could be better
+2557,2557,886,365,4,Very comfortable
+2558,2558,985,437,1,Driver was polite
+2559,2559,321,467,4,Could be better
+2560,2560,403,334,3,Very comfortable
+2561,2561,468,146,3,Could be better
+2562,2562,733,275,4,Average service
+2563,2563,575,343,5,Great ride
+2564,2564,631,19,2,Driver was polite
+2565,2565,318,239,1,Good experience
+2566,2566,328,303,5,Driver was polite
+2567,2567,92,475,4,Average service
+2568,2568,143,186,2,Great ride
+2569,2569,79,122,5,Could be better
+2570,2570,449,157,1,Driver was polite
+2571,2571,299,161,2,Driver was polite
+2572,2572,485,16,4,Could be better
+2573,2573,530,374,3,Good experience
+2574,2574,600,159,2,Could be better
+2575,2575,539,212,2,Very comfortable
+2576,2576,490,38,2,Good experience
+2577,2577,770,328,1,Average service
+2578,2578,386,130,5,Good experience
+2579,2579,75,334,5,Very comfortable
+2580,2580,678,415,4,Very comfortable
+2581,2581,281,44,4,Could be better
+2582,2582,843,373,1,Average service
+2583,2583,126,432,4,Average service
+2584,2584,411,200,2,Could be better
+2585,2585,583,63,4,Driver was polite
+2586,2586,879,284,2,Very comfortable
+2587,2587,513,74,3,Good experience
+2588,2588,419,379,2,Driver was polite
+2589,2589,941,71,3,Great ride
+2590,2590,203,287,1,Great ride
+2591,2591,409,415,4,Could be better
+2592,2592,264,415,4,Good experience
+2593,2593,117,291,2,Good experience
+2594,2594,809,189,3,Average service
+2595,2595,458,398,2,Good experience
+2596,2596,434,50,2,Could be better
+2597,2597,945,314,2,Average service
+2598,2598,134,66,5,Average service
+2599,2599,224,306,2,Good experience
+2600,2600,87,154,2,Average service
+2601,2601,668,209,4,Driver was polite
+2602,2602,716,359,2,Great ride
+2603,2603,526,314,1,Could be better
+2604,2604,537,114,2,Great ride
+2605,2605,894,492,1,Could be better
+2606,2606,115,260,1,Average service
+2607,2607,517,32,4,Great ride
+2608,2608,520,402,2,Great ride
+2609,2609,181,354,5,Great ride
+2610,2610,842,467,4,Could be better
+2611,2611,717,229,3,Average service
+2612,2612,255,290,5,Very comfortable
+2613,2613,967,470,4,Good experience
+2614,2614,717,200,5,Very comfortable
+2615,2615,781,230,1,Could be better
+2616,2616,861,307,5,Very comfortable
+2617,2617,501,256,1,Driver was polite
+2618,2618,621,359,1,Average service
+2619,2619,818,168,5,Average service
+2620,2620,473,334,1,Average service
+2621,2621,558,195,4,Very comfortable
+2622,2622,903,289,4,Great ride
+2623,2623,776,263,3,Great ride
+2624,2624,20,270,2,Good experience
+2625,2625,330,243,4,Great ride
+2626,2626,168,285,3,Average service
+2627,2627,147,118,4,Great ride
+2628,2628,643,172,3,Very comfortable
+2629,2629,802,250,3,Average service
+2630,2630,164,182,4,Driver was polite
+2631,2631,552,116,3,Average service
+2632,2632,579,376,1,Average service
+2633,2633,248,80,3,Very comfortable
+2634,2634,689,107,2,Great ride
+2635,2635,644,480,5,Could be better
+2636,2636,326,273,1,Average service
+2637,2637,172,442,4,Good experience
+2638,2638,56,206,3,Average service
+2639,2639,129,303,3,Very comfortable
+2640,2640,446,264,2,Good experience
+2641,2641,908,9,1,Average service
+2642,2642,888,304,2,Could be better
+2643,2643,428,411,3,Very comfortable
+2644,2644,244,91,3,Driver was polite
+2645,2645,911,373,5,Good experience
+2646,2646,953,298,1,Average service
+2647,2647,310,52,2,Great ride
+2648,2648,623,145,2,Great ride
+2649,2649,10,197,1,Driver was polite
+2650,2650,260,10,4,Very comfortable
+2651,2651,7,107,1,Average service
+2652,2652,425,423,1,Good experience
+2653,2653,232,438,4,Driver was polite
+2654,2654,573,189,1,Great ride
+2655,2655,491,486,5,Good experience
+2656,2656,892,15,5,Good experience
+2657,2657,772,399,2,Driver was polite
+2658,2658,834,332,4,Average service
+2659,2659,392,195,4,Average service
+2660,2660,272,266,5,Very comfortable
+2661,2661,446,157,2,Average service
+2662,2662,196,185,5,Very comfortable
+2663,2663,650,170,3,Very comfortable
+2664,2664,289,477,4,Could be better
+2665,2665,989,338,2,Could be better
+2666,2666,794,268,4,Very comfortable
+2667,2667,86,91,4,Average service
+2668,2668,782,106,4,Average service
+2669,2669,678,31,4,Average service
+2670,2670,268,401,5,Great ride
+2671,2671,855,122,4,Driver was polite
+2672,2672,383,366,5,Great ride
+2673,2673,84,322,4,Average service
+2674,2674,398,81,5,Good experience
+2675,2675,754,50,2,Very comfortable
+2676,2676,749,339,4,Great ride
+2677,2677,156,269,3,Average service
+2678,2678,719,248,5,Driver was polite
+2679,2679,654,76,2,Very comfortable
+2680,2680,212,297,3,Great ride
+2681,2681,389,192,1,Very comfortable
+2682,2682,331,364,1,Average service
+2683,2683,476,319,3,Very comfortable
+2684,2684,166,333,1,Could be better
+2685,2685,642,489,4,Good experience
+2686,2686,568,211,2,Average service
+2687,2687,211,360,1,Driver was polite
+2688,2688,104,1,2,Very comfortable
+2689,2689,481,75,1,Good experience
+2690,2690,912,227,3,Great ride
+2691,2691,836,264,5,Average service
+2692,2692,1000,116,3,Could be better
+2693,2693,33,249,4,Great ride
+2694,2694,81,209,4,Could be better
+2695,2695,788,182,4,Driver was polite
+2696,2696,718,226,4,Driver was polite
+2697,2697,326,118,3,Could be better
+2698,2698,397,208,2,Could be better
+2699,2699,384,136,4,Great ride
+2700,2700,144,93,3,Very comfortable
+2701,2701,685,176,5,Could be better
+2702,2702,654,80,3,Great ride
+2703,2703,748,218,3,Could be better
+2704,2704,273,296,2,Driver was polite
+2705,2705,988,281,1,Average service
+2706,2706,352,404,1,Great ride
+2707,2707,154,251,2,Could be better
+2708,2708,31,323,1,Average service
+2709,2709,181,481,5,Could be better
+2710,2710,74,401,3,Driver was polite
+2711,2711,697,287,3,Could be better
+2712,2712,245,330,2,Could be better
+2713,2713,68,197,1,Driver was polite
+2714,2714,282,13,1,Driver was polite
+2715,2715,562,371,3,Could be better
+2716,2716,904,147,1,Could be better
+2717,2717,104,22,3,Great ride
+2718,2718,114,70,3,Very comfortable
+2719,2719,806,39,3,Great ride
+2720,2720,956,4,5,Great ride
+2721,2721,551,235,4,Driver was polite
+2722,2722,77,334,2,Good experience
+2723,2723,71,274,3,Average service
+2724,2724,196,414,1,Great ride
+2725,2725,926,239,3,Could be better
+2726,2726,3,10,4,Very comfortable
+2727,2727,214,30,3,Could be better
+2728,2728,945,368,4,Driver was polite
+2729,2729,390,459,5,Very comfortable
+2730,2730,377,467,3,Great ride
+2731,2731,723,283,2,Average service
+2732,2732,225,367,1,Average service
+2733,2733,950,37,5,Good experience
+2734,2734,585,239,3,Great ride
+2735,2735,279,110,3,Driver was polite
+2736,2736,851,283,1,Average service
+2737,2737,941,150,5,Very comfortable
+2738,2738,981,6,5,Great ride
+2739,2739,297,328,1,Could be better
+2740,2740,971,478,4,Driver was polite
+2741,2741,76,402,5,Good experience
+2742,2742,789,107,4,Could be better
+2743,2743,230,145,5,Average service
+2744,2744,4,173,5,Could be better
+2745,2745,653,275,3,Driver was polite
+2746,2746,29,242,4,Great ride
+2747,2747,108,143,1,Very comfortable
+2748,2748,417,430,5,Driver was polite
+2749,2749,202,44,5,Average service
+2750,2750,763,398,3,Average service
+2751,2751,575,7,1,Great ride
+2752,2752,417,248,2,Average service
+2753,2753,194,251,1,Driver was polite
+2754,2754,742,235,1,Driver was polite
+2755,2755,297,75,4,Very comfortable
+2756,2756,434,282,5,Average service
+2757,2757,267,446,3,Average service
+2758,2758,370,377,4,Driver was polite
+2759,2759,468,190,3,Great ride
+2760,2760,819,442,4,Driver was polite
+2761,2761,663,147,2,Very comfortable
+2762,2762,667,170,5,Could be better
+2763,2763,353,69,4,Good experience
+2764,2764,65,130,2,Good experience
+2765,2765,562,89,2,Good experience
+2766,2766,149,385,3,Could be better
+2767,2767,171,168,4,Could be better
+2768,2768,913,4,4,Good experience
+2769,2769,860,401,5,Good experience
+2770,2770,513,206,4,Good experience
+2771,2771,158,340,4,Average service
+2772,2772,801,251,1,Very comfortable
+2773,2773,623,337,1,Great ride
+2774,2774,966,26,4,Could be better
+2775,2775,201,168,5,Average service
+2776,2776,399,301,1,Driver was polite
+2777,2777,227,412,5,Great ride
+2778,2778,360,208,3,Great ride
+2779,2779,969,17,1,Good experience
+2780,2780,652,310,3,Could be better
+2781,2781,475,109,4,Average service
+2782,2782,426,103,3,Very comfortable
+2783,2783,268,385,5,Great ride
+2784,2784,331,462,3,Great ride
+2785,2785,745,408,4,Could be better
+2786,2786,629,210,4,Could be better
+2787,2787,519,295,3,Great ride
+2788,2788,214,237,5,Very comfortable
+2789,2789,857,47,5,Average service
+2790,2790,376,349,2,Very comfortable
+2791,2791,754,423,4,Great ride
+2792,2792,133,267,3,Could be better
+2793,2793,987,116,1,Average service
+2794,2794,326,295,4,Good experience
+2795,2795,120,484,2,Could be better
+2796,2796,460,431,2,Good experience
+2797,2797,969,226,5,Average service
+2798,2798,612,286,1,Average service
+2799,2799,375,208,5,Great ride
+2800,2800,138,273,1,Could be better
+2801,2801,5,415,1,Good experience
+2802,2802,836,47,4,Very comfortable
+2803,2803,205,85,2,Great ride
+2804,2804,452,325,5,Average service
+2805,2805,432,170,4,Very comfortable
+2806,2806,398,398,4,Average service
+2807,2807,431,166,3,Great ride
+2808,2808,650,291,1,Could be better
+2809,2809,959,55,1,Great ride
+2810,2810,41,104,2,Average service
+2811,2811,805,185,4,Driver was polite
+2812,2812,757,261,1,Could be better
+2813,2813,435,284,3,Good experience
+2814,2814,193,411,5,Good experience
+2815,2815,972,395,4,Great ride
+2816,2816,628,105,1,Good experience
+2817,2817,181,53,5,Could be better
+2818,2818,792,21,5,Average service
+2819,2819,985,24,2,Good experience
+2820,2820,562,347,3,Great ride
+2821,2821,976,146,4,Could be better
+2822,2822,945,250,5,Driver was polite
+2823,2823,943,283,1,Very comfortable
+2824,2824,311,482,2,Could be better
+2825,2825,333,408,2,Great ride
+2826,2826,369,385,1,Could be better
+2827,2827,609,190,4,Great ride
+2828,2828,744,457,2,Good experience
+2829,2829,193,182,5,Average service
+2830,2830,328,124,3,Driver was polite
+2831,2831,970,289,1,Driver was polite
+2832,2832,589,97,5,Very comfortable
+2833,2833,814,102,3,Good experience
+2834,2834,17,295,4,Very comfortable
+2835,2835,714,251,1,Could be better
+2836,2836,713,351,5,Average service
+2837,2837,357,448,2,Average service
+2838,2838,405,447,3,Very comfortable
+2839,2839,985,399,4,Average service
+2840,2840,126,36,5,Great ride
+2841,2841,553,14,4,Could be better
+2842,2842,393,376,2,Average service
+2843,2843,402,75,1,Good experience
+2844,2844,385,130,5,Could be better
+2845,2845,985,403,5,Great ride
+2846,2846,571,167,3,Good experience
+2847,2847,545,402,3,Good experience
+2848,2848,420,137,3,Great ride
+2849,2849,351,359,2,Average service
+2850,2850,735,66,2,Driver was polite
+2851,2851,471,307,4,Very comfortable
+2852,2852,734,484,1,Very comfortable
+2853,2853,887,326,1,Great ride
+2854,2854,641,268,1,Average service
+2855,2855,743,331,5,Average service
+2856,2856,641,491,4,Good experience
+2857,2857,304,490,5,Good experience
+2858,2858,362,253,1,Average service
+2859,2859,888,139,1,Driver was polite
+2860,2860,940,110,4,Good experience
+2861,2861,524,159,5,Driver was polite
+2862,2862,968,411,5,Could be better
+2863,2863,779,385,1,Could be better
+2864,2864,998,151,2,Driver was polite
+2865,2865,970,143,4,Very comfortable
+2866,2866,671,350,3,Great ride
+2867,2867,947,310,1,Could be better
+2868,2868,513,49,1,Very comfortable
+2869,2869,638,256,4,Very comfortable
+2870,2870,505,485,3,Could be better
+2871,2871,992,131,5,Great ride
+2872,2872,63,417,1,Great ride
+2873,2873,195,248,1,Very comfortable
+2874,2874,462,103,4,Average service
+2875,2875,226,430,5,Good experience
+2876,2876,345,186,3,Driver was polite
+2877,2877,61,431,3,Great ride
+2878,2878,416,26,2,Driver was polite
+2879,2879,974,371,4,Great ride
+2880,2880,847,40,2,Very comfortable
+2881,2881,491,292,3,Good experience
+2882,2882,463,316,4,Could be better
+2883,2883,665,7,5,Could be better
+2884,2884,643,315,2,Could be better
+2885,2885,448,355,3,Good experience
+2886,2886,990,417,1,Good experience
+2887,2887,150,270,4,Good experience
+2888,2888,844,433,5,Driver was polite
+2889,2889,931,65,3,Average service
+2890,2890,641,47,1,Could be better
+2891,2891,800,464,4,Could be better
+2892,2892,470,173,1,Could be better
+2893,2893,442,347,5,Very comfortable
+2894,2894,820,248,3,Very comfortable
+2895,2895,721,359,3,Great ride
+2896,2896,668,116,2,Could be better
+2897,2897,427,381,4,Great ride
+2898,2898,894,75,3,Good experience
+2899,2899,825,356,5,Driver was polite
+2900,2900,902,300,2,Very comfortable
+2901,2901,836,178,3,Very comfortable
+2902,2902,185,4,2,Average service
+2903,2903,536,99,5,Driver was polite
+2904,2904,220,452,1,Driver was polite
+2905,2905,842,43,4,Great ride
+2906,2906,948,52,4,Average service
+2907,2907,22,282,1,Could be better
+2908,2908,483,83,5,Driver was polite
+2909,2909,403,248,5,Great ride
+2910,2910,158,336,5,Could be better
+2911,2911,85,401,3,Could be better
+2912,2912,344,397,5,Great ride
+2913,2913,590,497,5,Average service
+2914,2914,500,210,4,Good experience
+2915,2915,516,304,1,Average service
+2916,2916,941,185,3,Driver was polite
+2917,2917,663,235,4,Very comfortable
+2918,2918,899,473,5,Driver was polite
+2919,2919,430,490,4,Could be better
+2920,2920,918,8,4,Driver was polite
+2921,2921,518,81,1,Great ride
+2922,2922,47,423,5,Very comfortable
+2923,2923,51,83,1,Very comfortable
+2924,2924,690,366,2,Very comfortable
+2925,2925,580,389,3,Very comfortable
+2926,2926,671,474,3,Good experience
+2927,2927,419,11,5,Very comfortable
+2928,2928,125,210,3,Could be better
+2929,2929,189,458,5,Driver was polite
+2930,2930,700,224,3,Average service
+2931,2931,285,398,4,Average service
+2932,2932,559,460,2,Average service
+2933,2933,29,118,3,Great ride
+2934,2934,301,50,5,Could be better
+2935,2935,478,79,3,Great ride
+2936,2936,702,14,2,Good experience
+2937,2937,814,477,5,Good experience
+2938,2938,940,29,3,Great ride
+2939,2939,829,231,4,Average service
+2940,2940,903,325,3,Average service
+2941,2941,372,410,1,Very comfortable
+2942,2942,978,270,1,Very comfortable
+2943,2943,87,38,2,Good experience
+2944,2944,419,178,1,Good experience
+2945,2945,380,432,2,Average service
+2946,2946,486,215,1,Average service
+2947,2947,455,286,5,Driver was polite
+2948,2948,294,83,3,Good experience
+2949,2949,160,71,1,Very comfortable
+2950,2950,609,281,5,Average service
+2951,2951,210,343,2,Could be better
+2952,2952,250,411,2,Very comfortable
+2953,2953,159,366,5,Great ride
+2954,2954,907,459,5,Average service
+2955,2955,982,219,3,Driver was polite
+2956,2956,975,433,3,Good experience
+2957,2957,737,155,5,Average service
+2958,2958,144,60,4,Could be better
+2959,2959,357,105,2,Average service
+2960,2960,479,469,1,Average service
+2961,2961,514,162,4,Could be better
+2962,2962,703,437,2,Could be better
+2963,2963,246,311,1,Could be better
+2964,2964,900,230,3,Driver was polite
+2965,2965,369,17,5,Average service
+2966,2966,49,240,3,Driver was polite
+2967,2967,497,275,3,Good experience
+2968,2968,513,106,3,Good experience
+2969,2969,85,500,3,Average service
+2970,2970,642,238,1,Very comfortable
+2971,2971,581,127,4,Good experience
+2972,2972,255,480,4,Good experience
+2973,2973,840,211,4,Very comfortable
+2974,2974,119,87,1,Very comfortable
+2975,2975,924,17,3,Could be better
+2976,2976,944,193,3,Good experience
+2977,2977,9,8,4,Driver was polite
+2978,2978,195,8,1,Good experience
+2979,2979,909,95,4,Could be better
+2980,2980,701,393,5,Very comfortable
+2981,2981,697,29,3,Great ride
+2982,2982,243,364,1,Average service
+2983,2983,756,94,1,Good experience
+2984,2984,737,486,5,Driver was polite
+2985,2985,333,123,3,Driver was polite
+2986,2986,47,102,1,Driver was polite
+2987,2987,384,486,2,Average service
+2988,2988,931,495,4,Could be better
+2989,2989,938,409,1,Could be better
+2990,2990,663,222,3,Average service
+2991,2991,691,13,3,Driver was polite
+2992,2992,80,26,2,Very comfortable
+2993,2993,377,337,5,Average service
+2994,2994,280,452,2,Could be better
+2995,2995,695,174,4,Great ride
+2996,2996,792,346,2,Very comfortable
+2997,2997,452,147,1,Very comfortable
+2998,2998,752,41,5,Average service
+2999,2999,718,406,2,Driver was polite
+3000,3000,279,348,4,Average service
+3001,3001,707,464,2,Driver was polite
+3002,3002,10,412,3,Average service
+3003,3003,140,272,1,Driver was polite
+3004,3004,194,179,5,Average service
+3005,3005,271,123,4,Average service
+3006,3006,417,53,1,Great ride
+3007,3007,22,191,3,Good experience
+3008,3008,836,162,4,Good experience
+3009,3009,514,191,2,Very comfortable
+3010,3010,293,449,2,Average service
+3011,3011,647,47,5,Driver was polite
+3012,3012,421,270,1,Could be better
+3013,3013,22,77,3,Great ride
+3014,3014,259,376,4,Driver was polite
+3015,3015,840,374,4,Could be better
+3016,3016,761,421,3,Good experience
+3017,3017,807,412,1,Good experience
+3018,3018,981,401,2,Great ride
+3019,3019,77,231,2,Good experience
+3020,3020,951,137,2,Very comfortable
+3021,3021,379,43,2,Very comfortable
+3022,3022,658,79,3,Very comfortable
+3023,3023,269,58,4,Great ride
+3024,3024,74,451,4,Average service
+3025,3025,174,138,4,Driver was polite
+3026,3026,7,274,2,Could be better
+3027,3027,557,212,3,Could be better
+3028,3028,555,83,2,Good experience
+3029,3029,584,105,1,Average service
+3030,3030,482,293,2,Good experience
+3031,3031,11,327,5,Good experience
+3032,3032,660,433,1,Driver was polite
+3033,3033,747,71,1,Good experience
+3034,3034,278,128,5,Could be better
+3035,3035,538,495,2,Very comfortable
+3036,3036,246,447,1,Could be better
+3037,3037,361,291,1,Driver was polite
+3038,3038,238,233,4,Good experience
+3039,3039,576,74,5,Very comfortable
+3040,3040,514,176,4,Good experience
+3041,3041,130,146,5,Good experience
+3042,3042,227,457,4,Driver was polite
+3043,3043,883,165,5,Driver was polite
+3044,3044,263,12,1,Great ride
+3045,3045,900,96,1,Very comfortable
+3046,3046,181,30,5,Good experience
+3047,3047,282,446,4,Very comfortable
+3048,3048,937,53,1,Great ride
+3049,3049,657,123,2,Driver was polite
+3050,3050,458,391,1,Great ride
+3051,3051,246,193,4,Driver was polite
+3052,3052,757,201,3,Average service
+3053,3053,185,127,2,Driver was polite
+3054,3054,815,272,5,Good experience
+3055,3055,546,335,2,Average service
+3056,3056,65,331,3,Could be better
+3057,3057,463,402,2,Good experience
+3058,3058,221,359,5,Great ride
+3059,3059,491,378,1,Could be better
+3060,3060,400,366,1,Average service
+3061,3061,428,371,4,Very comfortable
+3062,3062,845,341,3,Great ride
+3063,3063,627,231,4,Could be better
+3064,3064,378,81,1,Good experience
+3065,3065,929,298,3,Average service
+3066,3066,929,9,1,Could be better
+3067,3067,691,271,1,Good experience
+3068,3068,418,248,2,Could be better
+3069,3069,277,90,3,Could be better
+3070,3070,223,414,1,Good experience
+3071,3071,930,350,2,Could be better
+3072,3072,264,473,4,Could be better
+3073,3073,165,460,1,Great ride
+3074,3074,971,254,4,Average service
+3075,3075,76,407,1,Good experience
+3076,3076,195,157,1,Driver was polite
+3077,3077,716,479,5,Average service
+3078,3078,346,467,2,Very comfortable
+3079,3079,696,148,3,Good experience
+3080,3080,769,76,4,Average service
+3081,3081,22,140,3,Very comfortable
+3082,3082,722,328,4,Driver was polite
+3083,3083,416,277,4,Good experience
+3084,3084,49,245,5,Great ride
+3085,3085,501,268,5,Good experience
+3086,3086,588,466,5,Great ride
+3087,3087,113,184,4,Average service
+3088,3088,552,244,1,Very comfortable
+3089,3089,869,37,2,Great ride
+3090,3090,710,211,4,Great ride
+3091,3091,580,222,5,Could be better
+3092,3092,631,300,3,Driver was polite
+3093,3093,221,211,1,Great ride
+3094,3094,497,243,1,Driver was polite
+3095,3095,159,365,1,Great ride
+3096,3096,123,74,3,Could be better
+3097,3097,814,20,2,Great ride
+3098,3098,887,232,3,Could be better
+3099,3099,984,126,4,Driver was polite
+3100,3100,604,419,5,Good experience
+3101,3101,705,411,2,Driver was polite
+3102,3102,839,498,1,Driver was polite
+3103,3103,898,399,4,Driver was polite
+3104,3104,20,115,5,Driver was polite
+3105,3105,581,489,5,Great ride
+3106,3106,69,53,3,Average service
+3107,3107,810,308,4,Great ride
+3108,3108,671,392,5,Could be better
+3109,3109,971,332,3,Good experience
+3110,3110,256,351,3,Average service
+3111,3111,57,306,4,Very comfortable
+3112,3112,646,51,3,Driver was polite
+3113,3113,308,448,2,Very comfortable
+3114,3114,465,306,4,Very comfortable
+3115,3115,776,340,1,Good experience
+3116,3116,548,345,4,Great ride
+3117,3117,216,357,4,Could be better
+3118,3118,649,106,5,Great ride
+3119,3119,593,94,4,Good experience
+3120,3120,533,309,1,Great ride
+3121,3121,818,17,5,Good experience
+3122,3122,315,13,1,Driver was polite
+3123,3123,151,433,1,Average service
+3124,3124,362,271,4,Great ride
+3125,3125,111,408,5,Very comfortable
+3126,3126,447,370,5,Good experience
+3127,3127,112,477,4,Driver was polite
+3128,3128,699,49,4,Driver was polite
+3129,3129,732,126,2,Great ride
+3130,3130,641,4,3,Very comfortable
+3131,3131,28,149,4,Good experience
+3132,3132,412,250,4,Good experience
+3133,3133,878,97,5,Could be better
+3134,3134,612,292,4,Average service
+3135,3135,435,99,3,Driver was polite
+3136,3136,939,67,5,Driver was polite
+3137,3137,188,196,1,Average service
+3138,3138,51,310,2,Very comfortable
+3139,3139,358,394,3,Good experience
+3140,3140,562,57,1,Average service
+3141,3141,948,155,1,Driver was polite
+3142,3142,426,151,1,Very comfortable
+3143,3143,4,276,5,Good experience
+3144,3144,269,12,3,Good experience
+3145,3145,875,418,5,Good experience
+3146,3146,130,145,5,Very comfortable
+3147,3147,13,141,3,Could be better
+3148,3148,658,106,1,Good experience
+3149,3149,911,307,1,Could be better
+3150,3150,104,407,5,Average service
+3151,3151,345,44,2,Average service
+3152,3152,524,284,5,Good experience
+3153,3153,850,294,1,Very comfortable
+3154,3154,109,407,5,Good experience
+3155,3155,876,126,2,Average service
+3156,3156,457,122,1,Very comfortable
+3157,3157,809,469,2,Driver was polite
+3158,3158,45,154,1,Good experience
+3159,3159,210,374,4,Good experience
+3160,3160,793,204,1,Very comfortable
+3161,3161,805,59,4,Very comfortable
+3162,3162,545,208,1,Could be better
+3163,3163,322,146,3,Could be better
+3164,3164,823,327,5,Average service
+3165,3165,701,185,2,Could be better
+3166,3166,898,89,2,Good experience
+3167,3167,543,485,5,Good experience
+3168,3168,585,187,1,Could be better
+3169,3169,53,214,4,Very comfortable
+3170,3170,708,229,1,Good experience
+3171,3171,886,361,4,Very comfortable
+3172,3172,560,276,3,Could be better
+3173,3173,120,273,3,Driver was polite
+3174,3174,703,104,1,Average service
+3175,3175,394,31,2,Very comfortable
+3176,3176,140,102,3,Average service
+3177,3177,662,71,2,Driver was polite
+3178,3178,197,177,5,Average service
+3179,3179,78,145,2,Very comfortable
+3180,3180,434,299,4,Very comfortable
+3181,3181,150,178,3,Great ride
+3182,3182,750,187,2,Average service
+3183,3183,485,421,4,Driver was polite
+3184,3184,330,468,5,Could be better
+3185,3185,587,373,1,Driver was polite
+3186,3186,889,133,2,Driver was polite
+3187,3187,452,333,1,Average service
+3188,3188,317,433,4,Very comfortable
+3189,3189,333,317,5,Driver was polite
+3190,3190,312,61,3,Driver was polite
+3191,3191,569,349,3,Average service
+3192,3192,291,267,1,Driver was polite
+3193,3193,605,9,5,Very comfortable
+3194,3194,1,25,5,Great ride
+3195,3195,330,155,4,Very comfortable
+3196,3196,454,170,2,Driver was polite
+3197,3197,178,493,3,Could be better
+3198,3198,538,308,2,Great ride
+3199,3199,910,3,2,Great ride
+3200,3200,614,134,2,Great ride
+3201,3201,832,155,3,Good experience
+3202,3202,300,216,3,Very comfortable
+3203,3203,250,420,2,Average service
+3204,3204,346,194,5,Good experience
+3205,3205,831,213,3,Driver was polite
+3206,3206,462,163,4,Great ride
+3207,3207,154,126,2,Great ride
+3208,3208,228,493,2,Very comfortable
+3209,3209,569,277,4,Great ride
+3210,3210,393,99,3,Could be better
+3211,3211,499,82,2,Average service
+3212,3212,772,206,4,Average service
+3213,3213,65,18,4,Good experience
+3214,3214,223,158,1,Great ride
+3215,3215,826,160,2,Good experience
+3216,3216,383,144,5,Average service
+3217,3217,467,97,1,Good experience
+3218,3218,601,214,1,Great ride
+3219,3219,180,342,3,Great ride
+3220,3220,103,468,1,Could be better
+3221,3221,750,342,3,Could be better
+3222,3222,35,117,1,Good experience
+3223,3223,409,190,2,Great ride
+3224,3224,311,339,3,Average service
+3225,3225,905,15,5,Very comfortable
+3226,3226,146,138,5,Could be better
+3227,3227,149,255,5,Could be better
+3228,3228,525,1,4,Great ride
+3229,3229,958,149,5,Very comfortable
+3230,3230,771,310,2,Great ride
+3231,3231,228,127,4,Driver was polite
+3232,3232,495,137,2,Could be better
+3233,3233,38,177,1,Good experience
+3234,3234,762,360,3,Could be better
+3235,3235,705,381,1,Very comfortable
+3236,3236,802,364,1,Very comfortable
+3237,3237,362,1,1,Average service
+3238,3238,431,48,1,Driver was polite
+3239,3239,473,84,4,Great ride
+3240,3240,647,46,1,Good experience
+3241,3241,466,459,3,Good experience
+3242,3242,556,26,1,Average service
+3243,3243,48,326,1,Very comfortable
+3244,3244,52,394,4,Average service
+3245,3245,357,213,3,Great ride
+3246,3246,824,335,1,Great ride
+3247,3247,119,366,5,Very comfortable
+3248,3248,960,89,1,Driver was polite
+3249,3249,209,409,3,Driver was polite
+3250,3250,862,350,1,Good experience
+3251,3251,135,484,2,Average service
+3252,3252,448,231,1,Average service
+3253,3253,16,44,3,Great ride
+3254,3254,464,103,4,Good experience
+3255,3255,82,300,2,Great ride
+3256,3256,644,293,1,Good experience
+3257,3257,944,353,3,Very comfortable
+3258,3258,679,414,4,Driver was polite
+3259,3259,967,338,3,Very comfortable
+3260,3260,12,381,3,Good experience
+3261,3261,822,22,2,Average service
+3262,3262,206,184,3,Average service
+3263,3263,478,84,4,Very comfortable
+3264,3264,858,341,2,Good experience
+3265,3265,351,63,1,Very comfortable
+3266,3266,619,25,5,Very comfortable
+3267,3267,918,141,2,Average service
+3268,3268,622,349,2,Good experience
+3269,3269,472,121,2,Very comfortable
+3270,3270,910,22,4,Could be better
+3271,3271,9,252,3,Good experience
+3272,3272,447,472,2,Great ride
+3273,3273,91,38,4,Driver was polite
+3274,3274,290,81,3,Good experience
+3275,3275,122,22,1,Very comfortable
+3276,3276,982,109,3,Could be better
+3277,3277,775,58,3,Driver was polite
+3278,3278,19,63,4,Could be better
+3279,3279,946,430,2,Driver was polite
+3280,3280,651,3,3,Average service
+3281,3281,954,401,1,Very comfortable
+3282,3282,572,348,5,Could be better
+3283,3283,44,129,5,Good experience
+3284,3284,245,245,1,Average service
+3285,3285,67,462,4,Average service
+3286,3286,448,425,3,Driver was polite
+3287,3287,389,347,1,Good experience
+3288,3288,40,272,3,Good experience
+3289,3289,233,205,4,Very comfortable
+3290,3290,871,248,5,Good experience
+3291,3291,964,478,2,Driver was polite
+3292,3292,238,498,4,Average service
+3293,3293,634,89,2,Great ride
+3294,3294,688,234,1,Good experience
+3295,3295,286,60,4,Good experience
+3296,3296,280,373,3,Average service
+3297,3297,847,50,2,Average service
+3298,3298,185,481,4,Could be better
+3299,3299,152,344,4,Good experience
+3300,3300,423,211,5,Could be better
+3301,3301,57,298,2,Great ride
+3302,3302,386,481,3,Great ride
+3303,3303,457,264,2,Could be better
+3304,3304,101,96,4,Great ride
+3305,3305,71,125,4,Great ride
+3306,3306,500,268,1,Driver was polite
+3307,3307,890,362,2,Great ride
+3308,3308,783,372,5,Great ride
+3309,3309,832,136,2,Average service
+3310,3310,284,90,1,Great ride
+3311,3311,715,90,5,Driver was polite
+3312,3312,876,429,2,Driver was polite
+3313,3313,2,104,1,Good experience
+3314,3314,383,156,2,Could be better
+3315,3315,292,404,2,Average service
+3316,3316,960,57,3,Average service
+3317,3317,719,340,2,Driver was polite
+3318,3318,482,97,4,Could be better
+3319,3319,174,464,3,Driver was polite
+3320,3320,130,136,3,Average service
+3321,3321,112,365,5,Could be better
+3322,3322,737,227,3,Good experience
+3323,3323,616,321,3,Average service
+3324,3324,694,257,5,Good experience
+3325,3325,8,229,3,Average service
+3326,3326,556,477,3,Could be better
+3327,3327,444,70,5,Driver was polite
+3328,3328,936,293,2,Average service
+3329,3329,513,140,4,Average service
+3330,3330,483,370,2,Average service
+3331,3331,781,140,2,Could be better
+3332,3332,495,212,4,Great ride
+3333,3333,41,417,5,Great ride
+3334,3334,952,25,2,Very comfortable
+3335,3335,751,342,5,Driver was polite
+3336,3336,716,15,5,Could be better
+3337,3337,573,103,1,Good experience
+3338,3338,681,135,4,Good experience
+3339,3339,740,55,4,Driver was polite
+3340,3340,993,460,4,Good experience
+3341,3341,963,409,5,Driver was polite
+3342,3342,119,262,4,Driver was polite
+3343,3343,672,401,3,Good experience
+3344,3344,511,387,5,Good experience
+3345,3345,732,433,5,Good experience
+3346,3346,153,116,5,Could be better
+3347,3347,671,167,3,Driver was polite
+3348,3348,158,328,4,Great ride
+3349,3349,264,22,4,Good experience
+3350,3350,612,183,2,Good experience
+3351,3351,444,343,5,Good experience
+3352,3352,366,493,2,Good experience
+3353,3353,243,500,5,Very comfortable
+3354,3354,494,445,4,Could be better
+3355,3355,882,388,1,Could be better
+3356,3356,291,201,4,Driver was polite
+3357,3357,568,122,4,Good experience
+3358,3358,878,261,3,Could be better
+3359,3359,805,472,1,Very comfortable
+3360,3360,468,421,3,Average service
+3361,3361,467,430,2,Driver was polite
+3362,3362,904,399,3,Could be better
+3363,3363,61,155,3,Good experience
+3364,3364,638,66,2,Good experience
+3365,3365,443,193,5,Average service
+3366,3366,144,402,3,Driver was polite
+3367,3367,218,468,2,Great ride
+3368,3368,812,447,3,Could be better
+3369,3369,714,114,4,Very comfortable
+3370,3370,84,421,3,Could be better
+3371,3371,994,357,4,Good experience
+3372,3372,608,69,3,Good experience
+3373,3373,158,217,4,Driver was polite
+3374,3374,79,463,5,Great ride
+3375,3375,246,203,3,Driver was polite
+3376,3376,641,179,1,Average service
+3377,3377,912,336,3,Driver was polite
+3378,3378,1000,234,4,Could be better
+3379,3379,272,388,1,Could be better
+3380,3380,237,372,2,Driver was polite
+3381,3381,953,468,4,Very comfortable
+3382,3382,292,393,3,Good experience
+3383,3383,578,145,5,Great ride
+3384,3384,401,235,4,Driver was polite
+3385,3385,806,399,2,Average service
+3386,3386,921,204,2,Great ride
+3387,3387,553,37,4,Great ride
+3388,3388,657,399,2,Average service
+3389,3389,163,92,5,Could be better
+3390,3390,480,484,2,Great ride
+3391,3391,959,397,5,Could be better
+3392,3392,43,61,1,Great ride
+3393,3393,485,65,5,Could be better
+3394,3394,210,349,5,Could be better
+3395,3395,614,438,1,Average service
+3396,3396,809,355,3,Average service
+3397,3397,33,278,3,Great ride
+3398,3398,308,270,2,Driver was polite
+3399,3399,531,2,4,Great ride
+3400,3400,257,451,4,Very comfortable
+3401,3401,657,68,3,Driver was polite
+3402,3402,769,410,4,Good experience
+3403,3403,449,391,5,Good experience
+3404,3404,975,191,2,Great ride
+3405,3405,293,201,1,Could be better
+3406,3406,93,280,3,Good experience
+3407,3407,426,284,1,Very comfortable
+3408,3408,163,316,1,Great ride
+3409,3409,992,74,3,Very comfortable
+3410,3410,461,422,5,Great ride
+3411,3411,6,246,2,Average service
+3412,3412,310,296,2,Driver was polite
+3413,3413,9,434,5,Could be better
+3414,3414,78,48,3,Driver was polite
+3415,3415,854,366,1,Driver was polite
+3416,3416,624,11,3,Good experience
+3417,3417,707,330,2,Very comfortable
+3418,3418,643,223,5,Very comfortable
+3419,3419,14,232,2,Great ride
+3420,3420,662,28,4,Could be better
+3421,3421,735,57,2,Great ride
+3422,3422,833,280,4,Good experience
+3423,3423,303,403,4,Great ride
+3424,3424,496,122,5,Could be better
+3425,3425,102,2,3,Could be better
+3426,3426,147,354,1,Very comfortable
+3427,3427,789,182,5,Great ride
+3428,3428,515,367,3,Very comfortable
+3429,3429,256,161,4,Average service
+3430,3430,269,410,2,Great ride
+3431,3431,228,132,3,Could be better
+3432,3432,263,194,5,Good experience
+3433,3433,134,141,1,Average service
+3434,3434,849,312,3,Driver was polite
+3435,3435,109,30,5,Could be better
+3436,3436,920,104,2,Good experience
+3437,3437,410,160,4,Great ride
+3438,3438,126,378,4,Great ride
+3439,3439,103,11,3,Good experience
+3440,3440,706,473,4,Great ride
+3441,3441,198,267,3,Could be better
+3442,3442,744,421,5,Average service
+3443,3443,246,431,5,Average service
+3444,3444,519,196,1,Driver was polite
+3445,3445,957,107,2,Could be better
+3446,3446,405,253,5,Very comfortable
+3447,3447,879,148,1,Great ride
+3448,3448,504,63,5,Good experience
+3449,3449,247,372,3,Good experience
+3450,3450,571,499,3,Very comfortable
+3451,3451,280,138,3,Great ride
+3452,3452,354,56,3,Could be better
+3453,3453,438,387,5,Very comfortable
+3454,3454,382,55,5,Good experience
+3455,3455,304,275,4,Could be better
+3456,3456,893,19,3,Great ride
+3457,3457,176,59,1,Good experience
+3458,3458,22,210,5,Very comfortable
+3459,3459,416,7,3,Great ride
+3460,3460,942,321,3,Very comfortable
+3461,3461,77,43,1,Driver was polite
+3462,3462,243,51,4,Could be better
+3463,3463,622,249,5,Driver was polite
+3464,3464,672,439,1,Very comfortable
+3465,3465,921,47,4,Average service
+3466,3466,844,164,3,Could be better
+3467,3467,125,315,2,Driver was polite
+3468,3468,143,137,2,Driver was polite
+3469,3469,603,488,5,Good experience
+3470,3470,259,339,2,Good experience
+3471,3471,479,354,5,Very comfortable
+3472,3472,780,33,5,Driver was polite
+3473,3473,283,474,2,Could be better
+3474,3474,629,48,3,Could be better
+3475,3475,720,20,3,Very comfortable
+3476,3476,574,437,5,Good experience
+3477,3477,100,299,5,Great ride
+3478,3478,397,403,1,Great ride
+3479,3479,145,53,5,Very comfortable
+3480,3480,309,136,5,Very comfortable
+3481,3481,499,191,5,Average service
+3482,3482,490,28,3,Average service
+3483,3483,84,267,2,Driver was polite
+3484,3484,452,281,3,Very comfortable
+3485,3485,862,411,4,Could be better
+3486,3486,442,180,3,Great ride
+3487,3487,603,456,5,Very comfortable
+3488,3488,200,334,1,Could be better
+3489,3489,658,221,2,Driver was polite
+3490,3490,967,291,1,Good experience
+3491,3491,948,84,2,Could be better
+3492,3492,513,169,2,Very comfortable
+3493,3493,526,80,3,Average service
+3494,3494,547,329,5,Could be better
+3495,3495,369,355,5,Could be better
+3496,3496,530,168,4,Very comfortable
+3497,3497,170,490,5,Driver was polite
+3498,3498,279,133,1,Average service
+3499,3499,109,379,2,Could be better
+3500,3500,417,76,1,Great ride
+3501,3501,947,294,2,Great ride
+3502,3502,868,305,1,Great ride
+3503,3503,372,264,1,Could be better
+3504,3504,181,75,1,Very comfortable
+3505,3505,766,216,1,Very comfortable
+3506,3506,690,151,5,Could be better
+3507,3507,912,300,4,Great ride
+3508,3508,875,320,5,Very comfortable
+3509,3509,32,12,4,Good experience
+3510,3510,373,56,5,Could be better
+3511,3511,218,175,5,Driver was polite
+3512,3512,981,230,4,Great ride
+3513,3513,899,129,4,Average service
+3514,3514,788,125,5,Average service
+3515,3515,909,305,1,Could be better
+3516,3516,681,101,1,Good experience
+3517,3517,435,292,5,Very comfortable
+3518,3518,988,368,5,Could be better
+3519,3519,334,55,3,Good experience
+3520,3520,165,236,3,Great ride
+3521,3521,234,171,1,Driver was polite
+3522,3522,266,457,1,Good experience
+3523,3523,66,474,3,Very comfortable
+3524,3524,741,85,2,Could be better
+3525,3525,81,56,1,Very comfortable
+3526,3526,826,135,1,Could be better
+3527,3527,729,316,5,Great ride
+3528,3528,223,471,1,Average service
+3529,3529,41,469,4,Great ride
+3530,3530,736,202,2,Very comfortable
+3531,3531,145,247,4,Average service
+3532,3532,269,358,4,Great ride
+3533,3533,330,413,4,Great ride
+3534,3534,694,50,3,Great ride
+3535,3535,107,355,5,Average service
+3536,3536,15,108,4,Driver was polite
+3537,3537,754,67,4,Great ride
+3538,3538,274,157,1,Very comfortable
+3539,3539,815,456,4,Very comfortable
+3540,3540,739,368,1,Average service
+3541,3541,835,18,1,Driver was polite
+3542,3542,373,397,1,Great ride
+3543,3543,170,465,1,Average service
+3544,3544,9,419,5,Great ride
+3545,3545,21,462,2,Great ride
+3546,3546,580,476,4,Good experience
+3547,3547,297,119,3,Great ride
+3548,3548,95,472,3,Could be better
+3549,3549,706,151,1,Very comfortable
+3550,3550,184,13,3,Very comfortable
+3551,3551,325,125,1,Great ride
+3552,3552,781,345,1,Great ride
+3553,3553,228,425,2,Great ride
+3554,3554,635,366,4,Driver was polite
+3555,3555,623,165,2,Great ride
+3556,3556,546,405,5,Could be better
+3557,3557,360,432,2,Driver was polite
+3558,3558,197,200,2,Very comfortable
+3559,3559,676,483,1,Could be better
+3560,3560,71,461,3,Very comfortable
+3561,3561,175,317,2,Average service
+3562,3562,593,399,1,Good experience
+3563,3563,318,303,1,Great ride
+3564,3564,671,452,3,Good experience
+3565,3565,849,307,2,Average service
+3566,3566,619,69,1,Very comfortable
+3567,3567,280,120,4,Average service
+3568,3568,260,488,5,Great ride
+3569,3569,168,84,4,Very comfortable
+3570,3570,1000,315,4,Good experience
+3571,3571,382,468,4,Average service
+3572,3572,613,253,2,Driver was polite
+3573,3573,985,37,4,Good experience
+3574,3574,976,289,3,Good experience
+3575,3575,743,143,4,Could be better
+3576,3576,938,281,4,Very comfortable
+3577,3577,110,466,3,Very comfortable
+3578,3578,802,346,5,Could be better
+3579,3579,903,204,1,Great ride
+3580,3580,929,422,1,Great ride
+3581,3581,826,400,5,Could be better
+3582,3582,828,103,4,Very comfortable
+3583,3583,1,151,1,Very comfortable
+3584,3584,832,495,4,Could be better
+3585,3585,540,406,4,Driver was polite
+3586,3586,144,239,4,Driver was polite
+3587,3587,600,487,5,Average service
+3588,3588,843,339,5,Could be better
+3589,3589,940,146,2,Good experience
+3590,3590,277,290,2,Great ride
+3591,3591,96,229,3,Average service
+3592,3592,330,317,3,Good experience
+3593,3593,396,129,4,Good experience
+3594,3594,286,117,3,Average service
+3595,3595,829,376,3,Very comfortable
+3596,3596,953,235,2,Could be better
+3597,3597,538,195,4,Great ride
+3598,3598,590,323,3,Driver was polite
+3599,3599,813,113,3,Very comfortable
+3600,3600,175,15,1,Could be better
+3601,3601,529,439,3,Great ride
+3602,3602,700,101,1,Could be better
+3603,3603,476,16,4,Good experience
+3604,3604,343,242,5,Average service
+3605,3605,851,198,4,Very comfortable
+3606,3606,630,306,3,Great ride
+3607,3607,904,213,5,Good experience
+3608,3608,918,82,1,Very comfortable
+3609,3609,531,126,3,Could be better
+3610,3610,843,305,3,Could be better
+3611,3611,719,126,1,Good experience
+3612,3612,914,412,3,Very comfortable
+3613,3613,776,15,1,Great ride
+3614,3614,78,282,4,Great ride
+3615,3615,695,420,3,Good experience
+3616,3616,322,64,4,Could be better
+3617,3617,667,462,3,Good experience
+3618,3618,470,62,4,Average service
+3619,3619,383,67,3,Could be better
+3620,3620,896,393,3,Driver was polite
+3621,3621,914,300,3,Could be better
+3622,3622,856,398,1,Could be better
+3623,3623,794,292,3,Driver was polite
+3624,3624,807,373,5,Driver was polite
+3625,3625,159,39,4,Great ride
+3626,3626,860,365,4,Driver was polite
+3627,3627,920,104,1,Could be better
+3628,3628,701,49,5,Driver was polite
+3629,3629,692,174,5,Very comfortable
+3630,3630,26,93,5,Driver was polite
+3631,3631,531,107,3,Great ride
+3632,3632,217,300,2,Great ride
+3633,3633,692,458,4,Driver was polite
+3634,3634,381,133,4,Good experience
+3635,3635,990,221,1,Could be better
+3636,3636,968,499,4,Good experience
+3637,3637,668,363,2,Very comfortable
+3638,3638,112,44,3,Could be better
+3639,3639,556,447,1,Driver was polite
+3640,3640,745,264,4,Average service
+3641,3641,464,68,5,Driver was polite
+3642,3642,56,411,3,Driver was polite
+3643,3643,958,354,3,Good experience
+3644,3644,513,98,5,Good experience
+3645,3645,734,27,3,Good experience
+3646,3646,312,62,2,Good experience
+3647,3647,63,170,2,Driver was polite
+3648,3648,892,492,2,Average service
+3649,3649,826,482,1,Driver was polite
+3650,3650,460,456,3,Very comfortable
+3651,3651,152,173,4,Could be better
+3652,3652,950,84,4,Good experience
+3653,3653,483,321,3,Very comfortable
+3654,3654,694,493,2,Driver was polite
+3655,3655,404,258,1,Could be better
+3656,3656,114,225,1,Could be better
+3657,3657,756,77,4,Average service
+3658,3658,628,366,3,Driver was polite
+3659,3659,738,447,3,Good experience
+3660,3660,213,440,4,Very comfortable
+3661,3661,923,387,1,Very comfortable
+3662,3662,892,491,5,Average service
+3663,3663,878,245,4,Great ride
+3664,3664,55,117,1,Driver was polite
+3665,3665,407,437,4,Great ride
+3666,3666,274,249,1,Very comfortable
+3667,3667,214,62,5,Average service
+3668,3668,985,414,5,Great ride
+3669,3669,540,371,2,Could be better
+3670,3670,970,476,2,Very comfortable
+3671,3671,735,290,2,Good experience
+3672,3672,230,61,2,Good experience
+3673,3673,897,368,5,Great ride
+3674,3674,813,406,3,Could be better
+3675,3675,494,197,3,Great ride
+3676,3676,271,248,5,Could be better
+3677,3677,385,80,1,Driver was polite
+3678,3678,338,74,5,Very comfortable
+3679,3679,689,172,3,Could be better
+3680,3680,128,218,2,Driver was polite
+3681,3681,855,275,2,Great ride
+3682,3682,264,290,1,Good experience
+3683,3683,879,298,1,Very comfortable
+3684,3684,870,399,2,Great ride
+3685,3685,575,281,4,Great ride
+3686,3686,471,463,2,Very comfortable
+3687,3687,765,96,1,Could be better
+3688,3688,865,178,3,Average service
+3689,3689,878,14,5,Driver was polite
+3690,3690,669,378,2,Good experience
+3691,3691,879,221,3,Good experience
+3692,3692,636,208,3,Average service
+3693,3693,569,213,3,Driver was polite
+3694,3694,538,482,1,Great ride
+3695,3695,627,240,1,Could be better
+3696,3696,571,301,3,Could be better
+3697,3697,369,494,5,Very comfortable
+3698,3698,227,271,2,Average service
+3699,3699,799,285,4,Great ride
+3700,3700,337,89,4,Average service
+3701,3701,637,263,2,Average service
+3702,3702,713,381,3,Could be better
+3703,3703,645,132,1,Could be better
+3704,3704,629,448,4,Average service
+3705,3705,830,441,5,Good experience
+3706,3706,541,183,5,Could be better
+3707,3707,532,18,2,Driver was polite
+3708,3708,442,61,4,Average service
+3709,3709,127,29,2,Could be better
+3710,3710,606,258,2,Average service
+3711,3711,461,7,1,Very comfortable
+3712,3712,713,389,3,Could be better
+3713,3713,732,330,3,Good experience
+3714,3714,510,82,4,Good experience
+3715,3715,337,294,1,Good experience
+3716,3716,978,321,1,Good experience
+3717,3717,243,432,4,Great ride
+3718,3718,498,130,5,Good experience
+3719,3719,743,336,1,Great ride
+3720,3720,611,146,1,Very comfortable
+3721,3721,449,231,5,Great ride
+3722,3722,963,363,3,Average service
+3723,3723,85,423,3,Average service
+3724,3724,834,112,3,Very comfortable
+3725,3725,222,158,5,Average service
+3726,3726,585,146,5,Could be better
+3727,3727,351,86,1,Could be better
+3728,3728,225,173,3,Good experience
+3729,3729,194,25,4,Driver was polite
+3730,3730,252,198,3,Good experience
+3731,3731,135,21,5,Could be better
+3732,3732,884,380,2,Driver was polite
+3733,3733,908,458,3,Average service
+3734,3734,303,338,5,Very comfortable
+3735,3735,144,407,1,Could be better
+3736,3736,93,312,3,Great ride
+3737,3737,586,277,3,Average service
+3738,3738,167,421,1,Driver was polite
+3739,3739,989,341,3,Driver was polite
+3740,3740,515,270,4,Very comfortable
+3741,3741,625,189,4,Very comfortable
+3742,3742,500,345,5,Great ride
+3743,3743,547,406,3,Average service
+3744,3744,920,232,3,Driver was polite
+3745,3745,1000,221,5,Great ride
+3746,3746,120,227,3,Average service
+3747,3747,47,279,2,Good experience
+3748,3748,563,171,1,Great ride
+3749,3749,704,403,2,Driver was polite
+3750,3750,270,461,2,Good experience
+3751,3751,955,226,1,Very comfortable
+3752,3752,609,164,1,Great ride
+3753,3753,17,201,3,Good experience
+3754,3754,634,219,2,Good experience
+3755,3755,460,32,3,Average service
+3756,3756,110,331,1,Great ride
+3757,3757,476,129,5,Good experience
+3758,3758,11,103,2,Very comfortable
+3759,3759,202,368,3,Very comfortable
+3760,3760,32,479,5,Great ride
+3761,3761,731,248,4,Driver was polite
+3762,3762,128,13,1,Very comfortable
+3763,3763,920,188,3,Good experience
+3764,3764,536,85,2,Very comfortable
+3765,3765,185,17,2,Good experience
+3766,3766,673,389,5,Very comfortable
+3767,3767,68,435,5,Very comfortable
+3768,3768,857,483,5,Driver was polite
+3769,3769,64,353,4,Very comfortable
+3770,3770,803,380,5,Good experience
+3771,3771,351,488,4,Could be better
+3772,3772,273,223,3,Very comfortable
+3773,3773,20,210,1,Great ride
+3774,3774,125,114,2,Could be better
+3775,3775,150,71,4,Driver was polite
+3776,3776,115,213,3,Very comfortable
+3777,3777,673,495,2,Very comfortable
+3778,3778,505,445,5,Could be better
+3779,3779,786,176,5,Average service
+3780,3780,674,494,2,Good experience
+3781,3781,77,180,5,Great ride
+3782,3782,969,150,5,Driver was polite
+3783,3783,330,457,4,Driver was polite
+3784,3784,380,327,3,Average service
+3785,3785,865,140,1,Very comfortable
+3786,3786,236,199,3,Great ride
+3787,3787,899,237,5,Average service
+3788,3788,858,97,5,Very comfortable
+3789,3789,791,252,1,Average service
+3790,3790,426,320,5,Driver was polite
+3791,3791,804,264,3,Very comfortable
+3792,3792,124,221,1,Great ride
+3793,3793,409,28,5,Good experience
+3794,3794,910,454,3,Very comfortable
+3795,3795,451,198,3,Good experience
+3796,3796,871,21,3,Driver was polite
+3797,3797,374,14,3,Good experience
+3798,3798,592,421,2,Good experience
+3799,3799,41,41,5,Great ride
+3800,3800,12,267,4,Very comfortable
+3801,3801,849,134,3,Very comfortable
+3802,3802,965,351,5,Great ride
+3803,3803,223,179,1,Could be better
+3804,3804,513,23,2,Very comfortable
+3805,3805,944,386,4,Average service
+3806,3806,302,95,1,Very comfortable
+3807,3807,906,182,5,Average service
+3808,3808,156,96,3,Good experience
+3809,3809,629,493,1,Driver was polite
+3810,3810,819,499,2,Could be better
+3811,3811,118,251,3,Good experience
+3812,3812,99,219,1,Great ride
+3813,3813,768,160,5,Great ride
+3814,3814,804,389,2,Good experience
+3815,3815,609,301,3,Could be better
+3816,3816,432,237,4,Great ride
+3817,3817,862,246,1,Great ride
+3818,3818,513,245,3,Great ride
+3819,3819,536,277,2,Could be better
+3820,3820,200,31,5,Good experience
+3821,3821,873,397,1,Very comfortable
+3822,3822,685,139,1,Driver was polite
+3823,3823,754,468,1,Very comfortable
+3824,3824,801,302,5,Great ride
+3825,3825,716,131,3,Could be better
+3826,3826,456,27,2,Great ride
+3827,3827,847,92,4,Great ride
+3828,3828,218,6,2,Great ride
+3829,3829,129,319,1,Great ride
+3830,3830,483,197,1,Great ride
+3831,3831,524,255,3,Average service
+3832,3832,487,429,4,Could be better
+3833,3833,491,102,2,Very comfortable
+3834,3834,576,14,2,Great ride
+3835,3835,186,371,4,Very comfortable
+3836,3836,647,377,1,Great ride
+3837,3837,11,331,4,Very comfortable
+3838,3838,848,465,5,Good experience
+3839,3839,495,157,1,Very comfortable
+3840,3840,746,422,3,Very comfortable
+3841,3841,576,53,2,Good experience
+3842,3842,453,29,2,Could be better
+3843,3843,876,45,2,Good experience
+3844,3844,188,48,1,Driver was polite
+3845,3845,92,431,1,Good experience
+3846,3846,192,137,5,Driver was polite
+3847,3847,2,321,5,Could be better
+3848,3848,717,452,2,Good experience
+3849,3849,62,418,3,Driver was polite
+3850,3850,742,491,2,Could be better
+3851,3851,333,39,5,Could be better
+3852,3852,679,394,5,Good experience
+3853,3853,642,98,1,Driver was polite
+3854,3854,966,30,1,Great ride
+3855,3855,55,196,1,Good experience
+3856,3856,516,25,5,Great ride
+3857,3857,560,183,4,Great ride
+3858,3858,791,307,1,Great ride
+3859,3859,298,64,3,Great ride
+3860,3860,180,13,2,Driver was polite
+3861,3861,551,152,3,Good experience
+3862,3862,903,446,4,Very comfortable
+3863,3863,187,39,4,Great ride
+3864,3864,503,63,1,Average service
+3865,3865,984,362,2,Very comfortable
+3866,3866,538,375,2,Very comfortable
+3867,3867,229,422,3,Good experience
+3868,3868,185,120,5,Average service
+3869,3869,114,104,4,Great ride
+3870,3870,134,298,5,Very comfortable
+3871,3871,369,137,4,Great ride
+3872,3872,265,297,4,Could be better
+3873,3873,778,480,3,Great ride
+3874,3874,267,127,4,Could be better
+3875,3875,49,260,2,Could be better
+3876,3876,979,62,1,Very comfortable
+3877,3877,440,228,1,Great ride
+3878,3878,39,445,3,Driver was polite
+3879,3879,458,407,4,Good experience
+3880,3880,993,384,1,Could be better
+3881,3881,594,235,4,Great ride
+3882,3882,231,427,1,Good experience
+3883,3883,135,74,1,Great ride
+3884,3884,692,93,3,Very comfortable
+3885,3885,955,423,3,Good experience
+3886,3886,72,59,3,Could be better
+3887,3887,565,493,5,Great ride
+3888,3888,269,85,5,Good experience
+3889,3889,209,211,4,Could be better
+3890,3890,913,419,5,Could be better
+3891,3891,308,132,1,Could be better
+3892,3892,691,484,4,Very comfortable
+3893,3893,518,338,1,Could be better
+3894,3894,889,274,5,Driver was polite
+3895,3895,885,231,2,Average service
+3896,3896,442,52,1,Great ride
+3897,3897,115,242,2,Could be better
+3898,3898,209,378,3,Great ride
+3899,3899,175,423,2,Very comfortable
+3900,3900,530,47,1,Very comfortable
+3901,3901,326,429,3,Could be better
+3902,3902,860,232,4,Driver was polite
+3903,3903,554,118,5,Could be better
+3904,3904,661,217,5,Good experience
+3905,3905,539,333,2,Good experience
+3906,3906,251,94,5,Good experience
+3907,3907,813,456,4,Driver was polite
+3908,3908,815,374,5,Average service
+3909,3909,729,422,5,Driver was polite
+3910,3910,419,70,2,Driver was polite
+3911,3911,203,223,5,Average service
+3912,3912,235,347,5,Driver was polite
+3913,3913,547,268,1,Driver was polite
+3914,3914,343,421,4,Driver was polite
+3915,3915,44,211,4,Great ride
+3916,3916,479,185,3,Good experience
+3917,3917,885,215,4,Average service
+3918,3918,273,70,5,Great ride
+3919,3919,931,332,1,Great ride
+3920,3920,534,343,1,Driver was polite
+3921,3921,25,488,1,Driver was polite
+3922,3922,57,184,2,Very comfortable
+3923,3923,935,137,4,Average service
+3924,3924,315,16,2,Could be better
+3925,3925,529,380,3,Average service
+3926,3926,859,298,2,Great ride
+3927,3927,851,220,2,Very comfortable
+3928,3928,124,262,2,Average service
+3929,3929,223,376,3,Average service
+3930,3930,310,17,4,Could be better
+3931,3931,911,467,1,Great ride
+3932,3932,122,90,5,Driver was polite
+3933,3933,934,437,2,Average service
+3934,3934,722,105,5,Good experience
+3935,3935,132,183,5,Average service
+3936,3936,801,240,5,Great ride
+3937,3937,878,230,1,Driver was polite
+3938,3938,164,486,3,Good experience
+3939,3939,980,284,1,Very comfortable
+3940,3940,568,202,1,Very comfortable
+3941,3941,23,172,2,Very comfortable
+3942,3942,528,310,2,Driver was polite
+3943,3943,332,204,4,Very comfortable
+3944,3944,126,459,2,Very comfortable
+3945,3945,21,2,2,Could be better
+3946,3946,126,421,2,Could be better
+3947,3947,898,384,3,Good experience
+3948,3948,688,198,1,Average service
+3949,3949,948,467,5,Great ride
+3950,3950,835,398,1,Driver was polite
+3951,3951,876,398,1,Could be better
+3952,3952,346,368,2,Average service
+3953,3953,532,43,5,Average service
+3954,3954,140,249,3,Good experience
+3955,3955,390,217,5,Average service
+3956,3956,40,279,3,Good experience
+3957,3957,481,319,3,Average service
+3958,3958,723,209,1,Driver was polite
+3959,3959,131,474,1,Very comfortable
+3960,3960,649,245,3,Could be better
+3961,3961,505,327,5,Could be better
+3962,3962,695,135,2,Could be better
+3963,3963,597,321,2,Good experience
+3964,3964,274,85,3,Good experience
+3965,3965,595,153,5,Could be better
+3966,3966,338,346,4,Could be better
+3967,3967,679,293,5,Very comfortable
+3968,3968,836,226,4,Good experience
+3969,3969,776,6,4,Good experience
+3970,3970,697,50,3,Very comfortable
+3971,3971,812,282,4,Could be better
+3972,3972,437,149,4,Average service
+3973,3973,287,99,1,Driver was polite
+3974,3974,91,254,5,Could be better
+3975,3975,171,483,3,Great ride
+3976,3976,869,333,3,Good experience
+3977,3977,11,481,3,Very comfortable
+3978,3978,211,186,1,Could be better
+3979,3979,522,401,2,Average service
+3980,3980,784,500,3,Very comfortable
+3981,3981,570,399,1,Average service
+3982,3982,904,326,1,Great ride
+3983,3983,502,20,5,Good experience
+3984,3984,185,162,2,Very comfortable
+3985,3985,28,97,2,Could be better
+3986,3986,287,190,5,Could be better
+3987,3987,450,476,4,Average service
+3988,3988,168,391,5,Very comfortable
+3989,3989,597,126,5,Very comfortable
+3990,3990,748,17,3,Great ride
+3991,3991,538,363,3,Could be better
+3992,3992,711,469,4,Very comfortable
+3993,3993,107,20,1,Great ride
+3994,3994,29,61,5,Average service
+3995,3995,754,308,3,Great ride
+3996,3996,863,81,2,Driver was polite
+3997,3997,209,464,3,Average service
+3998,3998,894,458,1,Good experience
+3999,3999,751,494,3,Great ride
+4000,4000,989,38,5,Very comfortable
+4001,4001,457,109,4,Great ride
+4002,4002,479,149,2,Could be better
+4003,4003,183,10,4,Driver was polite
+4004,4004,33,429,2,Great ride
+4005,4005,427,365,4,Good experience
+4006,4006,180,324,5,Driver was polite
+4007,4007,220,322,1,Average service
+4008,4008,638,114,5,Good experience
+4009,4009,595,331,2,Driver was polite
+4010,4010,619,495,1,Good experience
+4011,4011,823,193,2,Average service
+4012,4012,826,242,1,Good experience
+4013,4013,685,354,3,Great ride
+4014,4014,244,198,4,Could be better
+4015,4015,772,413,4,Could be better
+4016,4016,240,148,5,Good experience
+4017,4017,56,483,1,Driver was polite
+4018,4018,49,472,5,Driver was polite
+4019,4019,277,435,1,Great ride
+4020,4020,240,218,1,Driver was polite
+4021,4021,66,46,5,Could be better
+4022,4022,445,168,2,Great ride
+4023,4023,801,352,3,Good experience
+4024,4024,640,444,3,Very comfortable
+4025,4025,446,262,3,Very comfortable
+4026,4026,81,203,5,Great ride
+4027,4027,475,260,4,Very comfortable
+4028,4028,879,87,3,Great ride
+4029,4029,469,270,5,Very comfortable
+4030,4030,384,390,1,Could be better
+4031,4031,579,99,1,Very comfortable
+4032,4032,536,357,2,Great ride
+4033,4033,620,135,5,Average service
+4034,4034,317,364,5,Great ride
+4035,4035,340,101,3,Great ride
+4036,4036,234,11,1,Could be better
+4037,4037,769,69,3,Could be better
+4038,4038,987,323,5,Great ride
+4039,4039,154,183,1,Great ride
+4040,4040,138,116,5,Great ride
+4041,4041,91,55,2,Very comfortable
+4042,4042,514,13,2,Great ride
+4043,4043,59,399,5,Could be better
+4044,4044,154,88,4,Average service
+4045,4045,682,13,4,Average service
+4046,4046,872,83,4,Very comfortable
+4047,4047,374,68,1,Average service
+4048,4048,615,438,1,Driver was polite
+4049,4049,14,243,3,Good experience
+4050,4050,863,205,5,Good experience
+4051,4051,1000,266,3,Average service
+4052,4052,373,431,4,Great ride
+4053,4053,41,156,3,Great ride
+4054,4054,317,376,1,Average service
+4055,4055,127,239,2,Driver was polite
+4056,4056,927,406,2,Very comfortable
+4057,4057,673,118,5,Could be better
+4058,4058,975,195,4,Good experience
+4059,4059,92,123,3,Great ride
+4060,4060,258,117,1,Great ride
+4061,4061,363,267,4,Could be better
+4062,4062,911,256,3,Could be better
+4063,4063,975,161,1,Great ride
+4064,4064,547,430,4,Very comfortable
+4065,4065,854,13,2,Driver was polite
+4066,4066,525,445,5,Could be better
+4067,4067,721,273,3,Average service
+4068,4068,607,172,3,Great ride
+4069,4069,484,135,2,Good experience
+4070,4070,662,281,3,Good experience
+4071,4071,80,145,2,Very comfortable
+4072,4072,150,190,3,Great ride
+4073,4073,391,433,5,Good experience
+4074,4074,465,333,2,Good experience
+4075,4075,153,52,2,Driver was polite
+4076,4076,879,358,5,Good experience
+4077,4077,125,253,2,Could be better
+4078,4078,42,344,2,Average service
+4079,4079,210,381,2,Very comfortable
+4080,4080,625,249,2,Driver was polite
+4081,4081,939,247,3,Very comfortable
+4082,4082,454,56,3,Great ride
+4083,4083,873,439,5,Could be better
+4084,4084,218,397,4,Driver was polite
+4085,4085,730,345,5,Great ride
+4086,4086,231,339,5,Average service
+4087,4087,785,338,5,Good experience
+4088,4088,741,149,4,Driver was polite
+4089,4089,760,238,5,Could be better
+4090,4090,191,16,1,Good experience
+4091,4091,861,170,3,Average service
+4092,4092,543,390,5,Could be better
+4093,4093,465,215,1,Good experience
+4094,4094,658,154,2,Could be better
+4095,4095,581,322,4,Good experience
+4096,4096,846,196,3,Very comfortable
+4097,4097,585,29,3,Average service
+4098,4098,371,225,5,Very comfortable
+4099,4099,51,316,1,Could be better
+4100,4100,197,229,3,Very comfortable
+4101,4101,453,412,5,Driver was polite
+4102,4102,297,419,2,Could be better
+4103,4103,591,328,5,Average service
+4104,4104,909,414,5,Average service
+4105,4105,103,112,4,Great ride
+4106,4106,427,432,5,Great ride
+4107,4107,230,114,5,Average service
+4108,4108,253,5,4,Could be better
+4109,4109,41,53,2,Could be better
+4110,4110,764,310,4,Average service
+4111,4111,605,115,5,Great ride
+4112,4112,36,229,2,Could be better
+4113,4113,580,350,4,Great ride
+4114,4114,460,458,4,Could be better
+4115,4115,969,280,1,Driver was polite
+4116,4116,608,436,3,Driver was polite
+4117,4117,727,204,5,Very comfortable
+4118,4118,781,341,4,Very comfortable
+4119,4119,870,375,1,Great ride
+4120,4120,783,17,1,Very comfortable
+4121,4121,10,206,3,Very comfortable
+4122,4122,242,284,1,Good experience
+4123,4123,705,280,2,Average service
+4124,4124,635,216,1,Very comfortable
+4125,4125,936,348,4,Very comfortable
+4126,4126,855,28,4,Great ride
+4127,4127,607,24,4,Great ride
+4128,4128,801,265,2,Good experience
+4129,4129,892,214,4,Great ride
+4130,4130,476,200,1,Very comfortable
+4131,4131,731,448,1,Good experience
+4132,4132,924,147,2,Could be better
+4133,4133,828,281,5,Great ride
+4134,4134,994,65,4,Could be better
+4135,4135,660,124,2,Great ride
+4136,4136,823,411,2,Could be better
+4137,4137,905,74,5,Very comfortable
+4138,4138,423,254,1,Could be better
+4139,4139,334,265,1,Good experience
+4140,4140,353,200,2,Great ride
+4141,4141,898,41,4,Could be better
+4142,4142,548,463,5,Average service
+4143,4143,454,70,5,Could be better
+4144,4144,171,461,3,Could be better
+4145,4145,485,276,3,Very comfortable
+4146,4146,666,352,1,Driver was polite
+4147,4147,528,144,1,Driver was polite
+4148,4148,409,410,1,Good experience
+4149,4149,764,386,4,Great ride
+4150,4150,666,429,1,Could be better
+4151,4151,341,238,3,Good experience
+4152,4152,277,152,1,Good experience
+4153,4153,664,86,5,Good experience
+4154,4154,606,234,3,Average service
+4155,4155,66,193,3,Average service
+4156,4156,953,329,2,Driver was polite
+4157,4157,249,10,4,Good experience
+4158,4158,99,67,1,Driver was polite
+4159,4159,734,290,4,Great ride
+4160,4160,154,78,2,Very comfortable
+4161,4161,681,301,1,Very comfortable
+4162,4162,943,408,2,Driver was polite
+4163,4163,605,44,4,Average service
+4164,4164,20,408,5,Very comfortable
+4165,4165,388,438,3,Driver was polite
+4166,4166,67,447,5,Driver was polite
+4167,4167,620,45,1,Could be better
+4168,4168,154,338,1,Very comfortable
+4169,4169,261,458,2,Average service
+4170,4170,507,13,4,Very comfortable
+4171,4171,651,415,5,Average service
+4172,4172,526,185,3,Very comfortable
+4173,4173,331,75,3,Driver was polite
+4174,4174,789,250,3,Could be better
+4175,4175,99,241,2,Average service
+4176,4176,736,223,3,Very comfortable
+4177,4177,10,467,3,Great ride
+4178,4178,733,271,3,Good experience
+4179,4179,172,453,1,Great ride
+4180,4180,534,163,5,Could be better
+4181,4181,637,180,5,Could be better
+4182,4182,222,319,1,Very comfortable
+4183,4183,385,325,2,Could be better
+4184,4184,598,248,4,Very comfortable
+4185,4185,540,341,3,Very comfortable
+4186,4186,348,43,1,Could be better
+4187,4187,153,216,4,Great ride
+4188,4188,73,319,5,Very comfortable
+4189,4189,33,136,4,Great ride
+4190,4190,230,68,4,Very comfortable
+4191,4191,886,219,2,Driver was polite
+4192,4192,83,474,4,Driver was polite
+4193,4193,81,479,5,Could be better
+4194,4194,64,482,4,Driver was polite
+4195,4195,682,116,2,Driver was polite
+4196,4196,264,93,3,Driver was polite
+4197,4197,591,202,4,Good experience
+4198,4198,316,185,2,Very comfortable
+4199,4199,793,125,2,Very comfortable
+4200,4200,423,249,1,Good experience
+4201,4201,481,288,2,Great ride
+4202,4202,114,349,1,Good experience
+4203,4203,406,445,4,Average service
+4204,4204,283,159,4,Driver was polite
+4205,4205,833,373,5,Driver was polite
+4206,4206,409,332,3,Very comfortable
+4207,4207,831,53,2,Average service
+4208,4208,693,87,3,Driver was polite
+4209,4209,267,423,2,Great ride
+4210,4210,690,224,5,Very comfortable
+4211,4211,338,489,4,Average service
+4212,4212,102,287,2,Average service
+4213,4213,172,305,1,Good experience
+4214,4214,507,381,4,Great ride
+4215,4215,690,1,5,Good experience
+4216,4216,801,21,5,Driver was polite
+4217,4217,666,251,3,Driver was polite
+4218,4218,838,265,2,Great ride
+4219,4219,629,489,3,Great ride
+4220,4220,839,146,2,Very comfortable
+4221,4221,489,350,5,Driver was polite
+4222,4222,398,156,4,Very comfortable
+4223,4223,515,25,2,Average service
+4224,4224,543,67,1,Good experience
+4225,4225,142,95,5,Very comfortable
+4226,4226,522,314,4,Great ride
+4227,4227,730,169,2,Could be better
+4228,4228,755,14,5,Average service
+4229,4229,942,190,4,Average service
+4230,4230,568,29,4,Good experience
+4231,4231,101,440,3,Great ride
+4232,4232,92,271,1,Average service
+4233,4233,454,54,2,Very comfortable
+4234,4234,655,358,5,Good experience
+4235,4235,323,71,4,Could be better
+4236,4236,311,74,5,Average service
+4237,4237,550,367,5,Driver was polite
+4238,4238,410,258,5,Great ride
+4239,4239,329,38,2,Driver was polite
+4240,4240,66,392,4,Average service
+4241,4241,74,24,5,Average service
+4242,4242,705,27,3,Very comfortable
+4243,4243,859,379,2,Driver was polite
+4244,4244,39,178,3,Could be better
+4245,4245,222,130,5,Could be better
+4246,4246,712,318,4,Could be better
+4247,4247,374,49,3,Great ride
+4248,4248,613,229,4,Average service
+4249,4249,29,75,4,Very comfortable
+4250,4250,384,441,4,Average service
+4251,4251,160,421,4,Average service
+4252,4252,231,276,1,Driver was polite
+4253,4253,192,264,1,Good experience
+4254,4254,469,273,3,Great ride
+4255,4255,516,303,2,Good experience
+4256,4256,59,375,5,Great ride
+4257,4257,363,144,5,Driver was polite
+4258,4258,837,4,5,Driver was polite
+4259,4259,384,150,4,Good experience
+4260,4260,340,7,5,Good experience
+4261,4261,817,462,4,Great ride
+4262,4262,952,38,5,Driver was polite
+4263,4263,616,475,3,Good experience
+4264,4264,966,76,5,Driver was polite
+4265,4265,723,443,5,Great ride
+4266,4266,212,191,2,Could be better
+4267,4267,518,226,2,Average service
+4268,4268,709,354,3,Average service
+4269,4269,210,370,3,Could be better
+4270,4270,370,478,3,Could be better
+4271,4271,312,143,2,Great ride
+4272,4272,721,61,2,Great ride
+4273,4273,666,378,1,Could be better
+4274,4274,675,390,4,Great ride
+4275,4275,253,296,1,Driver was polite
+4276,4276,595,448,1,Good experience
+4277,4277,223,333,5,Very comfortable
+4278,4278,365,404,1,Good experience
+4279,4279,682,321,4,Average service
+4280,4280,750,289,4,Great ride
+4281,4281,21,350,3,Average service
+4282,4282,977,325,5,Very comfortable
+4283,4283,211,253,5,Could be better
+4284,4284,756,328,2,Average service
+4285,4285,375,129,3,Good experience
+4286,4286,615,23,5,Good experience
+4287,4287,871,437,2,Driver was polite
+4288,4288,758,4,3,Could be better
+4289,4289,223,262,3,Great ride
+4290,4290,603,224,5,Could be better
+4291,4291,209,336,4,Great ride
+4292,4292,771,491,5,Driver was polite
+4293,4293,133,122,5,Great ride
+4294,4294,969,266,3,Could be better
+4295,4295,686,490,2,Driver was polite
+4296,4296,349,75,2,Could be better
+4297,4297,139,119,3,Driver was polite
+4298,4298,920,173,2,Could be better
+4299,4299,63,35,5,Very comfortable
+4300,4300,419,479,2,Very comfortable
+4301,4301,348,428,5,Average service
+4302,4302,526,331,5,Could be better
+4303,4303,871,218,3,Average service
+4304,4304,721,215,4,Good experience
+4305,4305,873,364,5,Good experience
+4306,4306,417,322,5,Very comfortable
+4307,4307,464,193,4,Could be better
+4308,4308,712,185,3,Good experience
+4309,4309,796,466,4,Great ride
+4310,4310,206,126,5,Good experience
+4311,4311,749,291,5,Average service
+4312,4312,865,411,4,Driver was polite
+4313,4313,192,428,3,Very comfortable
+4314,4314,609,321,1,Could be better
+4315,4315,904,256,4,Good experience
+4316,4316,185,133,5,Great ride
+4317,4317,15,463,5,Could be better
+4318,4318,212,330,3,Average service
+4319,4319,455,375,2,Very comfortable
+4320,4320,378,490,4,Good experience
+4321,4321,717,347,2,Average service
+4322,4322,881,376,3,Driver was polite
+4323,4323,377,60,2,Average service
+4324,4324,596,226,2,Great ride
+4325,4325,138,257,2,Driver was polite
+4326,4326,122,166,1,Good experience
+4327,4327,811,419,4,Driver was polite
+4328,4328,857,361,1,Average service
+4329,4329,796,54,1,Good experience
+4330,4330,138,458,2,Average service
+4331,4331,211,348,4,Very comfortable
+4332,4332,724,313,4,Good experience
+4333,4333,621,491,1,Average service
+4334,4334,526,462,1,Very comfortable
+4335,4335,100,490,4,Driver was polite
+4336,4336,386,453,3,Could be better
+4337,4337,157,254,5,Could be better
+4338,4338,300,189,2,Could be better
+4339,4339,74,485,1,Great ride
+4340,4340,366,426,1,Good experience
+4341,4341,469,431,1,Very comfortable
+4342,4342,371,447,5,Could be better
+4343,4343,291,181,2,Average service
+4344,4344,754,435,3,Great ride
+4345,4345,966,231,4,Good experience
+4346,4346,819,248,1,Good experience
+4347,4347,443,12,5,Could be better
+4348,4348,238,416,4,Driver was polite
+4349,4349,38,128,5,Could be better
+4350,4350,210,113,2,Good experience
+4351,4351,963,37,2,Average service
+4352,4352,214,321,1,Very comfortable
+4353,4353,498,309,3,Good experience
+4354,4354,996,368,4,Great ride
+4355,4355,891,255,4,Could be better
+4356,4356,418,348,2,Could be better
+4357,4357,170,328,4,Great ride
+4358,4358,814,384,2,Very comfortable
+4359,4359,971,238,3,Average service
+4360,4360,625,462,2,Very comfortable
+4361,4361,945,496,2,Driver was polite
+4362,4362,272,280,5,Great ride
+4363,4363,340,104,4,Very comfortable
+4364,4364,620,216,3,Driver was polite
+4365,4365,68,471,4,Driver was polite
+4366,4366,566,217,3,Good experience
+4367,4367,671,178,1,Could be better
+4368,4368,719,402,5,Very comfortable
+4369,4369,347,250,3,Very comfortable
+4370,4370,63,178,1,Average service
+4371,4371,521,232,1,Very comfortable
+4372,4372,417,219,3,Could be better
+4373,4373,350,451,3,Good experience
+4374,4374,402,470,5,Could be better
+4375,4375,536,493,3,Driver was polite
+4376,4376,689,111,1,Great ride
+4377,4377,149,45,5,Could be better
+4378,4378,387,73,2,Very comfortable
+4379,4379,323,441,4,Very comfortable
+4380,4380,977,185,3,Average service
+4381,4381,993,434,5,Great ride
+4382,4382,306,128,5,Average service
+4383,4383,800,222,1,Driver was polite
+4384,4384,517,124,3,Good experience
+4385,4385,521,394,3,Could be better
+4386,4386,437,134,3,Could be better
+4387,4387,951,405,3,Could be better
+4388,4388,866,385,5,Average service
+4389,4389,981,481,5,Driver was polite
+4390,4390,350,104,2,Driver was polite
+4391,4391,802,182,5,Driver was polite
+4392,4392,712,409,3,Good experience
+4393,4393,602,320,5,Could be better
+4394,4394,565,379,3,Good experience
+4395,4395,197,429,3,Good experience
+4396,4396,562,51,3,Great ride
+4397,4397,744,82,4,Could be better
+4398,4398,676,355,3,Great ride
+4399,4399,485,327,5,Driver was polite
+4400,4400,973,315,1,Very comfortable
+4401,4401,299,156,4,Average service
+4402,4402,779,36,5,Driver was polite
+4403,4403,353,244,1,Average service
+4404,4404,961,178,2,Average service
+4405,4405,606,333,5,Good experience
+4406,4406,417,84,4,Could be better
+4407,4407,38,192,3,Great ride
+4408,4408,396,136,2,Good experience
+4409,4409,894,90,2,Could be better
+4410,4410,610,252,3,Great ride
+4411,4411,549,340,3,Good experience
+4412,4412,943,395,2,Driver was polite
+4413,4413,670,347,5,Great ride
+4414,4414,433,23,4,Good experience
+4415,4415,978,23,1,Driver was polite
+4416,4416,878,241,3,Good experience
+4417,4417,981,346,5,Average service
+4418,4418,945,244,4,Driver was polite
+4419,4419,389,222,4,Average service
+4420,4420,444,183,4,Very comfortable
+4421,4421,615,241,5,Average service
+4422,4422,587,372,4,Could be better
+4423,4423,784,381,4,Driver was polite
+4424,4424,486,408,2,Driver was polite
+4425,4425,503,278,3,Good experience
+4426,4426,506,89,4,Good experience
+4427,4427,595,451,2,Driver was polite
+4428,4428,158,404,1,Driver was polite
+4429,4429,572,275,1,Driver was polite
+4430,4430,797,166,2,Driver was polite
+4431,4431,937,338,5,Very comfortable
+4432,4432,418,202,5,Very comfortable
+4433,4433,314,3,3,Good experience
+4434,4434,112,25,3,Very comfortable
+4435,4435,379,302,4,Great ride
+4436,4436,45,438,5,Good experience
+4437,4437,880,472,2,Could be better
+4438,4438,20,464,3,Driver was polite
+4439,4439,227,50,4,Average service
+4440,4440,818,464,4,Could be better
+4441,4441,638,304,4,Could be better
+4442,4442,67,6,3,Could be better
+4443,4443,699,401,2,Good experience
+4444,4444,559,222,2,Great ride
+4445,4445,181,12,4,Good experience
+4446,4446,867,40,4,Good experience
+4447,4447,868,153,2,Driver was polite
+4448,4448,906,54,5,Very comfortable
+4449,4449,865,385,3,Average service
+4450,4450,675,5,2,Very comfortable
+4451,4451,401,250,3,Great ride
+4452,4452,994,259,5,Driver was polite
+4453,4453,141,324,5,Very comfortable
+4454,4454,753,155,5,Driver was polite
+4455,4455,102,139,1,Good experience
+4456,4456,310,200,1,Very comfortable
+4457,4457,607,302,1,Great ride
+4458,4458,228,67,5,Good experience
+4459,4459,585,181,3,Good experience
+4460,4460,722,477,5,Driver was polite
+4461,4461,175,437,4,Average service
+4462,4462,789,255,2,Driver was polite
+4463,4463,597,142,4,Good experience
+4464,4464,515,360,5,Very comfortable
+4465,4465,322,261,3,Great ride
+4466,4466,680,15,2,Very comfortable
+4467,4467,340,117,1,Average service
+4468,4468,44,22,3,Good experience
+4469,4469,464,264,4,Very comfortable
+4470,4470,811,180,5,Average service
+4471,4471,518,465,1,Could be better
+4472,4472,515,274,3,Great ride
+4473,4473,368,493,5,Average service
+4474,4474,209,111,4,Good experience
+4475,4475,268,97,1,Average service
+4476,4476,621,454,2,Good experience
+4477,4477,772,450,4,Great ride
+4478,4478,9,320,5,Could be better
+4479,4479,954,379,5,Great ride
+4480,4480,351,214,3,Average service
+4481,4481,517,411,5,Great ride
+4482,4482,417,35,2,Very comfortable
+4483,4483,687,452,1,Could be better
+4484,4484,625,234,5,Great ride
+4485,4485,971,40,4,Could be better
+4486,4486,882,15,2,Good experience
+4487,4487,996,380,3,Could be better
+4488,4488,948,216,3,Very comfortable
+4489,4489,416,98,1,Average service
+4490,4490,269,291,2,Driver was polite
+4491,4491,904,198,4,Great ride
+4492,4492,800,396,4,Very comfortable
+4493,4493,656,450,5,Average service
+4494,4494,682,326,5,Great ride
+4495,4495,500,142,3,Average service
+4496,4496,67,88,1,Driver was polite
+4497,4497,110,290,1,Good experience
+4498,4498,928,493,3,Good experience
+4499,4499,126,453,2,Very comfortable
+4500,4500,697,323,5,Very comfortable
+4501,4501,829,350,1,Average service
+4502,4502,772,49,1,Very comfortable
+4503,4503,975,321,2,Driver was polite
+4504,4504,274,490,4,Average service
+4505,4505,295,421,5,Average service
+4506,4506,921,311,4,Could be better
+4507,4507,993,52,5,Great ride
+4508,4508,623,219,3,Very comfortable
+4509,4509,563,7,1,Great ride
+4510,4510,828,244,1,Very comfortable
+4511,4511,158,354,1,Good experience
+4512,4512,849,385,2,Good experience
+4513,4513,656,107,2,Great ride
+4514,4514,690,45,5,Could be better
+4515,4515,732,24,2,Driver was polite
+4516,4516,543,440,1,Great ride
+4517,4517,582,393,2,Average service
+4518,4518,912,273,3,Very comfortable
+4519,4519,329,8,4,Could be better
+4520,4520,977,329,4,Great ride
+4521,4521,600,31,5,Very comfortable
+4522,4522,386,359,3,Great ride
+4523,4523,346,352,2,Great ride
+4524,4524,463,449,3,Driver was polite
+4525,4525,55,449,5,Driver was polite
+4526,4526,479,369,3,Good experience
+4527,4527,471,138,3,Good experience
+4528,4528,147,136,3,Great ride
+4529,4529,519,498,4,Driver was polite
+4530,4530,558,21,5,Could be better
+4531,4531,706,284,3,Good experience
+4532,4532,792,151,5,Average service
+4533,4533,362,164,3,Good experience
+4534,4534,520,341,5,Great ride
+4535,4535,66,134,4,Good experience
+4536,4536,299,290,4,Driver was polite
+4537,4537,423,187,2,Very comfortable
+4538,4538,329,315,3,Average service
+4539,4539,753,396,1,Great ride
+4540,4540,599,79,5,Very comfortable
+4541,4541,943,266,3,Good experience
+4542,4542,779,34,2,Very comfortable
+4543,4543,518,331,2,Great ride
+4544,4544,159,174,1,Very comfortable
+4545,4545,649,181,5,Great ride
+4546,4546,854,110,3,Very comfortable
+4547,4547,822,189,3,Average service
+4548,4548,895,122,1,Very comfortable
+4549,4549,155,237,3,Could be better
+4550,4550,991,159,4,Average service
+4551,4551,923,82,1,Good experience
+4552,4552,586,212,4,Great ride
+4553,4553,565,101,2,Could be better
+4554,4554,537,400,5,Average service
+4555,4555,798,393,4,Great ride
+4556,4556,624,346,4,Average service
+4557,4557,680,144,1,Great ride
+4558,4558,792,113,5,Great ride
+4559,4559,936,129,2,Very comfortable
+4560,4560,414,126,4,Driver was polite
+4561,4561,685,97,2,Average service
+4562,4562,507,229,2,Good experience
+4563,4563,888,73,2,Average service
+4564,4564,452,278,4,Average service
+4565,4565,731,106,3,Great ride
+4566,4566,313,74,3,Could be better
+4567,4567,265,296,4,Driver was polite
+4568,4568,176,273,4,Driver was polite
+4569,4569,743,355,1,Very comfortable
+4570,4570,109,84,2,Great ride
+4571,4571,111,186,2,Very comfortable
+4572,4572,761,239,1,Average service
+4573,4573,316,293,5,Very comfortable
+4574,4574,277,431,2,Driver was polite
+4575,4575,975,178,5,Driver was polite
+4576,4576,476,54,2,Driver was polite
+4577,4577,508,78,4,Good experience
+4578,4578,599,151,4,Driver was polite
+4579,4579,875,272,4,Good experience
+4580,4580,789,28,5,Driver was polite
+4581,4581,167,102,2,Driver was polite
+4582,4582,797,32,1,Could be better
+4583,4583,660,134,4,Driver was polite
+4584,4584,641,243,3,Very comfortable
+4585,4585,469,451,5,Great ride
+4586,4586,996,234,2,Very comfortable
+4587,4587,824,498,3,Could be better
+4588,4588,614,90,5,Could be better
+4589,4589,10,382,2,Great ride
+4590,4590,182,114,1,Could be better
+4591,4591,857,13,1,Good experience
+4592,4592,85,480,3,Could be better
+4593,4593,430,395,1,Good experience
+4594,4594,788,355,1,Good experience
+4595,4595,12,267,4,Driver was polite
+4596,4596,55,268,3,Good experience
+4597,4597,868,136,3,Could be better
+4598,4598,977,486,5,Great ride
+4599,4599,55,192,5,Driver was polite
+4600,4600,196,102,2,Average service
+4601,4601,824,182,5,Good experience
+4602,4602,15,347,3,Great ride
+4603,4603,393,181,2,Could be better
+4604,4604,969,203,4,Great ride
+4605,4605,98,368,2,Good experience
+4606,4606,847,406,3,Very comfortable
+4607,4607,398,306,5,Average service
+4608,4608,257,311,4,Very comfortable
+4609,4609,62,278,3,Very comfortable
+4610,4610,48,80,4,Very comfortable
+4611,4611,597,112,2,Could be better
+4612,4612,712,392,4,Driver was polite
+4613,4613,433,387,2,Good experience
+4614,4614,854,471,3,Could be better
+4615,4615,359,345,1,Average service
+4616,4616,177,500,5,Very comfortable
+4617,4617,612,314,4,Could be better
+4618,4618,710,131,5,Great ride
+4619,4619,703,51,1,Average service
+4620,4620,890,91,2,Average service
+4621,4621,266,22,2,Could be better
+4622,4622,568,175,3,Good experience
+4623,4623,458,225,2,Great ride
+4624,4624,356,321,5,Very comfortable
+4625,4625,577,352,3,Could be better
+4626,4626,801,202,1,Could be better
+4627,4627,576,54,2,Driver was polite
+4628,4628,295,274,4,Driver was polite
+4629,4629,400,287,4,Good experience
+4630,4630,462,281,5,Could be better
+4631,4631,722,454,1,Great ride
+4632,4632,448,14,3,Average service
+4633,4633,721,464,5,Driver was polite
+4634,4634,71,128,4,Average service
+4635,4635,931,267,5,Driver was polite
+4636,4636,744,60,5,Good experience
+4637,4637,848,451,1,Great ride
+4638,4638,67,454,1,Very comfortable
+4639,4639,87,75,3,Very comfortable
+4640,4640,752,406,1,Driver was polite
+4641,4641,360,340,1,Average service
+4642,4642,673,181,1,Very comfortable
+4643,4643,784,350,4,Could be better
+4644,4644,138,414,3,Good experience
+4645,4645,745,253,5,Driver was polite
+4646,4646,153,172,5,Great ride
+4647,4647,537,159,1,Could be better
+4648,4648,857,382,1,Great ride
+4649,4649,205,216,4,Driver was polite
+4650,4650,460,129,4,Great ride
+4651,4651,923,321,5,Good experience
+4652,4652,314,88,2,Great ride
+4653,4653,614,21,1,Very comfortable
+4654,4654,209,15,3,Very comfortable
+4655,4655,256,323,1,Average service
+4656,4656,268,250,5,Great ride
+4657,4657,301,83,2,Could be better
+4658,4658,479,469,2,Could be better
+4659,4659,692,464,3,Great ride
+4660,4660,749,126,5,Good experience
+4661,4661,639,136,5,Great ride
+4662,4662,850,256,5,Great ride
+4663,4663,147,208,3,Very comfortable
+4664,4664,358,227,1,Could be better
+4665,4665,285,211,1,Great ride
+4666,4666,616,90,4,Very comfortable
+4667,4667,106,231,4,Could be better
+4668,4668,630,322,3,Good experience
+4669,4669,59,127,1,Average service
+4670,4670,454,432,4,Average service
+4671,4671,312,15,2,Driver was polite
+4672,4672,187,214,4,Driver was polite
+4673,4673,564,126,2,Driver was polite
+4674,4674,262,433,5,Average service
+4675,4675,187,212,3,Average service
+4676,4676,516,145,1,Could be better
+4677,4677,1000,341,3,Good experience
+4678,4678,926,53,4,Driver was polite
+4679,4679,774,86,3,Very comfortable
+4680,4680,480,294,2,Good experience
+4681,4681,65,129,3,Could be better
+4682,4682,534,453,3,Great ride
+4683,4683,101,77,2,Great ride
+4684,4684,821,85,3,Average service
+4685,4685,364,450,3,Could be better
+4686,4686,638,127,5,Good experience
+4687,4687,988,362,1,Good experience
+4688,4688,512,294,2,Good experience
+4689,4689,922,250,1,Could be better
+4690,4690,73,404,2,Very comfortable
+4691,4691,560,104,2,Very comfortable
+4692,4692,990,142,3,Great ride
+4693,4693,891,468,2,Very comfortable
+4694,4694,487,122,4,Very comfortable
+4695,4695,807,428,3,Average service
+4696,4696,992,421,5,Could be better
+4697,4697,868,337,4,Great ride
+4698,4698,522,417,2,Driver was polite
+4699,4699,874,367,4,Great ride
+4700,4700,993,63,2,Average service
+4701,4701,538,394,4,Driver was polite
+4702,4702,944,92,2,Average service
+4703,4703,320,8,4,Very comfortable
+4704,4704,419,319,2,Could be better
+4705,4705,500,84,4,Great ride
+4706,4706,512,324,2,Could be better
+4707,4707,900,304,5,Great ride
+4708,4708,857,284,3,Driver was polite
+4709,4709,596,34,3,Great ride
+4710,4710,42,14,4,Average service
+4711,4711,958,443,4,Very comfortable
+4712,4712,789,424,3,Could be better
+4713,4713,443,265,2,Great ride
+4714,4714,542,142,4,Could be better
+4715,4715,159,337,5,Good experience
+4716,4716,822,185,1,Average service
+4717,4717,948,139,3,Great ride
+4718,4718,47,373,1,Driver was polite
+4719,4719,748,123,4,Very comfortable
+4720,4720,145,470,1,Good experience
+4721,4721,372,399,2,Driver was polite
+4722,4722,426,482,2,Very comfortable
+4723,4723,223,420,5,Very comfortable
+4724,4724,89,159,1,Good experience
+4725,4725,41,44,2,Driver was polite
+4726,4726,574,130,5,Could be better
+4727,4727,211,430,2,Great ride
+4728,4728,167,122,5,Driver was polite
+4729,4729,634,193,5,Very comfortable
+4730,4730,284,96,3,Could be better
+4731,4731,103,90,4,Great ride
+4732,4732,990,233,5,Good experience
+4733,4733,164,310,1,Average service
+4734,4734,473,29,5,Average service
+4735,4735,524,108,5,Great ride
+4736,4736,554,455,3,Good experience
+4737,4737,694,410,1,Great ride
+4738,4738,859,212,2,Driver was polite
+4739,4739,607,276,1,Good experience
+4740,4740,979,349,1,Good experience
+4741,4741,922,215,2,Average service
+4742,4742,969,354,5,Could be better
+4743,4743,514,185,1,Good experience
+4744,4744,730,456,1,Average service
+4745,4745,537,98,3,Great ride
+4746,4746,39,466,3,Good experience
+4747,4747,329,328,5,Average service
+4748,4748,766,439,2,Good experience
+4749,4749,981,499,3,Good experience
+4750,4750,624,466,4,Could be better
+4751,4751,804,109,5,Good experience
+4752,4752,877,101,5,Average service
+4753,4753,150,154,3,Average service
+4754,4754,204,212,1,Good experience
+4755,4755,255,12,5,Could be better
+4756,4756,37,342,1,Could be better
+4757,4757,176,161,1,Driver was polite
+4758,4758,783,250,2,Could be better
+4759,4759,819,21,1,Very comfortable
+4760,4760,444,258,2,Average service
+4761,4761,66,322,3,Very comfortable
+4762,4762,79,417,2,Could be better
+4763,4763,68,306,3,Driver was polite
+4764,4764,938,408,2,Very comfortable
+4765,4765,607,359,4,Very comfortable
+4766,4766,554,434,2,Good experience
+4767,4767,606,211,3,Driver was polite
+4768,4768,386,327,4,Driver was polite
+4769,4769,306,13,3,Average service
+4770,4770,999,321,5,Average service
+4771,4771,777,342,3,Could be better
+4772,4772,460,231,2,Driver was polite
+4773,4773,4,328,3,Average service
+4774,4774,881,492,3,Average service
+4775,4775,224,321,5,Good experience
+4776,4776,593,245,3,Driver was polite
+4777,4777,238,432,1,Great ride
+4778,4778,380,343,4,Great ride
+4779,4779,761,450,3,Very comfortable
+4780,4780,798,383,4,Driver was polite
+4781,4781,904,288,1,Average service
+4782,4782,215,438,4,Could be better
+4783,4783,434,294,5,Good experience
+4784,4784,840,214,2,Good experience
+4785,4785,618,419,5,Good experience
+4786,4786,24,315,4,Very comfortable
+4787,4787,364,358,2,Average service
+4788,4788,85,166,5,Great ride
+4789,4789,869,13,1,Good experience
+4790,4790,465,209,3,Very comfortable
+4791,4791,477,104,3,Could be better
+4792,4792,207,389,4,Average service
+4793,4793,910,405,5,Great ride
+4794,4794,636,435,3,Good experience
+4795,4795,501,47,3,Average service
+4796,4796,706,122,2,Great ride
+4797,4797,886,365,1,Good experience
+4798,4798,306,438,4,Good experience
+4799,4799,234,140,5,Driver was polite
+4800,4800,321,465,1,Good experience
+4801,4801,268,189,4,Average service
+4802,4802,731,301,5,Great ride
+4803,4803,691,182,4,Good experience
+4804,4804,497,208,4,Good experience
+4805,4805,761,240,2,Average service
+4806,4806,655,491,4,Very comfortable
+4807,4807,473,74,2,Very comfortable
+4808,4808,62,446,2,Great ride
+4809,4809,545,71,1,Very comfortable
+4810,4810,979,147,1,Very comfortable
+4811,4811,871,30,1,Great ride
+4812,4812,276,404,3,Driver was polite
+4813,4813,677,303,1,Driver was polite
+4814,4814,20,204,5,Good experience
+4815,4815,976,72,1,Very comfortable
+4816,4816,737,263,1,Driver was polite
+4817,4817,707,75,5,Driver was polite
+4818,4818,16,398,1,Average service
+4819,4819,391,474,2,Great ride
+4820,4820,416,18,4,Great ride
+4821,4821,117,150,3,Could be better
+4822,4822,53,370,1,Great ride
+4823,4823,280,491,3,Could be better
+4824,4824,626,337,2,Could be better
+4825,4825,967,433,3,Driver was polite
+4826,4826,925,434,2,Could be better
+4827,4827,422,87,2,Very comfortable
+4828,4828,802,97,4,Good experience
+4829,4829,884,6,4,Could be better
+4830,4830,528,230,4,Great ride
+4831,4831,464,108,4,Driver was polite
+4832,4832,675,440,2,Driver was polite
+4833,4833,932,48,2,Could be better
+4834,4834,247,395,4,Good experience
+4835,4835,641,465,5,Average service
+4836,4836,665,95,1,Great ride
+4837,4837,846,85,1,Driver was polite
+4838,4838,310,479,4,Very comfortable
+4839,4839,288,433,5,Good experience
+4840,4840,7,318,5,Average service
+4841,4841,38,30,3,Could be better
+4842,4842,491,240,2,Could be better
+4843,4843,331,417,3,Great ride
+4844,4844,213,138,4,Driver was polite
+4845,4845,992,413,4,Could be better
+4846,4846,591,438,4,Average service
+4847,4847,467,91,1,Could be better
+4848,4848,854,157,3,Good experience
+4849,4849,563,423,1,Great ride
+4850,4850,647,67,2,Average service
+4851,4851,262,175,3,Average service
+4852,4852,428,288,1,Driver was polite
+4853,4853,302,443,5,Could be better
+4854,4854,82,330,2,Great ride
+4855,4855,868,368,1,Average service
+4856,4856,790,312,1,Average service
+4857,4857,996,120,3,Driver was polite
+4858,4858,698,189,5,Very comfortable
+4859,4859,634,414,4,Average service
+4860,4860,273,112,5,Could be better
+4861,4861,387,216,4,Good experience
+4862,4862,411,483,1,Very comfortable
+4863,4863,7,336,2,Good experience
+4864,4864,725,2,3,Could be better
+4865,4865,172,13,5,Driver was polite
+4866,4866,286,64,4,Average service
+4867,4867,891,433,2,Driver was polite
+4868,4868,253,382,4,Could be better
+4869,4869,901,468,3,Good experience
+4870,4870,360,46,4,Great ride
+4871,4871,786,363,2,Driver was polite
+4872,4872,114,141,3,Average service
+4873,4873,233,259,3,Good experience
+4874,4874,640,222,1,Very comfortable
+4875,4875,632,280,3,Very comfortable
+4876,4876,542,276,4,Driver was polite
+4877,4877,940,254,4,Average service
+4878,4878,596,7,5,Good experience
+4879,4879,337,482,1,Great ride
+4880,4880,938,500,4,Good experience
+4881,4881,627,176,3,Could be better
+4882,4882,861,388,4,Could be better
+4883,4883,998,402,5,Driver was polite
+4884,4884,652,442,5,Great ride
+4885,4885,407,417,1,Very comfortable
+4886,4886,344,123,2,Good experience
+4887,4887,786,174,2,Could be better
+4888,4888,613,361,5,Great ride
+4889,4889,138,433,3,Great ride
+4890,4890,118,477,5,Average service
+4891,4891,733,267,1,Great ride
+4892,4892,84,412,5,Very comfortable
+4893,4893,480,191,3,Great ride
+4894,4894,955,60,5,Average service
+4895,4895,439,466,5,Great ride
+4896,4896,252,345,1,Driver was polite
+4897,4897,330,385,1,Driver was polite
+4898,4898,325,470,1,Good experience
+4899,4899,462,252,4,Very comfortable
+4900,4900,324,437,2,Could be better
+4901,4901,942,132,5,Great ride
+4902,4902,374,481,4,Driver was polite
+4903,4903,935,118,2,Average service
+4904,4904,634,232,5,Great ride
+4905,4905,590,73,5,Driver was polite
+4906,4906,414,73,4,Great ride
+4907,4907,250,322,3,Good experience
+4908,4908,928,459,2,Great ride
+4909,4909,195,148,4,Great ride
+4910,4910,64,83,5,Great ride
+4911,4911,472,37,1,Great ride
+4912,4912,956,354,5,Average service
+4913,4913,586,130,3,Driver was polite
+4914,4914,677,268,2,Very comfortable
+4915,4915,483,310,4,Great ride
+4916,4916,430,261,5,Driver was polite
+4917,4917,1000,500,5,Very comfortable
+4918,4918,762,116,5,Great ride
+4919,4919,723,465,4,Very comfortable
+4920,4920,612,119,1,Could be better
+4921,4921,605,410,4,Could be better
+4922,4922,941,104,4,Driver was polite
+4923,4923,638,479,1,Average service
+4924,4924,882,161,1,Average service
+4925,4925,837,14,2,Great ride
+4926,4926,989,139,5,Driver was polite
+4927,4927,613,156,1,Great ride
+4928,4928,540,282,1,Good experience
+4929,4929,990,211,5,Very comfortable
+4930,4930,527,264,3,Very comfortable
+4931,4931,492,184,4,Could be better
+4932,4932,934,456,5,Great ride
+4933,4933,634,156,2,Great ride
+4934,4934,216,483,4,Average service
+4935,4935,727,1,2,Could be better
+4936,4936,243,71,1,Good experience
+4937,4937,87,353,2,Very comfortable
+4938,4938,741,116,2,Could be better
+4939,4939,932,429,1,Driver was polite
+4940,4940,559,153,4,Average service
+4941,4941,136,462,3,Great ride
+4942,4942,310,354,1,Average service
+4943,4943,542,117,5,Could be better
+4944,4944,99,339,4,Could be better
+4945,4945,904,187,4,Could be better
+4946,4946,65,66,5,Could be better
+4947,4947,738,225,2,Good experience
+4948,4948,506,467,2,Great ride
+4949,4949,997,286,3,Average service
+4950,4950,502,384,3,Very comfortable
+4951,4951,987,188,4,Could be better
+4952,4952,836,458,5,Good experience
+4953,4953,747,434,2,Could be better
+4954,4954,309,294,2,Driver was polite
+4955,4955,910,497,2,Great ride
+4956,4956,820,30,2,Great ride
+4957,4957,374,320,1,Driver was polite
+4958,4958,494,319,5,Could be better
+4959,4959,143,239,5,Average service
+4960,4960,876,121,5,Could be better
+4961,4961,17,237,4,Driver was polite
+4962,4962,166,283,3,Very comfortable
+4963,4963,130,291,3,Average service
+4964,4964,901,386,2,Average service
+4965,4965,665,333,2,Average service
+4966,4966,856,431,1,Driver was polite
+4967,4967,756,350,5,Good experience
+4968,4968,951,100,1,Very comfortable
+4969,4969,104,341,5,Good experience
+4970,4970,203,488,2,Average service
+4971,4971,351,464,3,Great ride
+4972,4972,244,183,5,Good experience
+4973,4973,923,27,1,Driver was polite
+4974,4974,91,272,5,Driver was polite
+4975,4975,288,217,5,Average service
+4976,4976,322,486,2,Good experience
+4977,4977,684,454,1,Great ride
+4978,4978,964,307,4,Great ride
+4979,4979,834,412,4,Average service
+4980,4980,560,431,5,Could be better
+4981,4981,897,120,3,Driver was polite
+4982,4982,437,158,1,Driver was polite
+4983,4983,586,332,1,Could be better
+4984,4984,599,352,2,Good experience
+4985,4985,896,143,4,Could be better
+4986,4986,845,168,4,Driver was polite
+4987,4987,427,291,5,Great ride
+4988,4988,760,358,3,Good experience
+4989,4989,874,500,4,Driver was polite
+4990,4990,883,323,4,Driver was polite
+4991,4991,761,130,1,Good experience
+4992,4992,853,158,4,Driver was polite
+4993,4993,71,130,1,Very comfortable
+4994,4994,876,231,4,Driver was polite
+4995,4995,449,88,5,Average service
+4996,4996,125,250,3,Very comfortable
+4997,4997,917,428,1,Good experience
+4998,4998,150,382,2,Great ride
+4999,4999,508,192,5,Very comfortable
+5000,5000,476,327,3,Average service
